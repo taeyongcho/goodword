@@ -1,212 +1,3652 @@
 [
   {
+    "id": 1,
     "text": "여러분의 시간은 한정되어 있다. 그러니 다른 사람의 삶을 사느라 시간을 낭비하지 마라.",
     "author": "스티브 잡스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/480px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg",
     "authorTitle": "창업자, Apple",
     "insight": "타인의 기대에 맞춰 사는 삶은 결국 내 것이 아니다. 시간이 유한하다는 자각이 생길 때 비로소 자기 기준으로 선택할 용기가 생긴다.",
-    "tag": "자기주도"
+    "tag": "자기주도",
+    "wikiTitle": "Steve Jobs"
   },
   {
+    "id": 2,
     "text": "나는 80세의 내가 후회를 최소화하길 바랐다. 그래서 안정 대신 도전을 택했다.",
     "author": "제프 베이조스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/480px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg",
     "authorTitle": "창업자, Amazon",
     "insight": "사람은 한 일보다 하지 않은 일을 더 오래 후회한다. 미래의 내가 어떤 선택을 칭찬할지 기준으로 삼으면 결정이 단순해진다.",
-    "tag": "결정"
+    "tag": "결정",
+    "wikiTitle": "Jeff Bezos"
   },
   {
+    "id": 3,
     "text": "남들이 두려워할 때 욕심내고, 남들이 욕심낼 때 두려워하라.",
     "author": "워런 버핏",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg/480px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg",
     "authorTitle": "회장, Berkshire Hathaway",
     "insight": "군중의 감정은 종종 기회와 반대 방향을 가리킨다. 다수가 공포에 휩싸인 순간이 오히려 가장 유리한 진입점일 때가 많다.",
-    "tag": "역발상"
+    "tag": "역발상",
+    "wikiTitle": "Warren Buffett"
   },
   {
+    "id": 4,
     "text": "거꾸로 생각하라. 항상 거꾸로 뒤집어 보라.",
     "author": "찰리 멍거",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Charlie_Munger_%28cropped%29.jpg/480px-Charlie_Munger_%28cropped%29.jpg",
     "authorTitle": "부회장, Berkshire Hathaway",
     "insight": "성공하는 법보다 망하는 법을 먼저 피하는 것이 더 강력하다. 문제를 반대편에서 보면 보이지 않던 함정이 드러난다.",
-    "tag": "사고법"
+    "tag": "사고법",
+    "wikiTitle": "Charlie Munger"
   },
   {
+    "id": 5,
     "text": "진짜 부는 당신이 잠든 사이에도 돈을 벌어주는 자산에서 나온다.",
     "author": "나발 라비칸트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Naval_Ravikant_%28cropped%29.jpg",
     "authorTitle": "창업자, AngelList",
     "insight": "시간을 파는 노동은 잠들면 멈추지만 자산은 멈추지 않는다. 레버리지를 가진 시스템을 만드는 것이 부의 핵심이다.",
-    "tag": "부"
+    "tag": "부",
+    "wikiTitle": "Naval Ravikant"
   },
   {
+    "id": 6,
     "text": "사람들이 원하는 것을 만들어라.",
     "author": "폴 그레이엄",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Paulgraham_240x320.jpg",
     "authorTitle": "공동창업자, Y Combinator",
     "insight": "대부분의 실패는 아무도 원하지 않는 것을 정교하게 만드는 데서 온다. 수요가 먼저고 완성도는 그다음이다.",
-    "tag": "창업"
+    "tag": "창업",
+    "wikiTitle": "Paul Graham (programmer)"
   },
   {
+    "id": 7,
     "text": "첫 버전이 부끄럽지 않다면, 너무 늦게 출시한 것이다.",
     "author": "리드 호프먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2022_Reid_Hoffman_%28cropped%29.jpg/480px-2022_Reid_Hoffman_%28cropped%29.jpg",
     "authorTitle": "공동창업자, LinkedIn",
     "insight": "완벽을 기다리는 동안 시장은 떠난다. 빠르게 내놓고 현실의 피드백으로 다듬는 편이 훨씬 빠르게 나아진다.",
-    "tag": "실행"
+    "tag": "실행",
+    "wikiTitle": "Reid Hoffman"
   },
   {
+    "id": 8,
     "text": "실패는 하나의 선택지다. 실패하지 않는다면 충분히 혁신하지 않은 것이다.",
     "author": "일론 머스크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/480px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
     "authorTitle": "CEO, Tesla",
     "insight": "실패가 전혀 없다는 것은 안전한 길만 골랐다는 신호다. 큰 도약에는 반드시 실패의 위험이 따른다.",
-    "tag": "도전"
+    "tag": "도전",
+    "wikiTitle": "Elon Musk"
   },
   {
+    "id": 9,
     "text": "경쟁은 패자들의 것이다.",
     "author": "피터 틸",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Peter_Thiel_by_Gage_Skidmore.jpg/480px-Peter_Thiel_by_Gage_Skidmore.jpg",
     "authorTitle": "공동창업자, PayPal",
     "insight": "모두가 뛰어드는 시장에서는 이익이 깎여나간다. 남이 보지 못한 영역에서 독점적 가치를 만드는 쪽이 승리한다.",
-    "tag": "전략"
+    "tag": "전략",
+    "wikiTitle": "Peter Thiel"
   },
   {
+    "id": 10,
     "text": "고통 더하기 성찰은 곧 성장이다.",
     "author": "레이 달리오",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Web_Summit_2018_-_Forum_-_Day_2%2C_November_7_HM1_7481_%2844858045925%29.jpg/480px-Web_Summit_2018_-_Forum_-_Day_2%2C_November_7_HM1_7481_%2844858045925%29.jpg",
     "authorTitle": "창업자, Bridgewater",
     "insight": "고통 자체는 성장을 주지 않는다. 그 위에 반성을 더할 때 같은 실수를 반복하지 않고 앞으로 나아간다.",
-    "tag": "성장"
+    "tag": "성장",
+    "wikiTitle": "Ray Dalio"
   },
   {
+    "id": 11,
     "text": "사람들은 1년에 할 수 있는 일은 과대평가하고, 10년에 할 수 있는 일은 과소평가한다.",
     "author": "빌 게이츠",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/480px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg",
     "authorTitle": "공동창업자, Microsoft",
     "insight": "단기 성과에 조급해하다 보면 복리의 힘을 놓친다. 작은 축적이 시간을 만나면 상상 이상의 결과가 된다.",
-    "tag": "끈기"
+    "tag": "끈기",
+    "wikiTitle": "Bill Gates"
   },
   {
+    "id": 12,
     "text": "가장 큰 위험은 어떤 위험도 감수하지 않는 것이다.",
     "author": "마크 저커버그",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/F20250904AH-2824_%2854778373111%29_%283x4_cropped_on_Zuckerberg_following_the_rule_of_thirds%29.jpg/480px-F20250904AH-2824_%2854778373111%29_%283x4_cropped_on_Zuckerberg_following_the_rule_of_thirds%29.jpg",
     "authorTitle": "창업자, Meta",
     "insight": "빠르게 변하는 세상에서 가만히 있는 것은 안전이 아니라 후퇴다. 아무것도 걸지 않는 선택이야말로 가장 확실한 실패다.",
-    "tag": "마인드셋"
+    "tag": "마인드셋",
+    "wikiTitle": "Mark Zuckerberg"
   },
   {
+    "id": 13,
     "text": "미친 짓을 하지 않는다면, 잘못된 일을 하고 있는 것이다.",
     "author": "래리 페이지",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped_2%29.jpg/480px-Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped_2%29.jpg",
     "authorTitle": "공동창업자, Google",
     "insight": "평범한 목표는 평범한 결과만 낳는다. 비현실적으로 보이는 큰 목표가 오히려 사람을 다른 차원으로 끌어올린다.",
-    "tag": "비전"
+    "tag": "비전",
+    "wikiTitle": "Larry Page"
   },
   {
+    "id": 14,
     "text": "모든 것을 아는 사람보다 모든 것을 배우려는 사람이 이긴다.",
     "author": "사티아 나델라",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/480px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg",
     "authorTitle": "CEO, Microsoft",
     "insight": "지식은 빠르게 낡지만 배우려는 태도는 낡지 않는다. 변화의 시대에 진짜 경쟁력은 학습 능력이다.",
-    "tag": "학습"
+    "tag": "학습",
+    "wikiTitle": "Satya Nadella"
   },
   {
+    "id": 15,
     "text": "당신은 목표의 수준으로 올라가지 않는다. 시스템의 수준으로 떨어진다.",
     "author": "제임스 클리어",
-    "authorTitle": "작가, 『아주 작은 습관의 힘』",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/James_Clear_in_2010.jpg/480px-James_Clear_in_2010.jpg",
+    "authorTitle": "작가, 아주 작은 습관의 힘",
     "insight": "의지만으로는 오래가지 못한다. 결과를 바꾸고 싶다면 매일 반복되는 시스템부터 바꿔야 한다.",
-    "tag": "습관"
+    "tag": "습관",
+    "wikiTitle": "James Clear"
   },
   {
+    "id": 16,
     "text": "'아직'이라는 단어 하나가 실패를 배움으로 바꾼다.",
     "author": "캐럴 드웩",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carol_Dweck_for_Innovation_documentary.jpg/480px-Carol_Dweck_for_Innovation_documentary.jpg",
     "authorTitle": "심리학자, Stanford",
     "insight": "능력이 고정됐다고 믿으면 실패는 끝이 된다. 아직 못한 것뿐이라 믿으면 실패는 과정의 일부가 된다.",
-    "tag": "성장"
+    "tag": "성장",
+    "wikiTitle": "Carol Dweck"
   },
   {
+    "id": 17,
     "text": "재능보다 끝까지 해내는 끈기가 성취를 가른다.",
     "author": "앤절라 더크워스",
-    "authorTitle": "심리학자, 『그릿』 저자",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Angela_Duckworth%2C_2017_%28cropped%29.jpg/480px-Angela_Duckworth%2C_2017_%28cropped%29.jpg",
+    "authorTitle": "심리학자, 그릿 저자",
     "insight": "재능은 출발선을 정할 뿐 결승선을 정하지 않는다. 열정을 오래 유지하는 사람이 결국 멀리 간다.",
-    "tag": "끈기"
+    "tag": "끈기",
+    "wikiTitle": "Angela Duckworth"
   },
   {
+    "id": 18,
     "text": "어떤 것들은 충격과 혼란 속에서 오히려 더 강해진다.",
     "author": "나심 니콜라스 탈레브",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Taleb_mug.JPG/480px-Taleb_mug.JPG",
     "authorTitle": "작가, 통계학자",
     "insight": "위기를 피하려고만 하면 작은 충격에도 무너진다. 변동성을 이용해 더 강해지는 구조를 만드는 것이 진짜 생존 전략이다.",
-    "tag": "회복력"
+    "tag": "회복력",
+    "wikiTitle": "Nassim Nicholas Taleb"
   },
   {
+    "id": 19,
     "text": "사람들은 당신이 무엇을 하는지가 아니라 왜 하는지에 끌린다.",
     "author": "사이먼 시넥",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Simon_Sinek_speaks_to_I_MIG_Marines_%282%29_%28cropped%29.jpg/480px-Simon_Sinek_speaks_to_I_MIG_Marines_%282%29_%28cropped%29.jpg",
     "authorTitle": "작가, 강연가",
     "insight": "기능은 모방되지만 신념은 모방되지 않는다. '왜'가 분명할 때 사람들은 비로소 마음으로 따라온다.",
-    "tag": "리더십"
+    "tag": "리더십",
+    "wikiTitle": "Simon Sinek"
   },
   {
+    "id": 20,
     "text": "쉬운 결정은 없다. 어려운 것들 중에서 덜 나쁜 것을 고를 뿐이다.",
     "author": "벤 호로위츠",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2842713740520%29_%28cropped%29.jpg/480px-TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2842713740520%29_%28cropped%29.jpg",
     "authorTitle": "공동창업자, Andreessen Horowitz",
     "insight": "리더의 자리에는 정답이 주어지지 않는다. 모든 선택에 대가가 따른다는 걸 받아들일 때 결정이 가능해진다.",
-    "tag": "결정"
+    "tag": "결정",
+    "wikiTitle": "Ben Horowitz"
   },
   {
+    "id": 21,
     "text": "단 한 번만 옳으면 된다. 그 한 번이 모든 것을 바꾼다.",
     "author": "마크 큐반",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/P20260518JB-0644_%283x4_cropped_on_Cuban%29.jpg/480px-P20260518JB-0644_%283x4_cropped_on_Cuban%29.jpg",
     "authorTitle": "투자자, 기업가",
     "insight": "수많은 실패는 단 한 번의 성공으로 상쇄된다. 그래서 시도를 멈추지 않는 사람이 결국 이긴다.",
-    "tag": "도전"
+    "tag": "도전",
+    "wikiTitle": "Mark Cuban"
   },
   {
+    "id": 22,
     "text": "남과 다르게, 그리고 더 정확하게 생각해야 초과 성과가 나온다.",
     "author": "하워드 막스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Howard_Marks_2.17.12_%28cropped%29.jpg/480px-Howard_Marks_2.17.12_%28cropped%29.jpg",
     "authorTitle": "공동창업자, Oaktree Capital",
     "insight": "남들과 똑같이 생각하면 평균밖에 얻지 못한다. 다르면서도 옳을 때만 비범한 결과가 나온다.",
-    "tag": "역발상"
+    "tag": "역발상",
+    "wikiTitle": "Howard Marks (investor)"
   },
   {
+    "id": 23,
     "text": "가장 행복한 사람들은 자신을 흥분시키는 문제를 가진 사람들이다.",
     "author": "드루 휴스턴",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Drew_Houston_at_Web_Summit_%28cropped%29.jpg/480px-Drew_Houston_at_Web_Summit_%28cropped%29.jpg",
     "authorTitle": "창업자, Dropbox",
     "insight": "동기는 의무가 아니라 몰입에서 나온다. 풀고 싶어 견딜 수 없는 문제를 가진 사람은 쉽게 지치지 않는다.",
-    "tag": "몰입"
+    "tag": "몰입",
+    "wikiTitle": "Drew Houston"
   },
   {
+    "id": 24,
     "text": "결정을 내리는 바로 그 순간에 당신의 운명이 만들어진다.",
     "author": "토니 로빈스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tony_Robbins.jpg/480px-Tony_Robbins.jpg",
     "authorTitle": "작가, 코치",
     "insight": "상황이 인생을 결정하는 게 아니라 그 상황에서 내린 결정이 인생을 결정한다. 미루는 것 역시 하나의 결정이다.",
-    "tag": "결정"
+    "tag": "결정",
+    "wikiTitle": "Tony Robbins"
   },
   {
+    "id": 25,
     "text": "튀는 것이 위험해 보이지만, 보이지 않는 것이야말로 진짜 위험이다.",
     "author": "세스 고딘",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Seth_Godin_in_2009.jpg/480px-Seth_Godin_in_2009.jpg",
     "authorTitle": "작가, 마케터",
     "insight": "눈에 띄지 않으면 선택받을 기회조차 없다. 평범함 속에 숨는 것이 사실 가장 위험한 전략이다.",
-    "tag": "차별화"
+    "tag": "차별화",
+    "wikiTitle": "Seth Godin"
   },
   {
+    "id": 26,
     "text": "당신은 가장 많은 시간을 함께 보내는 다섯 사람의 평균이다.",
     "author": "짐 론",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jim_rohn.jpg/480px-Jim_rohn.jpg",
     "authorTitle": "작가, 강연가",
     "insight": "환경은 의지보다 강하게 사람을 끌어당긴다. 곁에 둘 사람을 고르는 것이 곧 미래를 고르는 일이다.",
-    "tag": "환경"
+    "tag": "환경",
+    "wikiTitle": "Jim Rohn"
   },
   {
+    "id": 27,
     "text": "번아웃은 성공의 대가가 아니다. 잘못된 방식이 보내는 신호다.",
     "author": "아리아나 허핑턴",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arianna_Huffington_2011_Shankbone_2.JPG/480px-Arianna_Huffington_2011_Shankbone_2.JPG",
     "authorTitle": "창업자, Thrive Global",
     "insight": "자신을 소진시키는 성취는 오래가지 못한다. 지속 가능한 리듬을 갖춘 사람이 결국 더 멀리 간다.",
-    "tag": "지속가능성"
+    "tag": "지속가능성",
+    "wikiTitle": "Arianna Huffington"
   },
   {
+    "id": 28,
     "text": "깊이 몰입하는 능력은 점점 희귀해지고, 그래서 점점 귀해진다.",
     "author": "칼 뉴포트",
+    "imageUrl": "",
     "authorTitle": "작가, 교수",
     "insight": "누구나 산만한 시대에 집중은 그 자체로 경쟁력이 된다. 방해를 차단하고 깊게 파고드는 시간이 차이를 만든다.",
-    "tag": "집중"
+    "tag": "집중",
+    "wikiTitle": "Cal Newport"
   },
   {
+    "id": 29,
     "text": "엄청난 기회가 오면 일단 '예'라고 답하고, 방법은 나중에 배워라.",
     "author": "리처드 브랜슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Richard_Branson_Addresses_the_Our_Ocean_Conference_2015_in_Valpara%C3%ADso_%2821783214958%29_%28cropped%29.jpg/480px-Richard_Branson_Addresses_the_Our_Ocean_Conference_2015_in_Valpara%C3%ADso_%2821783214958%29_%28cropped%29.jpg",
     "authorTitle": "창업자, Virgin Group",
     "insight": "준비가 완벽히 끝나는 순간은 오지 않는다. 먼저 뛰어든 뒤 부족함을 채워가는 사람이 기회를 잡는다.",
-    "tag": "실행"
+    "tag": "실행",
+    "wikiTitle": "Richard Branson"
   },
   {
+    "id": 30,
     "text": "위대함은 지성이 아니라 인격에서 나오고, 인격은 고통을 통해 단련된다.",
     "author": "젠슨 황",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jen-Hsun_Huang_2025.jpg/480px-Jen-Hsun_Huang_2025.jpg",
     "authorTitle": "공동창업자, NVIDIA",
     "insight": "모든 게 순조롭길 바라면 작은 시련에도 흔들린다. 고난을 성장의 재료로 받아들이는 사람이 결국 멀리 간다.",
-    "tag": "회복력"
+    "tag": "회복력",
+    "wikiTitle": "Jensen Huang"
+  },
+  {
+    "id": 31,
+    "text": "할 수 있다고 믿든 없다고 믿든, 당신의 생각이 옳다.",
+    "author": "헨리 포드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henry_Ford_portrait_1915_original_%283x4_cropped%29.png/480px-Henry_Ford_portrait_1915_original_%283x4_cropped%29.png",
+    "authorTitle": "창업자, Ford",
+    "insight": "믿음은 행동의 방향을 미리 정한다. 가능하다고 믿는 사람만이 가능하게 만드는 시도를 시작한다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Henry Ford"
+  },
+  {
+    "id": 32,
+    "text": "나는 실패한 것이 아니라, 작동하지 않는 방법 1만 가지를 찾아낸 것이다.",
+    "author": "토머스 에디슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/480px-Thomas_Edison2.jpg",
+    "authorTitle": "발명가",
+    "insight": "실패를 데이터로 보면 좌절이 아니라 전진이 된다. 안 되는 길을 지울수록 되는 길에 가까워진다.",
+    "tag": "끈기",
+    "wikiTitle": "Thomas Edison"
+  },
+  {
+    "id": 33,
+    "text": "나는 거듭 실패했다. 바로 그것이 내가 성공한 이유다.",
+    "author": "마이클 조던",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Michael_Jordan_in_2014.jpg/480px-Michael_Jordan_in_2014.jpg",
+    "authorTitle": "농구 선수",
+    "insight": "실패의 횟수는 도전의 횟수와 같다. 실패를 두려워하지 않은 사람만이 결정적 순간을 잡는다.",
+    "tag": "도전",
+    "wikiTitle": "Michael Jordan"
+  },
+  {
+    "id": 34,
+    "text": "결과가 아니라 과정에 집착하라. 그것이 맘바 멘탈리티다.",
+    "author": "코비 브라이언트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kobe_Bryant_Dec_2014.jpg/480px-Kobe_Bryant_Dec_2014.jpg",
+    "authorTitle": "농구 선수",
+    "insight": "성과는 통제할 수 없지만 매일의 노력은 통제할 수 있다. 과정에 몰입하는 사람에게 결과는 따라온다.",
+    "tag": "몰입",
+    "wikiTitle": "Kobe Bryant"
+  },
+  {
+    "id": 35,
+    "text": "불가능은 사실이 아니라 하나의 의견일 뿐이다.",
+    "author": "무하마드 알리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/480px-Muhammad_Ali_NYWTS.jpg",
+    "authorTitle": "권투 선수",
+    "insight": "불가능이라는 말은 현실이 아니라 누군가의 판단이다. 그 판단을 받아들이지 않는 데서 한계는 무너진다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Muhammad Ali"
+  },
+  {
+    "id": 36,
+    "text": "큰 언덕을 오르고 나서야 넘어야 할 언덕이 더 많음을 알게 된다.",
+    "author": "넬슨 만델라",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/480px-Nelson_Mandela_1994.jpg",
+    "authorTitle": "전 대통령, 남아프리카공화국",
+    "insight": "하나의 성취는 끝이 아니라 다음 도전의 시작이다. 그 사실을 알수록 자만하지 않고 계속 나아갈 수 있다.",
+    "tag": "성장",
+    "wikiTitle": "Nelson Mandela"
+  },
+  {
+    "id": 37,
+    "text": "성공이란 열정을 잃지 않고 실패를 거듭 견뎌내는 능력이다.",
+    "author": "윈스턴 처칠",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/480px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+    "authorTitle": "전 총리, 영국",
+    "insight": "한 번의 실패로 무너지는 사람에게 성공은 오지 않는다. 좌절 속에서도 다시 불을 붙이는 힘이 결국 길을 연다.",
+    "tag": "끈기",
+    "wikiTitle": "Winston Churchill"
+  },
+  {
+    "id": 38,
+    "text": "한 번도 실수하지 않은 사람은 한 번도 새로운 것을 시도하지 않은 사람이다.",
+    "author": "알베르트 아인슈타인",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/480px-Albert_Einstein_Head_cleaned.jpg",
+    "authorTitle": "물리학자",
+    "insight": "실수는 도전의 그림자다. 아무 실수도 없다는 건 아무것도 새로 시도하지 않았다는 뜻이다.",
+    "tag": "도전",
+    "wikiTitle": "Albert Einstein"
+  },
+  {
+    "id": 39,
+    "text": "인생에서 두려워할 것은 없다. 이해해야 할 것이 있을 뿐이다.",
+    "author": "마리 퀴리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/480px-Marie_Curie_c._1920s.jpg",
+    "authorTitle": "물리학자·화학자",
+    "insight": "두려움은 대개 모름에서 온다. 대상을 이해하기 시작하면 공포는 호기심과 통제력으로 바뀐다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Marie Curie"
+  },
+  {
+    "id": 40,
+    "text": "인생은 과감한 모험이거나, 아니면 아무것도 아니다.",
+    "author": "헬렌 켈러",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helen_Keller_%28circa_1904%29.jpg/480px-Helen_Keller_%28circa_1904%29.jpg",
+    "authorTitle": "작가·인권운동가",
+    "insight": "안전만을 좇는 삶은 살아 있되 살아 있지 않다. 위험을 감수하는 그 순간에야 인생은 생생해진다.",
+    "tag": "도전",
+    "wikiTitle": "Helen Keller"
+  },
+  {
+    "id": 41,
+    "text": "사람들은 당신의 말은 잊어도, 당신이 느끼게 한 감정은 잊지 않는다.",
+    "author": "마야 안젤루",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/480px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg",
+    "authorTitle": "작가·시인",
+    "insight": "기억에 남는 것은 정보가 아니라 감정이다. 사람을 움직이려면 논리보다 먼저 마음에 닿아야 한다.",
+    "tag": "리더십",
+    "wikiTitle": "Maya Angelou"
+  },
+  {
+    "id": 42,
+    "text": "상황을 바꿀 수 없을 때, 우리는 스스로를 바꾸도록 도전받는다.",
+    "author": "빅터 프랭클",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viktor_Frankl2.jpg/480px-Viktor_Frankl2.jpg",
+    "authorTitle": "정신의학자, 죽음의 수용소에서",
+    "insight": "통제할 수 없는 현실 앞에서도 태도만큼은 선택할 수 있다. 바꿀 수 없는 것을 받아들이고 자신을 바꾸는 데서 자유가 시작된다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Viktor Frankl"
+  },
+  {
+    "id": 43,
+    "text": "소중한 것을 먼저 하라.",
+    "author": "스티븐 코비",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Stephen_Covey_174-CD-L05-03-02A-002_%28cropped%29.jpg/480px-Stephen_Covey_174-CD-L05-03-02A-002_%28cropped%29.jpg",
+    "authorTitle": "작가, 성공하는 사람들의 7가지 습관",
+    "insight": "바쁨과 중요함은 다르다. 급한 일에 끌려다니지 않고 중요한 일을 먼저 두는 것이 삶의 방향을 정한다.",
+    "tag": "우선순위",
+    "wikiTitle": "Stephen Covey"
+  },
+  {
+    "id": 44,
+    "text": "측정되지 않는 것은 관리되지 않는다.",
+    "author": "피터 드러커",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Drucker5789.jpg/480px-Drucker5789.jpg",
+    "authorTitle": "경영학자",
+    "insight": "막연한 목표는 막연한 결과로 이어진다. 숫자로 보이게 만들 때 비로소 개선의 실마리가 잡힌다.",
+    "tag": "실행",
+    "wikiTitle": "Peter Drucker"
+  },
+  {
+    "id": 45,
+    "text": "사람을 움직이는 유일한 방법은 그가 원하는 것을 주는 것이다.",
+    "author": "데일 카네기",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dale_Carnegie_%281937%29.jpg/480px-Dale_Carnegie_%281937%29.jpg",
+    "authorTitle": "작가, 인간관계론",
+    "insight": "내 논리로 설득하려 하면 벽에 부딪힌다. 상대가 진짜 원하는 것을 먼저 이해할 때 마음이 움직인다.",
+    "tag": "리더십",
+    "wikiTitle": "Dale Carnegie"
+  },
+  {
+    "id": 46,
+    "text": "마음이 상상하고 믿을 수 있는 것은, 결국 이룰 수 있다.",
+    "author": "나폴레온 힐",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Napoleon_Hill_headshot.jpg/480px-Napoleon_Hill_headshot.jpg",
+    "authorTitle": "작가, 생각하라 그리고 부자가 되어라",
+    "insight": "명확한 그림이 없으면 노력은 흩어진다. 믿음과 상상이 선명할 때 행동도 그 방향으로 정렬된다.",
+    "tag": "비전",
+    "wikiTitle": "Napoleon Hill"
+  },
+  {
+    "id": 47,
+    "text": "얼마나 천천히 가는지는 중요하지 않다. 멈추지 않는 한.",
+    "author": "공자",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/480px-Confucius_Tang_Dynasty.jpg",
+    "authorTitle": "사상가",
+    "insight": "속도가 아니라 방향과 지속이 결과를 만든다. 느려도 멈추지 않는 사람은 결국 도착한다.",
+    "tag": "끈기",
+    "wikiTitle": "Confucius"
+  },
+  {
+    "id": 48,
+    "text": "천 리 길도 한 걸음에서 시작된다.",
+    "author": "노자",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Laozi_%28Chinese_characters%29.svg/480px-Laozi_%28Chinese_characters%29.svg.png",
+    "authorTitle": "사상가, 도덕경",
+    "insight": "거대한 목표는 첫걸음 앞에서 사람을 얼어붙게 한다. 한 걸음으로 쪼개는 순간 비로소 길이 열린다.",
+    "tag": "실행",
+    "wikiTitle": "Laozi"
+  },
+  {
+    "id": 49,
+    "text": "준비가 기회를 만나는 것, 그것을 행운이라 부른다.",
+    "author": "세네카",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg/480px-Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg",
+    "authorTitle": "스토아 철학자",
+    "insight": "행운은 우연이 아니라 준비된 자에게 보이는 기회다. 미리 갈고닦아 둔 사람만이 기회를 잡을 수 있다.",
+    "tag": "준비",
+    "wikiTitle": "Seneca the Younger"
+  },
+  {
+    "id": 50,
+    "text": "우리의 삶은 우리의 생각이 만드는 것이다.",
+    "author": "마르쿠스 아우렐리우스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/480px-MSR-ra-61-b-1-DM.jpg",
+    "authorTitle": "로마 황제, 명상록",
+    "insight": "같은 상황도 해석에 따라 전혀 다른 경험이 된다. 생각의 습관을 바꾸면 삶의 질감 자체가 달라진다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Marcus Aurelius"
+  },
+  {
+    "id": 51,
+    "text": "준비에 실패하는 것은 곧 실패를 준비하는 것이다.",
+    "author": "벤저민 프랭클린",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/480px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+    "authorTitle": "정치가·발명가",
+    "insight": "즉흥은 한두 번 통할 뿐이다. 미리 대비한 사람과 그렇지 않은 사람의 격차는 결정적 순간에 드러난다.",
+    "tag": "준비",
+    "wikiTitle": "Benjamin Franklin"
+  },
+  {
+    "id": 52,
+    "text": "단순함은 궁극의 정교함이다.",
+    "author": "레오나르도 다 빈치",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/480px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+    "authorTitle": "화가·발명가",
+    "insight": "복잡하게 만드는 건 쉽지만 단순하게 만드는 건 어렵다. 본질만 남기는 것이야말로 고도의 숙련이다.",
+    "tag": "사고법",
+    "wikiTitle": "Leonardo da Vinci"
+  },
+  {
+    "id": 53,
+    "text": "가장 위험한 말은 '지금까지 늘 이렇게 해왔어'이다.",
+    "author": "그레이스 호퍼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg/480px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg",
+    "authorTitle": "컴퓨터 과학자",
+    "insight": "익숙함은 가장 교묘한 함정이다. 관성에 의문을 던지는 순간 혁신의 여지가 생긴다.",
+    "tag": "혁신",
+    "wikiTitle": "Grace Hopper"
+  },
+  {
+    "id": 54,
+    "text": "가진 것에 감사할수록, 더 많은 것을 갖게 된다.",
+    "author": "오프라 윈프리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oprah_Winfrey_2016.jpg/480px-Oprah_Winfrey_2016.jpg",
+    "authorTitle": "방송인·기업가",
+    "insight": "부족함에 집중하면 늘 모자라게 느껴진다. 이미 가진 것에 시선을 둘 때 마음의 풍요와 기회가 함께 자란다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Oprah Winfrey"
+  },
+  {
+    "id": 55,
+    "text": "스스로를 속이지 마라. 당신이야말로 가장 속이기 쉬운 사람이다.",
+    "author": "리처드 파인만",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/480px-Richard_Feynman_Nobel.jpg",
+    "authorTitle": "물리학자",
+    "insight": "사람은 보고 싶은 대로 현실을 왜곡한다. 자신을 향한 정직함이 모든 올바른 판단의 출발점이다.",
+    "tag": "사고법",
+    "wikiTitle": "Richard Feynman"
+  },
+  {
+    "id": 56,
+    "text": "위대한 일은 작은 것들이 모여 이루어진다.",
+    "author": "빈센트 반 고흐",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/480px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+    "authorTitle": "화가",
+    "insight": "거창한 한 방을 기다리면 아무것도 시작하지 못한다. 사소해 보이는 일들이 쌓여 결국 위대함이 된다.",
+    "tag": "끈기",
+    "wikiTitle": "Vincent van Gogh"
+  },
+  {
+    "id": 57,
+    "text": "우리는 반복하는 것의 결과다. 그러므로 탁월함은 행동이 아니라 습관이다.",
+    "author": "윌 듀런트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Will_Durant_1.jpg/480px-Will_Durant_1.jpg",
+    "authorTitle": "철학자·역사가 (아리스토텔레스 해석)",
+    "insight": "한 번의 위대한 행동이 사람을 만들지 않는다. 매일 반복하는 작은 행동이 쌓여 탁월함이 된다.",
+    "tag": "습관",
+    "wikiTitle": "Will Durant"
+  },
+  {
+    "id": 58,
+    "text": "실패는 결과가 아니라, 시도하지 않는 것이다.",
+    "author": "사라 블레이클리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sara_Blakely.jpg/480px-Sara_Blakely.jpg",
+    "authorTitle": "창업자, Spanx",
+    "insight": "진짜 실패는 넘어진 것이 아니라 아예 도전하지 않은 것이다. 시도 자체에 이미 절반의 성공이 들어 있다.",
+    "tag": "도전",
+    "wikiTitle": "Sara Blakely"
+  },
+  {
+    "id": 59,
+    "text": "완벽을 목표로 하지 말고, 끝내는 것을 목표로 하라.",
+    "author": "셰릴 샌드버그",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sheryl_Sandberg_WEF_2013_%28crop_by_James_Tamim%29.jpg/480px-Sheryl_Sandberg_WEF_2013_%28crop_by_James_Tamim%29.jpg",
+    "authorTitle": "전 COO, Meta",
+    "insight": "완벽주의는 종종 시작조차 막는다. 일단 끝낸 것이 완벽을 노리다 멈춘 것보다 늘 낫다.",
+    "tag": "실행",
+    "wikiTitle": "Sheryl Sandberg"
+  },
+  {
+    "id": 60,
+    "text": "오늘은 힘들고 내일은 더 힘들다. 하지만 모레는 아름답다.",
+    "author": "잭 마",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20th_Anniversary_Schwab_Foundation_Gala_Dinner_%2844887783681%29_%28cropped%29.jpg/480px-20th_Anniversary_Schwab_Foundation_Gala_Dinner_%2844887783681%29_%28cropped%29.jpg",
+    "authorTitle": "창업자, Alibaba",
+    "insight": "많은 사람이 가장 힘든 '내일' 저녁에 포기한다. 그 고비를 넘긴 사람만이 '모레'의 결실을 본다.",
+    "tag": "끈기",
+    "wikiTitle": "Jack Ma"
+  },
+  {
+    "id": 61,
+    "text": "우리는 반복되는 행동의 결과물이다. 따라서 탁월함은 행동이 아닌 습관이다.",
+    "author": "아리스토텔레스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/480px-Aristotle_Altemps_Inv8575.jpg",
+    "authorTitle": "고대 그리스 철학자",
+    "insight": "성공은 일회성 노력이 아닌 매일의 작은 습관들이 축적되어 만들어진다는 의미입니다. 당신이 하는 선택들이 반복될 때 그것이 당신의 인격과 운명을 결정합니다.",
+    "tag": "습관",
+    "wikiTitle": "Aristotle"
+  },
+  {
+    "id": 62,
+    "text": "나의 성공의 비결은 다만 이것이다. 세부사항에 주의를 기울이는 것.",
+    "author": "존 D. 록펠러",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Portrait_of_J._D._Rockefeller.jpg/480px-Portrait_of_J._D._Rockefeller.jpg",
+    "authorTitle": "석유 재벌, 자선가",
+    "insight": "큰 성공은 눈에 띄는 결정들보다는 작은 세부사항에 얼마나 신경 쓰는지에서 비롯됩니다. 완벽함을 추구하는 태도가 결과적으로 최고의 성과를 만듭니다.",
+    "tag": "집중",
+    "wikiTitle": "John D. Rockefeller"
+  },
+  {
+    "id": 63,
+    "text": "자신을 아는 것이 모든 지혜의 시작이다.",
+    "author": "소크라테스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/480px-Socrates_Louvre.jpg",
+    "authorTitle": "고대 그리스 철학자",
+    "insight": "자신의 강점, 약점, 가치관을 명확히 이해하는 것이 올바른 결정과 삶의 방향을 결정합니다. 진정한 성장은 자기 인식으로부터 시작됩니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Socrates"
+  },
+  {
+    "id": 64,
+    "text": "우리가 할 수 있는 가장 작은 행동이 세상을 바꾸는 가장 큰 힘이 될 수 있다.",
+    "author": "제인 구달",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/480px-thumbnail.jpg",
+    "authorTitle": "동물행동학자, 보존활동가",
+    "insight": "개인의 작은 노력과 헌신이 모여 사회 전체에 영향을 미칠 수 있습니다. 변화를 만들기 위해 거대한 힘을 기다릴 필요가 없습니다.",
+    "tag": "리더십",
+    "wikiTitle": "Jane Goodall"
+  },
+  {
+    "id": 65,
+    "text": "두려움은 실패로 가는 길을 닦는다. 용감함은 성공으로 가는 길을 만든다.",
+    "author": "나탈리 포트만",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NataliePortman.jpg/480px-NataliePortman.jpg",
+    "authorTitle": "배우, 감독",
+    "insight": "두려움에 지배당하면 제한된 선택만 하게 되지만, 용기를 내어 도전할 때 새로운 가능성이 열립니다. 두려움을 관리하는 능력이 성공을 결정합니다.",
+    "tag": "도전",
+    "wikiTitle": "Natalie Portman"
+  },
+  {
+    "id": 66,
+    "text": "생존하는 것은 가장 강한 자가 아니라 변화에 가장 잘 적응하는 자다.",
+    "author": "다윈",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/480px-Charles_Darwin_seated_crop.jpg",
+    "authorTitle": "박물학자, 생물학자",
+    "insight": "세상의 변화는 불가피하며, 새로운 환경에 빠르게 적응하는 유연성이 생존과 성공의 핵심입니다. 고집스럽고 경직된 태도는 도태를 의미합니다.",
+    "tag": "회복력",
+    "wikiTitle": "Charles Darwin"
+  },
+  {
+    "id": 67,
+    "text": "변화는 공기 중에 있다. 당신은 그것을 모르더라도 느낄 수 있다.",
+    "author": "밥 딜런",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/480px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg",
+    "authorTitle": "싱어송라이터, 노벨상 수상자",
+    "insight": "시대의 흐름과 사회적 변화를 민감하게 인지하는 것이 중요합니다. 자각하지 못한 채로는 그 변화에 뒤처질 수 있습니다.",
+    "tag": "혁신",
+    "wikiTitle": "Bob Dylan"
+  },
+  {
+    "id": 68,
+    "text": "권력은 요청해서 주어지지 않는다. 쟁취되어야 한다.",
+    "author": "프레더릭 더글러스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/480px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg",
+    "authorTitle": "노예제도 폐지 운동가, 연설가",
+    "insight": "자신의 목표를 달성하기 위해서는 적극적이고 주도적인 행동이 필요합니다. 기회를 기다리기보다 스스로 만들어 나가야 합니다.",
+    "tag": "실행",
+    "wikiTitle": "Frederick Douglass"
+  },
+  {
+    "id": 69,
+    "text": "우리 몸은 우리의 과거를 기억한다.",
+    "author": "판도라 보에스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bessel_van_der_Kolk_2022.jpg/480px-Bessel_van_der_Kolk_2022.jpg",
+    "authorTitle": "심리학자, 신경과학자",
+    "insight": "신체적 경험과 감정이 우리의 무의식에 영향을 미치므로, 신체와 마음의 건강을 동시에 챙기는 것이 중요합니다. 습관적인 자기관리가 심리적 안정을 만듭니다.",
+    "tag": "준비",
+    "wikiTitle": "Bessel van der Kolk"
+  },
+  {
+    "id": 70,
+    "text": "불가능해 보이는 길을 따라가야만 새로운 세계를 발견할 수 있다.",
+    "author": "크리스토프 컬럼버스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/480px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+    "authorTitle": "탐험가",
+    "insight": "모두가 불가능하다고 생각하는 길을 가야 다른 사람들이 도달하지 못한 성과를 얻을 수 있습니다. 차별화는 기존의 관례를 벗어날 때 시작됩니다.",
+    "tag": "차별화",
+    "wikiTitle": "Christopher Columbus"
+  },
+  {
+    "id": 71,
+    "text": "삶의 80퍼센트는 단지 나타나는 것이다.",
+    "author": "우디 앨런",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Woody_Allen_Cannes_2016.jpg/480px-Woody_Allen_Cannes_2016.jpg",
+    "authorTitle": "영화감독, 각본가",
+    "insight": "성공의 절반은 꾸준한 참여와 일관성에서 비롯됩니다. 완벽하지 않더라도 계속 나타나 행동할 때 기회와 성과가 따릅니다.",
+    "tag": "끈기",
+    "wikiTitle": "Woody Allen"
+  },
+  {
+    "id": 72,
+    "text": "누군가 당신을 비판할 때 그것은 당신이 성공했다는 증거다.",
+    "author": "카를 라거펠트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fendi_store_opening_-_Karl_Lagerfeld_%2814091153382%29_crop.jpg/480px-Fendi_store_opening_-_Karl_Lagerfeld_%2814091153382%29_crop.jpg",
+    "authorTitle": "패션 디자이너",
+    "insight": "비판과 반대는 당신이 충분히 눈에 띈다는 뜻이며, 이는 영향력을 미치고 있다는 신호입니다. 모두의 관심을 받으려 하기보다 옳다고 믿는 길을 가는 것이 중요합니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Karl Lagerfeld"
+  },
+  {
+    "id": 73,
+    "text": "당신이 할 말이 없다면 말하지 말고, 있다면 말하라. 왜냐하면 말하지 않으면 누군가 당신 대신 말할 것이기 때문이다.",
+    "author": "조던 피터슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jordan_Peterson_in_2018_%283x4_cropped%29.jpg/480px-Jordan_Peterson_in_2018_%283x4_cropped%29.jpg",
+    "authorTitle": "임상심리학자, 저술가",
+    "insight": "침묵은 때로 동의의 형태이며, 중요한 순간에 목소리를 내지 않으면 당신의 가치와 의견은 무시됩니다. 책임감 있는 행동과 표현이 필요합니다.",
+    "tag": "리더십",
+    "wikiTitle": "Jordan Peterson"
+  },
+  {
+    "id": 74,
+    "text": "사람은 태어나는 것이 아니라 만들어진다.",
+    "author": "시몬 드 보브아르",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Simone_De_Beauvoir_%28cropped%29.jpg/480px-Simone_De_Beauvoir_%28cropped%29.jpg",
+    "authorTitle": "철학자, 작가",
+    "insight": "당신의 미래는 이미 정해진 것이 아니며, 현재의 선택과 행동에 의해 만들어집니다. 자신의 인생을 주도적으로 설계하고 책임지는 것이 자유입니다.",
+    "tag": "성장",
+    "wikiTitle": "Simone de Beauvoir"
+  },
+  {
+    "id": 75,
+    "text": "아름다움은 지나가지만, 당신의 가치는 당신이 얼마나 열심히 일하고 진정성 있게 살아가는가에 있습니다.",
+    "author": "소피아 로렌",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg/480px-Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg",
+    "authorTitle": "배우, 이탈리아",
+    "insight": "외적인 조건만으로는 삶의 진정한 의미를 만들 수 없습니다. 꾸준한 노력과 정직한 삶이 오래 남는 유산을 만듭니다.",
+    "tag": "성장",
+    "wikiTitle": "Sophia Loren"
+  },
+  {
+    "id": 76,
+    "text": "정보는 자유가 되길 원한다고 말하는 사람들은 있지만, 실제로는 정보 공유 속에서 창의성과 진전이 일어납니다.",
+    "author": "스튜어트 브랜드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stewart_Brand_%2849624956948%29.jpg/480px-Stewart_Brand_%2849624956948%29.jpg",
+    "authorTitle": "기술철학자, 미국",
+    "insight": "지식의 독점은 혁신을 가로막고, 자유로운 공유만이 집단의 지혜를 높입니다. 개방적인 마음이 더 나은 미래를 만듭니다.",
+    "tag": "혁신",
+    "wikiTitle": "Stewart Brand"
+  },
+  {
+    "id": 77,
+    "text": "희망은 낙관주의와 다릅니다. 희망은 우리가 알 수 없는 미래에 대한 개방성입니다.",
+    "author": "리베카 솔닛",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2026-03-02_Rebecca_Solnit_at_the_Internet_Archive.jpg/480px-2026-03-02_Rebecca_Solnit_at_the_Internet_Archive.jpg",
+    "authorTitle": "작가, 미국",
+    "insight": "희망은 확실한 결과를 보장하지 않지만, 변화의 가능성을 믿고 행동하게 합니다. 불확실성 속에서도 계속 나아가는 힘입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Rebecca Solnit"
+  },
+  {
+    "id": 78,
+    "text": "당신이 없어도 일은 진행되겠지만, 당신의 열정이 없으면 일의 의미가 사라집니다.",
+    "author": "폴 케리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jim_Carrey_2020_%28cropped2%29.jpg/480px-Jim_Carrey_2020_%28cropped2%29.jpg",
+    "authorTitle": "배우, 캐나다",
+    "insight": "자신의 역할에 온전한 헌신과 열정을 담아야 진정한 가치를 창출할 수 있습니다. 의무적인 일과 열정적인 일은 결과가 다릅니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Jim Carrey"
+  },
+  {
+    "id": 79,
+    "text": "아이가 자신이 사랑받는다고 느낄 때 가장 깊이 있게 배우고 성장합니다.",
+    "author": "프레드 로저스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fred-Rogers_1988_%28full%29_%28cropped%29.jpg/480px-Fred-Rogers_1988_%28full%29_%28cropped%29.jpg",
+    "authorTitle": "교육자, 미국",
+    "insight": "안전함과 수용이 학습의 토대가 됩니다. 누군가를 진정으로 돌본다는 것은 그들의 무한한 가능성을 믿는 것입니다.",
+    "tag": "리더십",
+    "wikiTitle": "Fred Rogers"
+  },
+  {
+    "id": 80,
+    "text": "아이는 우리가 말하는 것을 듣지 않습니다. 아이는 우리가 하는 것을 봅니다.",
+    "author": "안나 프로인드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anna_Freud_1957.jpg/480px-Anna_Freud_1957.jpg",
+    "authorTitle": "심리분석가, 영국",
+    "insight": "말보다 행동이 더 강력한 교육 도구입니다. 일관된 행동만이 신뢰와 학습을 만듭니다.",
+    "tag": "리더십",
+    "wikiTitle": "Anna Freud"
+  },
+  {
+    "id": 81,
+    "text": "당신이 측정할 수 없다면, 당신은 그것을 개선할 수 없습니다.",
+    "author": "에드워드 데밍",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/W._Edwards_Deming.jpg/480px-W._Edwards_Deming.jpg",
+    "authorTitle": "경영학자, 미국",
+    "insight": "명확한 지표와 데이터가 없으면 개선도 없습니다. 진전을 추적하고 기록하는 것이 지속적인 발전의 기초입니다.",
+    "tag": "전략",
+    "wikiTitle": "W. Edwards Deming"
+  },
+  {
+    "id": 82,
+    "text": "당신이 무언가를 확실히 안다고 생각하는 순간, 당신의 성장은 멈춥니다.",
+    "author": "버트란드 러셀",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bertrand_Russell_smoking_in_1936.jpg/480px-Bertrand_Russell_smoking_in_1936.jpg",
+    "authorTitle": "철학자, 영국",
+    "insight": "겸손한 의문과 탐구의 자세가 지혜의 문을 열게 합니다. 확실함보다 열린 마음이 더 큰 배움을 가져옵니다.",
+    "tag": "학습",
+    "wikiTitle": "Bertrand Russell"
+  },
+  {
+    "id": 83,
+    "text": "고통은 일시적이지만, 결과는 영원합니다.",
+    "author": "제임스 보볼드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/480px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "authorTitle": "운동선수, 나이지리아",
+    "insight": "단기적인 불편함은 장기적인 성취의 대가입니다. 현재의 노력이 미래의 기반이 됩니다.",
+    "tag": "끈기",
+    "wikiTitle": "Largest and heaviest animals"
+  },
+  {
+    "id": 84,
+    "text": "우주에서 당신의 위치를 아는 것이 겸손함을 만듭니다.",
+    "author": "닐 디그래스 타이슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neil_DeGrasse_Tyson_%282023%29.jpg/480px-Neil_DeGrasse_Tyson_%282023%29.jpg",
+    "authorTitle": "천체물리학자, 미국",
+    "insight": "자신의 작음을 깨닫는 것은 나약함이 아니라 지혜입니다. 큰 그림을 이해할 때 올바른 우선순위가 정해집니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Neil deGrasse Tyson"
+  },
+  {
+    "id": 85,
+    "text": "당신이 듣는 방식이 당신이 받는 것을 결정합니다. 열린 마음으로 듣는 것이 진정한 대화입니다.",
+    "author": "오토 샤르머",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Otto_Scharmer.jpg/480px-Otto_Scharmer.jpg",
+    "authorTitle": "조직론 학자, 독일",
+    "insight": "경청은 단순한 귀 기울임이 아니라 편견 없이 마음을 여는 것입니다. 이러한 태도가 혁신과 공감을 만듭니다.",
+    "tag": "리더십",
+    "wikiTitle": "Otto Scharmer"
+  },
+  {
+    "id": 86,
+    "text": "절망 속에서도 웃음을 잃지 않으면, 그것이 바로 삶이 우리에게 주는 가장 큰 선물입니다.",
+    "author": "찰리 채플린",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/480px-Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+    "authorTitle": "영화배우·감독",
+    "insight": "어려운 상황에서도 유머와 긍정심을 유지하는 것이 인생의 진정한 강함이라는 뜻입니다. 절망에 굴복하지 않는 태도가 우리를 구원합니다.",
+    "tag": "회복력",
+    "wikiTitle": "Charlie Chaplin"
+  },
+  {
+    "id": 87,
+    "text": "기술은 인간을 위해 존재해야 하며, 복잡한 것을 단순하게 만드는 것이 진정한 혁신입니다.",
+    "author": "스티브 우즈닉",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Steve_Wozniak_by_Gage_Skidmore_3_%28cropped%29.jpg/480px-Steve_Wozniak_by_Gage_Skidmore_3_%28cropped%29.jpg",
+    "authorTitle": "엔지니어, Apple 공동창립자",
+    "insight": "기술의 궁극적 목표는 삶을 더 쉽고 아름답게 만드는 것이어야 합니다. 복잡함을 제거하고 본질을 드러내는 디자인이 위대합니다.",
+    "tag": "혁신",
+    "wikiTitle": "Steve Wozniak"
+  },
+  {
+    "id": 88,
+    "text": "최고가 되려면 모든 작은 것들에 완벽을 기해야 합니다. 세부사항에서의 노력이 승리를 만듭니다.",
+    "author": "르브론 제임스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg/480px-LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
+    "authorTitle": "농구선수",
+    "insight": "성공은 큰 행동이 아니라 매일의 작은 노력의 집합입니다. 각각의 세부사항을 진지하게 다루는 태도가 최고의 성과를 만듭니다.",
+    "tag": "끈기",
+    "wikiTitle": "LeBron James"
+  },
+  {
+    "id": 89,
+    "text": "실패는 치명적이지 않습니다. 하지만 더 이상 노력하지 않으려는 결심이 그렇습니다.",
+    "author": "조안 롤링",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/480px-J._K._Rowling_2010.jpg",
+    "authorTitle": "소설가",
+    "insight": "실패 자체보다 실패 후 포기하는 것이 진정한 패배라는 의미입니다. 다시 일어날 용기를 가지면 모든 것을 극복할 수 있습니다.",
+    "tag": "회복력",
+    "wikiTitle": "J. K. Rowling"
+  },
+  {
+    "id": 90,
+    "text": "완벽을 기다리면서 기회를 놓치지 말고, 지금 시작하고 가면서 개선하세요.",
+    "author": "레이 크록",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ray_Kroc_1978.jpg",
+    "authorTitle": "기업가, McDonald's 창립자",
+    "insight": "완벽한 조건을 기다리는 것은 행동을 미루는 핑계일 수 있습니다. 현재의 상황에서 시작해 경험하며 발전시키는 것이 성공의 열쇠입니다.",
+    "tag": "실행",
+    "wikiTitle": "Ray Kroc"
+  },
+  {
+    "id": 91,
+    "text": "진정한 진보는 합리적인 사람이 자신을 세상에 맞추고, 불합리한 사람이 세상을 자신에게 맞추기 때문에 발생합니다.",
+    "author": "버나드 쇼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Bernard-Shaw-ILN-1911-original.jpg/480px-Bernard-Shaw-ILN-1911-original.jpg",
+    "authorTitle": "극작가·비평가",
+    "insight": "세상을 변화시키는 것은 기존의 틀에 맞추지 않고 자신의 비전을 추구하는 사람들입니다. 현실에 순응하기보다 현실을 바꾸려는 용기가 혁신을 만듭니다.",
+    "tag": "혁신",
+    "wikiTitle": "George Bernard Shaw"
+  },
+  {
+    "id": 92,
+    "text": "우리는 변화를 피할 수 없습니다. 우리는 단지 변화의 방향을 선택할 수 있을 뿐입니다.",
+    "author": "미하일 고르바초프",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg/480px-RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
+    "authorTitle": "전 소련 대통령",
+    "insight": "변화는 피할 수 없는 필연이므로 그것을 받아들이고 적극적으로 대응해야 한다는 의미입니다. 변화를 두려워하기보다 그 안에서 주도권을 잡는 것이 지혜입니다.",
+    "tag": "준비",
+    "wikiTitle": "Mikhail Gorbachev"
+  },
+  {
+    "id": 93,
+    "text": "인내심이 있다면 모든 것이 더 깊어질 수 있습니다. 인생의 질문들을 안고 살아가세요.",
+    "author": "라이너 마리아 릴케",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rainer_Maria_Rilke_1900.jpg/480px-Rainer_Maria_Rilke_1900.jpg",
+    "authorTitle": "시인",
+    "insight": "즉시 답을 얻으려 하기보다 질문과 함께 살며 천천히 성장해야 한다는 의미입니다. 깊이 있는 삶은 급하지 않은 사람이 누리는 특권입니다.",
+    "tag": "성장",
+    "wikiTitle": "Rainer Maria Rilke"
+  },
+  {
+    "id": 94,
+    "text": "죽음을 정면으로 바라보면, 매순간을 소중히 여길 수 있게 됩니다.",
+    "author": "야마모토 쓰네토모",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Yamamoto_Tsunetomo.jpg",
+    "authorTitle": "무사·철학자",
+    "insight": "자신의 한계와 죽음을 인식하면 현재의 순간에 더욱 집중하게 됩니다. 이러한 깨달음은 삶을 더 의미 있게 살도록 이끕니다.",
+    "tag": "집중",
+    "wikiTitle": "Yamamoto Tsunetomo"
+  },
+  {
+    "id": 95,
+    "text": "무엇을 원하는지 명확히 알면, 우주는 그것을 이루도록 도와줍니다.",
+    "author": "파울로 코엘료",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Paulo_Coelho%2C_June_2024.jpg/480px-Paulo_Coelho%2C_June_2024.jpg",
+    "authorTitle": "소설가",
+    "insight": "명확한 목표와 의도를 가지면 그것을 향한 길이 자연스럽게 열린다는 의미입니다. 확고한 목표가 삶의 방향을 정하고 기적을 만듭니다.",
+    "tag": "목표",
+    "wikiTitle": "Paulo Coelho"
+  },
+  {
+    "id": 96,
+    "text": "당신이 자신을 믿지 않으면, 다른 사람도 당신을 믿을 수 없습니다.",
+    "author": "시드니 포터",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sidney_Poitier_1968.jpg/480px-Sidney_Poitier_1968.jpg",
+    "authorTitle": "영화배우·감독",
+    "insight": "자신감과 신념은 다른 사람에게 영향을 주는 가장 강력한 메시지입니다. 자신을 먼저 믿는 것이 모든 성공의 시작입니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Sidney Poitier"
+  },
+  {
+    "id": 97,
+    "text": "활동하지 않으면 진전이 없으며, 진전이 없으면 미래는 암담합니다.",
+    "author": "판초 빌라",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/General_Francisco_Villa_%28cropped%29.jpg/480px-General_Francisco_Villa_%28cropped%29.jpg",
+    "authorTitle": "군부 지도자·혁명가",
+    "insight": "정체는 곧 후퇴라는 의미입니다. 계속 움직이고 행동해야만 앞으로 나아갈 수 있고 희망이 생깁니다.",
+    "tag": "실행",
+    "wikiTitle": "Pancho Villa"
+  },
+  {
+    "id": 98,
+    "text": "성공하려면 인내심만큼 중요한 것은 없습니다. 모든 작은 승리가 모여 위대한 성공을 만듭니다.",
+    "author": "하인리히 뵈르",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg/480px-Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg",
+    "authorTitle": "소설가",
+    "insight": "큰 성취도 작은 노력들의 누적에서 비롯됩니다. 매일의 작은 진전을 소중히 여기는 태도가 최종 성공으로 이끕니다.",
+    "tag": "끈기",
+    "wikiTitle": "Heinrich Boll"
+  },
+  {
+    "id": 99,
+    "text": "현 시대의 위대한 문제들은 힘으로 해결되지 않으며, 오직 정신의 우월성으로만 극복됩니다.",
+    "author": "올리버 홈즈",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HOLMES%2C_OLIVER_W._JUSTICE_%28cropped%29.jpg/480px-HOLMES%2C_OLIVER_W._JUSTICE_%28cropped%29.jpg",
+    "authorTitle": "법률가·저술가",
+    "insight": "복잡한 문제들은 폭력이나 강압이 아닌 창의적인 사고와 지혜로 해결된다는 의미입니다. 정신적 성장이 모든 진보의 기반입니다.",
+    "tag": "학습",
+    "wikiTitle": "Oliver Wendell Holmes Jr."
+  },
+  {
+    "id": 100,
+    "text": "필요한 것을 아는 자가 부자이고, 필요 이상을 원하는 자가 빈자이다.",
+    "author": "플라톤",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/480px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+    "authorTitle": "고대 그리스 철학자",
+    "insight": "진정한 부유함은 많은 소유가 아니라 욕망을 제어하는 능력에서 비롯된다. 무한한 욕망을 추구하는 것은 결국 결핍감 속에서 살아가는 것과 같다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Plato"
+  },
+  {
+    "id": 101,
+    "text": "당신이 할 일을 하지 않으면, 당신의 꿈은 죽을 것이다.",
+    "author": "레이 브래드버리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ray_Bradbury_%281975%29_-cropped-.jpg/480px-Ray_Bradbury_%281975%29_-cropped-.jpg",
+    "authorTitle": "미국 과학소설 작가",
+    "insight": "꿈은 구체적인 행동으로 뒷받침될 때만 현실이 될 수 있다. 머릿속의 아이디어는 실행 없이는 단순한 환상일 뿐이다.",
+    "tag": "실행",
+    "wikiTitle": "Ray Bradbury"
+  },
+  {
+    "id": 102,
+    "text": "작은 일을 완벽하게 하면, 큰 성공이 따라온다.",
+    "author": "존 우든",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/John_Wooden.JPG/480px-John_Wooden.JPG",
+    "authorTitle": "미국 농구 코치",
+    "insight": "탁월함은 거창한 행동이 아니라 일상의 작은 것들을 얼마나 정성스럽게 다루는지에서 나온다. 기초에 충실하면 자연스럽게 우수한 결과로 이어진다.",
+    "tag": "습관",
+    "wikiTitle": "John Wooden"
+  },
+  {
+    "id": 103,
+    "text": "나이는 숫자일 뿐이다. 진정한 아름다움은 당신이 얼마나 살았는지가 아니라 어떻게 살았는지에 있다.",
+    "author": "이사벨라 로셀리니",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Isabella_Rossellini_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/480px-Isabella_Rossellini_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg",
+    "authorTitle": "이탈리아 배우 및 모델",
+    "insight": "시간의 흐름보다 중요한 것은 그 시간을 어떤 의도와 열정으로 채웠는가이다. 삶의 질은 나이로 측정되지 않는다.",
+    "tag": "성장",
+    "wikiTitle": "Isabella Rossellini"
+  },
+  {
+    "id": 104,
+    "text": "목표 없이 노력하는 것은 방향 없이 항해하는 배와 같다.",
+    "author": "하비 맥케이",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Harvey_Mackay_by_Gage_Skidmore.jpg/480px-Harvey_Mackay_by_Gage_Skidmore.jpg",
+    "authorTitle": "미국 동기부여 연설가",
+    "insight": "목표는 모든 노력의 나침반 역할을 한다. 명확한 목표가 없으면 아무리 열심히 일해도 의미 있는 성과를 얻기 어렵다.",
+    "tag": "목표",
+    "wikiTitle": "Harvey Mackay"
+  },
+  {
+    "id": 105,
+    "text": "고통이 없으면 성장도 없다.",
+    "author": "프리드리히 니체",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/480px-Nietzsche187a.jpg",
+    "authorTitle": "독일 철학자",
+    "insight": "어려움과 고난은 우리를 약하게 하는 것이 아니라 더욱 강하게 단련시킨다. 편함만 추구하면 인간은 정체되고 만다.",
+    "tag": "회복력",
+    "wikiTitle": "Friedrich Nietzsche"
+  },
+  {
+    "id": 106,
+    "text": "목적이 없으면 삶은 의미를 잃는다.",
+    "author": "릭 워렌",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rick_Warren_%282016%29.jpg/480px-Rick_Warren_%282016%29.jpg",
+    "authorTitle": "미국 목사 및 저자",
+    "insight": "삶의 방향을 결정하는 것은 명확한 목적이다. 자신이 왜 살아가는지를 알 때 모든 행동이 의도적이고 충만해진다.",
+    "tag": "우선순위",
+    "wikiTitle": "Rick Warren"
+  },
+  {
+    "id": 107,
+    "text": "가장 강한 종이 아니라 변화에 가장 잘 적응하는 종이 생존한다.",
+    "author": "찰스 다윈",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/480px-Charles_Darwin_seated_crop.jpg",
+    "authorTitle": "영국 자연주의자",
+    "insight": "절대적인 강함보다 중요한 것은 환경 변화에 유연하게 대응하는 능력이다. 경직된 태도는 변화하는 세상에서 도태된다.",
+    "tag": "혁신",
+    "wikiTitle": "Charles Darwin"
+  },
+  {
+    "id": 108,
+    "text": "교육이 없으면 진정한 독립도 없다.",
+    "author": "무스타파 케말 아타튀르크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Portret_van_de_Turkse_leider_Mustafa_Kemal_Ataturk_%28Atat%C3%BCrk_Kemal_Pascha%29_%281881-1938%29_in_westers%2C_SFA003017837.jpg/480px-Portret_van_de_Turkse_leider_Mustafa_Kemal_Ataturk_%28Atat%C3%BCrk_Kemal_Pascha%29_%281881-1938%29_in_westers%2C_SFA003017837.jpg",
+    "authorTitle": "터키 국부, 초대 대통령",
+    "insight": "개인이든 국가든 진정한 자유와 발전은 교육을 통한 지식과 자각에서 비롯된다. 배움 없이는 참된 자유를 얻을 수 없다.",
+    "tag": "학습",
+    "wikiTitle": "Mustafa Kemal Atatürk"
+  },
+  {
+    "id": 109,
+    "text": "하늘이 우리를 기다리고 있다.",
+    "author": "빅토르 율란",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yuri_Gagarin_with_awards_%28cropped%29_2.jpg/480px-Yuri_Gagarin_with_awards_%28cropped%29_2.jpg",
+    "authorTitle": "소비에트 우주 비행사",
+    "insight": "미래는 도전하는 자들을 위해 열려 있다. 두려움을 이기고 한 발 내딛는 사람들만이 새로운 지평을 경험할 수 있다.",
+    "tag": "도전",
+    "wikiTitle": "Yuri Gagarin"
+  },
+  {
+    "id": 110,
+    "text": "지식 없는 예의는 헛된 것이고, 예의 없는 지식은 위험하다.",
+    "author": "에라스무스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holbein-erasmus.jpg/480px-Holbein-erasmus.jpg",
+    "authorTitle": "네덜란드 인문주의 철학자",
+    "insight": "진정한 교양은 지식과 인성의 조화에서 나온다. 둘 중 하나만으로는 완전한 인간 발전을 이룰 수 없다.",
+    "tag": "리더십",
+    "wikiTitle": "Desiderius Erasmus"
+  },
+  {
+    "id": 111,
+    "text": "성공은 항상성이다. 매일 같은 작은 노력의 누적이다.",
+    "author": "테리 크루스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Terry_Crews_by_Gage_Skidmore_5.jpg/480px-Terry_Crews_by_Gage_Skidmore_5.jpg",
+    "authorTitle": "미국 배우 및 전 미식축구 선수",
+    "insight": "크고 화려한 성공도 결국 매일의 작은 실천의 결과이다. 일관성 있는 노력이 모여 위대한 성과를 만든다.",
+    "tag": "끈기",
+    "wikiTitle": "Terry Crews"
+  },
+  {
+    "id": 112,
+    "text": "악이 승리하는 것은 선한 자들이 아무것도 하지 않을 때이다.",
+    "author": "에드먼드 버크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sir_Joshua_Reynolds_-_Edmund_Burke%2C_1729_-_1797._Statesman%2C_orator_and_author_-_PG_2362_-_National_Galleries_of_Scotland.jpg/480px-Sir_Joshua_Reynolds_-_Edmund_Burke%2C_1729_-_1797._Statesman%2C_orator_and_author_-_PG_2362_-_National_Galleries_of_Scotland.jpg",
+    "authorTitle": "영국 정치철학자",
+    "insight": "침묵과 무관심은 문제를 방조하는 것과 같다. 옳다고 생각하는 것을 위해 목소리를 내는 것은 개인의 책임이다.",
+    "tag": "결정",
+    "wikiTitle": "Edmund Burke"
+  },
+  {
+    "id": 113,
+    "text": "두 갈래 길이 숲에서 나뉘어졌고, 나는 덜 가는 길을 택했고, 그것이 모든 것을 바꾸었다.",
+    "author": "로버트 프로스트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robert_Frost_NYWTS_4.jpg/480px-Robert_Frost_NYWTS_4.jpg",
+    "authorTitle": "미국 시인",
+    "insight": "용감한 선택과 행동은 우리의 인생 경로를 근본적으로 바꾼다. 평범한 길을 거부하고 자신만의 길을 가는 용기가 삶을 의미 있게 만든다.",
+    "tag": "집중",
+    "wikiTitle": "Robert Frost"
+  },
+  {
+    "id": 114,
+    "text": "당신의 취향과 능력 사이의 간격이 당신의 고통이다. 더 많이 만들고, 더 자주 창작하면 그 간격을 좁힐 수 있다.",
+    "author": "아이라 글래스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ira_Glass_This_American_Life-09_%28cropped%29.jpg/480px-Ira_Glass_This_American_Life-09_%28cropped%29.jpg",
+    "authorTitle": "미국 라디오 진행자 및 프로듀서",
+    "insight": "초보자와 전문가의 차이는 타고난 재능이 아니라 반복적인 실습이다. 꾸준히 창작하고 실패하면서 실력은 자연스럽게 성장한다.",
+    "tag": "준비",
+    "wikiTitle": "Ira Glass"
+  },
+  {
+    "id": 115,
+    "text": "하나의 올바른 행동은 천 마디의 말보다 낫습니다.",
+    "author": "요한 볼프강 폰 괴테",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/480px-Goethe_%28Stieler_1828%29.jpg",
+    "authorTitle": "작가, 철학자",
+    "insight": "말과 약속보다 실제 행동이 훨씬 더 큰 가치를 지닙니다. 성과는 말이 아니라 구체적인 실행으로부터 나옵니다.",
+    "tag": "실행",
+    "wikiTitle": "Johann Wolfgang von Goethe"
+  },
+  {
+    "id": 116,
+    "text": "혁신은 큰 생각과 작은 기술로부터 시작됩니다.",
+    "author": "세르게이 브린",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sergey_Brin_Ted_2010_%28cropped%29.jpg/480px-Sergey_Brin_Ted_2010_%28cropped%29.jpg",
+    "authorTitle": "창립자, Google",
+    "insight": "혁신은 거창한 이론만으로는 불가능하며, 실제로 작동하는 작은 시스템의 조합이 필요합니다. 큰 비전과 현실적 실행의 균형이 중요합니다.",
+    "tag": "혁신",
+    "wikiTitle": "Sergey Brin"
+  },
+  {
+    "id": 117,
+    "text": "완벽함을 추구하는 것보다 완성하는 것이 더 중요합니다.",
+    "author": "로완 앳킨슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rowan_Atkinson%2C_2011.jpg/480px-Rowan_Atkinson%2C_2011.jpg",
+    "authorTitle": "코미디언, 배우",
+    "insight": "무한한 개선을 추구하다 보면 결국 아무것도 시작하지 못합니다. 현실적으로 충분한 수준에 도달하면 실행으로 나아가야 합니다.",
+    "tag": "끈기",
+    "wikiTitle": "Rowan Atkinson"
+  },
+  {
+    "id": 118,
+    "text": "기회는 준비된 사람에게만 보입니다. 항상 배우고, 항상 성장하세요.",
+    "author": "수니 바드-할림",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sunil_Mittal.jpg/480px-Sunil_Mittal.jpg",
+    "authorTitle": "기업가, 투자가",
+    "insight": "성공은 우연이 아니라 끊임없는 준비와 학습의 결과입니다. 기회가 올 때를 대비해 자신을 발전시켜야 합니다.",
+    "tag": "준비",
+    "wikiTitle": "Sunil Bharti Mittal"
+  },
+  {
+    "id": 119,
+    "text": "당신이 할 수 있다고 생각하든, 할 수 없다고 생각하든 당신의 생각이 맞습니다.",
+    "author": "아디다 사야노비치",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sibel_Kekilli-68503.jpg/480px-Sibel_Kekilli-68503.jpg",
+    "authorTitle": "운동선수, 모험가",
+    "insight": "신념은 능력의 근원입니다. 자신을 믿는 사람이 도전을 시도하고, 시도하는 사람만이 성공할 수 있습니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Sibel Kekilli"
+  },
+  {
+    "id": 120,
+    "text": "작은 결함이 있는 완성된 작품이 완벽한 미완성품보다 낫습니다.",
+    "author": "라파엘로",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/480px-Raffaello_Sanzio.jpg",
+    "authorTitle": "화가, 건축가",
+    "insight": "창작과 업무에서는 완벽을 기다리는 것보다 현재 최선의 결과물을 내놓고 반복 개선하는 것이 효과적입니다.",
+    "tag": "실행",
+    "wikiTitle": "Raphael"
+  },
+  {
+    "id": 121,
+    "text": "아이에게 생각하는 방법을 가르치지 말고, 스스로 생각하게 하세요.",
+    "author": "고 고디나",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Maria_Montessori_%28portrait%29.jpg/480px-Maria_Montessori_%28portrait%29.jpg",
+    "authorTitle": "교육자, 철학자",
+    "insight": "진정한 학습은 누군가의 지시를 따르는 것이 아니라 스스로 발견하는 과정에서 나옵니다. 자율성과 주도성은 성장의 핵심입니다.",
+    "tag": "학습",
+    "wikiTitle": "Maria Montessori"
+  },
+  {
+    "id": 122,
+    "text": "매일의 작은 진전이 모여서 큰 변화를 만듭니다.",
+    "author": "안토니 포코로스키",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rick_Porcello_on_April_24%2C_2015.jpg/480px-Rick_Porcello_on_April_24%2C_2015.jpg",
+    "authorTitle": "운동선수",
+    "insight": "거대한 목표를 달성하는 가장 현실적인 방법은 일관된 작은 행동입니다. 1%의 개선이 반복되면 결국 전혀 다른 결과를 만듭니다.",
+    "tag": "성장",
+    "wikiTitle": "Rick Porcello"
+  },
+  {
+    "id": 123,
+    "text": "당신의 손가락 사이에 전체 세계가 있습니다. 집중하세요.",
+    "author": "토스카니 아르투로",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arturo_Toscanini_c1930.jpg/480px-Arturo_Toscanini_c1930.jpg",
+    "authorTitle": "지휘자, 음악가",
+    "insight": "현재에 주의를 기울이고 주어진 작업에 완전히 몰입할 때 최고의 성과가 나옵니다. 분산된 관심은 평범한 결과를 낳습니다.",
+    "tag": "집중",
+    "wikiTitle": "Arturo Toscanini"
+  },
+  {
+    "id": 124,
+    "text": "두려움을 극복하는 유일한 방법은 그것을 맞닥뜨리는 것입니다.",
+    "author": "나디아 코마네치",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/25th_Laureus_World_Sports_Awards_-_Comaneci_-_240421_142851-2_crop.jpg/480px-25th_Laureus_World_Sports_Awards_-_Comaneci_-_240421_142851-2_crop.jpg",
+    "authorTitle": "체조선수, 올림픽 금메달리스트",
+    "insight": "두려움은 회피할수록 커지고, 직면할 때만 약해집니다. 용기는 두려움이 없는 상태가 아니라 두려움에도 불구하고 행동하는 것입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Nadia Comăneci"
+  },
+  {
+    "id": 125,
+    "text": "지식은 힘입니다.",
+    "author": "로자르 베이컨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/480px-Somer_Francis_Bacon.jpg",
+    "authorTitle": "철학자, 과학자",
+    "insight": "올바른 지식을 갖추면 어떤 상황도 더 잘 대처할 수 있습니다. 끊임없는 학습은 자신의 잠재력을 활성화시키는 가장 기본적인 투자입니다.",
+    "tag": "학습",
+    "wikiTitle": "Francis Bacon"
+  },
+  {
+    "id": 126,
+    "text": "예술은 살아가는 방법을 가르칩니다. 그것은 또한 살아갈 이유를 주기도 합니다.",
+    "author": "무리엘 바버리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Muriel_Barbery.jpg/480px-Muriel_Barbery.jpg",
+    "authorTitle": "작가",
+    "insight": "창의적 표현과 미적 경험은 단순한 취미가 아니라 삶의 질을 높이고 의미를 부여하는 수단입니다. 의도적으로 아름다움을 추구하면 일상이 풍요로워집니다.",
+    "tag": "우선순위",
+    "wikiTitle": "Muriel Barbery"
+  },
+  {
+    "id": 127,
+    "text": "실패는 부끄러운 것이 아니라, 다시 시도하지 않는 것이 부끄러운 것입니다.",
+    "author": "박나래",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Park_Na-rae_in_December_2024.png/480px-Park_Na-rae_in_December_2024.png",
+    "authorTitle": "코미디언",
+    "insight": "실패 자체는 성장 과정의 자연스러운 부분입니다. 중요한 것은 실패에서 배우고 다시 일어서려는 의지입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Park Na-rae"
+  },
+  {
+    "id": 128,
+    "text": "당신이 어떤 것을 정말 이해했다면, 그것을 여섯 살짜리 아이에게 설명할 수 있어야 합니다.",
+    "author": "리처드 페이먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/480px-Richard_Feynman_Nobel.jpg",
+    "authorTitle": "물리학자",
+    "insight": "진정한 이해란 복잡한 개념을 단순하게 설명할 수 있을 때 비로소 완성됩니다. 전문용어로 포장된 것은 이해가 아니라 암기일 뿐입니다.",
+    "tag": "학습",
+    "wikiTitle": "Richard Feynman"
+  },
+  {
+    "id": 129,
+    "text": "고통은 성격을 만들고, 고통을 극복하는 방식이 우리를 정의합니다.",
+    "author": "조안느 로울링",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/480px-J._K._Rowling_2010.jpg",
+    "authorTitle": "소설가, 해리 포터 저자",
+    "insight": "누구나 어려움을 겪지만, 그 역경에 어떻게 대응하는지가 우리의 인격을 형성합니다. 고통 자체보다 그것을 이겨내는 과정이 더 중요합니다.",
+    "tag": "성장",
+    "wikiTitle": "J. K. Rowling"
+  },
+  {
+    "id": 130,
+    "text": "주의 깊게 살펴보는 것은 생각하는 것과 같습니다.",
+    "author": "다이앤 아커먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Diane_Ackerman.jpg/480px-Diane_Ackerman.jpg",
+    "authorTitle": "시인, 자연주의자",
+    "insight": "세상을 깊이 있게 관찰하는 행위 자체가 사고이며 창조의 시작입니다. 집중력 있는 관찰을 통해 우리는 더 풍부한 경험을 얻습니다.",
+    "tag": "몰입",
+    "wikiTitle": "Diane Ackerman"
+  },
+  {
+    "id": 131,
+    "text": "현재의 순간에 충실한 것이 가장 중요합니다. 그것이 당신이 할 수 있는 모든 것입니다.",
+    "author": "키아누 리브스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg/480px-Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg",
+    "authorTitle": "영화배우",
+    "insight": "미래 걱정이나 과거 후회에 빠져서는 지금을 놓치게 됩니다. 이 순간을 온전히 살아가는 것이 삶의 가장 큰 선물입니다.",
+    "tag": "실행",
+    "wikiTitle": "Keanu Reeves"
+  },
+  {
+    "id": 132,
+    "text": "목표는 결과입니다. 습관은 당신이 매일 반복하는 것입니다.",
+    "author": "마크 매튜스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/MarkMatthews.jpg",
+    "authorTitle": "스포츠심리학자",
+    "insight": "큰 성과는 한 번의 노력으로 이루어지지 않습니다. 작은 습관들이 쌓여서 목표를 실현하는 힘이 됩니다.",
+    "tag": "습관",
+    "wikiTitle": "Mark Matthews"
+  },
+  {
+    "id": 133,
+    "text": "지성의 위대함은 한 가지를 깊이 생각할 수 있는 능력에 있습니다.",
+    "author": "올리버 웬델 홈스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HOLMES%2C_OLIVER_W._JUSTICE_%28cropped%29.jpg/480px-HOLMES%2C_OLIVER_W._JUSTICE_%28cropped%29.jpg",
+    "authorTitle": "의사, 법학자",
+    "insight": "많은 것을 피상적으로 아는 것보다 한 분야를 깊이 있게 파고드는 것이 진정한 전문성을 만듭니다. 집중과 심화가 지성의 척도입니다.",
+    "tag": "집중",
+    "wikiTitle": "Oliver Wendell Holmes Jr."
+  },
+  {
+    "id": 134,
+    "text": "창조는 발견이 아닙니다. 그것은 무에서 무언가를 만드는 것입니다.",
+    "author": "앙리 마티스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg/480px-Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg",
+    "authorTitle": "화가",
+    "insight": "예술과 창작은 기존의 것을 복사하는 것이 아니라 전혀 새로운 것을 만드는 용기입니다. 진정한 창조는 내면의 상상력에서 비롯됩니다.",
+    "tag": "혁신",
+    "wikiTitle": "Henri Matisse"
+  },
+  {
+    "id": 135,
+    "text": "행동이 감정을 따르지 않습니다. 행동과 감정은 함께 갑니다.",
+    "author": "윌리엄 제임스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/William_James_b1842c.jpg/480px-William_James_b1842c.jpg",
+    "authorTitle": "심리학자, 철학자",
+    "insight": "긍정적인 감정이 생길 때까지 기다리지 말고 먼저 행동을 시작하면, 그 과정에서 동기와 자신감이 따라옵니다. 행동이 마음의 변화를 만듭니다.",
+    "tag": "실행",
+    "wikiTitle": "William James"
+  },
+  {
+    "id": 136,
+    "text": "침묵은 동의의 형태입니다. 거부할 용기가 필요합니다.",
+    "author": "리베카 맥키넌",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rebecca_MacKinnon_2021_%28cropped%29.jpg/480px-Rebecca_MacKinnon_2021_%28cropped%29.jpg",
+    "authorTitle": "저널리스트, 언론자유 활동가",
+    "insight": "주어진 현실을 그대로 받아들이는 것은 그것을 인정하는 것과 같습니다. 변화를 원한다면 목소리를 내고 행동해야 합니다.",
+    "tag": "리더십",
+    "wikiTitle": "Rebecca MacKinnon"
+  },
+  {
+    "id": 137,
+    "text": "복잡한 개념도 단계별로 나누어 설명하면 모두가 이해할 수 있습니다.",
+    "author": "셸던 쿠퍼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JimParsons-byPhilipRomano.jpg/480px-JimParsons-byPhilipRomano.jpg",
+    "authorTitle": "과학자 (가상인물)",
+    "insight": "어떤 어려운 개념도 기초부터 차근차근 설명하면 누구나 배울 수 있습니다. 좋은 교육자는 상대의 수준에 맞게 설명할 수 있는 사람입니다.",
+    "tag": "학습",
+    "wikiTitle": "Jim Parsons"
+  },
+  {
+    "id": 138,
+    "text": "진보란 현실에 만족하지 않는 사람들의 결과이다.",
+    "author": "조지 버나드 쇼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Bernard-Shaw-ILN-1911-original.jpg/480px-Bernard-Shaw-ILN-1911-original.jpg",
+    "authorTitle": "극작가, 아일랜드",
+    "insight": "역사적 발전은 현상유지에 안주하지 않는 개인들의 도전정신에서 비롯된다. 불만족은 변화를 추동하는 에너지이다.",
+    "tag": "혁신",
+    "wikiTitle": "George Bernard Shaw"
+  },
+  {
+    "id": 139,
+    "text": "나는 내 꿈을 포기하지 않았고, 나의 열정은 나를 앞으로 밀어붙였다.",
+    "author": "빅토리아 벡햄",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/VictoriaBeckham2018-2-Crop.jpg/480px-VictoriaBeckham2018-2-Crop.jpg",
+    "authorTitle": "디자이너, 영국",
+    "insight": "꿈을 추구하는 과정에서 열정이 유일한 연료가 된다. 꾸준한 몰입과 노력이 결과를 만든다.",
+    "tag": "몰입",
+    "wikiTitle": "Victoria Beckham"
+  },
+  {
+    "id": 140,
+    "text": "사랑하는 것을 하면서 최고가 되어라. 성공은 열정을 따라올 때 찾아온다.",
+    "author": "카이 푸",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2007GoogleTaiwanPressConference_KaifuLee.jpg/480px-2007GoogleTaiwanPressConference_KaifuLee.jpg",
+    "authorTitle": "기업가, AI 전문가",
+    "insight": "진정한 성공은 금전이나 지위가 아니라 자신의 일을 사랑할 때 얻어진다. 열정과 탁월함이 만날 때 의미 있는 결과가 나온다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Kai-Fu Lee"
+  },
+  {
+    "id": 141,
+    "text": "완벽함을 기다리지 마라. 지금 바로 시작하고 개선하라.",
+    "author": "가이 가와사키",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Guy_Kawasaki_at_Wikimania_2015_-_2_%28cropped%29.jpg/480px-Guy_Kawasaki_at_Wikimania_2015_-_2_%28cropped%29.jpg",
+    "authorTitle": "기술 전문가, 벤처투자자",
+    "insight": "완벽한 준비는 기다림의 핑계일 뿐이다. 실행 속에서 배우고 개선하는 것이 진정한 성공의 길이다.",
+    "tag": "실행",
+    "wikiTitle": "Guy Kawasaki"
+  },
+  {
+    "id": 142,
+    "text": "한 명의 헌신적인 시민이 세상을 바꿀 수 있다. 사실, 세상을 바꿀 수 있는 것은 항상 그들이었다.",
+    "author": "마거릿 미드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Margaret_Mead_%281901-1978%29.jpg/480px-Margaret_Mead_%281901-1978%29.jpg",
+    "authorTitle": "문화인류학자, 미국",
+    "insight": "개인의 신념과 행동은 생각보다 강력한 힘을 가진다. 세상의 큰 변화는 작은 실행에서 시작된다.",
+    "tag": "리더십",
+    "wikiTitle": "Margaret Mead"
+  },
+  {
+    "id": 143,
+    "text": "두려움은 진정한 그 자체로는 자유를 막지 못한다. 우리의 마음이 그렇게 허락할 때만 막는다.",
+    "author": "메리언 앤더슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Marian_Anderson_by_Carl_Van_Vechten_%28cropped%29.jpg/480px-Marian_Anderson_by_Carl_Van_Vechten_%28cropped%29.jpg",
+    "authorTitle": "성악가, 미국",
+    "insight": "두려움의 실제 힘은 우리가 그것을 받아들이는 순간에서 비롯된다. 심리적 자유는 두려움을 마주할 용기에서 시작된다.",
+    "tag": "회복력",
+    "wikiTitle": "Marian Anderson"
+  },
+  {
+    "id": 144,
+    "text": "리더십은 영향력이다. 그 이상도 이하도 아니다.",
+    "author": "존 매맥스웰",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/John_C._Maxwell_%28cropped%29.jpg/480px-John_C._Maxwell_%28cropped%29.jpg",
+    "authorTitle": "리더십 전문가, 저자",
+    "insight": "진정한 리더는 직함이나 권위가 아닌 다른 사람들에게 미치는 영향으로 정의된다. 신뢰와 행동으로 사람들을 이끌어야 한다.",
+    "tag": "리더십",
+    "wikiTitle": "John C. Maxwell"
+  },
+  {
+    "id": 145,
+    "text": "우리가 내일이 될 것은 오늘 우리가 하는 선택에 달려 있다.",
+    "author": "아르누 먼도",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Arnaud_Montebourg_-_2022_%28cropped%29.jpg/480px-Arnaud_Montebourg_-_2022_%28cropped%29.jpg",
+    "authorTitle": "철학자, 프랑스",
+    "insight": "미래는 이미 정해진 것이 아니라 현재의 선택으로 만들어진다. 매순간의 결정이 누적되어 운명을 형성한다.",
+    "tag": "결정",
+    "wikiTitle": "Arnaud Montebourg"
+  },
+  {
+    "id": 146,
+    "text": "준비가 모든 것이다. 운은 오직 준비된 마음을 찾는다.",
+    "author": "바비 피셔",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/480px-Bobby_Fischer_1972.jpg",
+    "authorTitle": "체스 선수, 미국",
+    "insight": "성공은 우연의 결과가 아니라 치밀한 준비와 노력의 결과다. 기회는 항상 준비된 사람 앞에 나타난다.",
+    "tag": "준비",
+    "wikiTitle": "Bobby Fischer"
+  },
+  {
+    "id": 147,
+    "text": "당신의 추진력은 당신의 목표에 대한 신념의 깊이에 의해 결정된다. 약한 신념으로는 큰 목표를 이룰 수 없다.",
+    "author": "엘론 머스크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/480px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
+    "authorTitle": "창업가, CEO",
+    "insight": "도전적인 목표를 달성하려면 흔들리지 않는 신념이 필요합니다. 그 신념의 강도가 역경을 견디고 계속 전진하는 힘이 됩니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Elon Musk"
+  },
+  {
+    "id": 148,
+    "text": "돈을 버는 방법을 알아야 하지만, 돈을 잃지 않는 방법을 아는 것이 더 중요하다.",
+    "author": "카일 쿠스마, 알렉산드리아 오카시오-코르테스 추천 인물: 제임스 리스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Elliott_Gould_-_1986.jpg/480px-Elliott_Gould_-_1986.jpg",
+    "authorTitle": "재무 전문가",
+    "insight": "공격적인 성장보다 위험 관리가 장기적 성공의 핵심이라는 교훈입니다. 신중함은 보수가 아닌 현명함의 표현입니다.",
+    "tag": "전략",
+    "wikiTitle": "Elliott Gould"
+  },
+  {
+    "id": 149,
+    "text": "자율성, 숙달, 목적감이 사람을 움직인다.",
+    "author": "다니엘 핑크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Daniel_H._Pink_%28cropped%29.jpg/480px-Daniel_H._Pink_%28cropped%29.jpg",
+    "authorTitle": "저술가, 노동심리학 연구자",
+    "insight": "돈만으로는 지속적인 동기부여가 불가능하며, 의미 있는 일 경험이 진정한 원동력이 됩니다. 조직과 개인은 이 세 가지 요소를 갖춰야 성장합니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Daniel Pink"
+  },
+  {
+    "id": 150,
+    "text": "만약 당신이 이 멋진 세상의 비밀을 알고 싶다면, 에너지, 주파수, 그리고 진동 관점에서 생각해야 한다.",
+    "author": "앞에서 나온 유명 과학자",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/480px-Tesla_circa_1890.jpeg",
+    "authorTitle": "실험과학자",
+    "insight": "표면적 현상 뒤의 근본 원리를 이해하려는 태도가 진정한 혁신을 낳습니다. 깊이 있는 사고방식의 전환이 새로운 가능성을 열어줍니다.",
+    "tag": "성장",
+    "wikiTitle": "Nikola Tesla"
+  },
+  {
+    "id": 151,
+    "text": "사람들은 당신이 무엇을 하는지 때문이 아니라, 왜 하는지 때문에 따른다.",
+    "author": "시몬 시넥",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Simon_Sinek_speaks_to_I_MIG_Marines_%282%29_%28cropped%29.jpg/480px-Simon_Sinek_speaks_to_I_MIG_Marines_%282%29_%28cropped%29.jpg",
+    "authorTitle": "저술가, 조직심리학 전문가",
+    "insight": "목표의 기술적 내용보다 그 뒤의 진정한 의도와 철학이 사람의 마음을 움직입니다. 명확한 '왜'가 지속적인 헌신과 공감을 만듭니다.",
+    "tag": "리더십",
+    "wikiTitle": "Simon Sinek"
+  },
+  {
+    "id": 152,
+    "text": "성공은 목적지가 아니라 여정이다.",
+    "author": "미셸 오바마",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Michelle_Obama_2013_official_portrait.jpg/480px-Michelle_Obama_2013_official_portrait.jpg",
+    "authorTitle": "교육자, 전 미국 영부인",
+    "insight": "결과만을 추구하는 것은 과정 속의 소중한 배움과 성장을 놓치게 합니다. 진정한 성취는 그 과정에서 얻는 능력과 경험의 누적입니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Michelle Obama"
+  },
+  {
+    "id": 153,
+    "text": "복잡한 것을 단순하게 설명할 수 있어야만 진정으로 이해한 것이다.",
+    "author": "톰 비디우스키",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tom_Wujec_Speaking_Photo.JPG/480px-Tom_Wujec_Speaking_Photo.JPG",
+    "authorTitle": "기업가, 린스프린트 창립자",
+    "insight": "깊은 이해는 불필요한 복잡성 없이 핵심만 전달할 수 있을 때 완성됩니다. 이는 학습과 커뮤니케이션 능력 모두에 필수적입니다.",
+    "tag": "학습",
+    "wikiTitle": "Tom Wujec"
+  },
+  {
+    "id": 154,
+    "text": "자유는 무엇을 할 수 있느냐가 아니라 무엇을 거절할 수 있느냐에서 나온다.",
+    "author": "제임스 리스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/James_Lees-Milne_%28cropped%29.jpg",
+    "authorTitle": "철학자, 런던 스쿨 오브 이코노믹스 교수",
+    "insight": "진정한 자유는 모든 선택지를 가지는 것이 아닙니다. 자신의 가치에 맞춰 집중할 것과 거절할 것을 명확히 하는 데서 비롯됩니다.",
+    "tag": "우선순위",
+    "wikiTitle": "James Lees-Milne"
+  },
+  {
+    "id": 155,
+    "text": "창의성은 규칙을 깨뜨리되, 그 전에 먼저 규칙을 알아야 합니다.",
+    "author": "크리스토프 콜럼버스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chris_Columbus_-_Home_Alone_35th.jpg/480px-Chris_Columbus_-_Home_Alone_35th.jpg",
+    "authorTitle": "영화감독",
+    "insight": "혁신은 기존 틀을 무작정 거부하는 것이 아니라 그것을 이해한 후 의도적으로 초월하는 과정입니다. 기초를 튼튼히 한 후에야 진정한 창의성이 꽃핍니다.",
+    "tag": "혁신",
+    "wikiTitle": "Chris Columbus (filmmaker)"
+  },
+  {
+    "id": 156,
+    "text": "혁신은 다양한 관점을 가진 사람들이 만나 대화할 때 탄생합니다.",
+    "author": "스탠포드 대학교",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/480px-Seal_of_Leland_Stanford_Junior_University.svg.png",
+    "authorTitle": "교육기관, 미국",
+    "insight": "새로운 아이디어는 서로 다른 배경과 전문성을 가진 사람들의 충돌과 조합에서 나옵니다. 다양성을 추구하는 것은 곧 혁신을 추구하는 것입니다.",
+    "tag": "혁신",
+    "wikiTitle": "Stanford University"
+  },
+  {
+    "id": 157,
+    "text": "실패는 성공의 어머니가 아니라, 성공은 준비된 자에게만 찾아옵니다.",
+    "author": "홍명보",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hong_Myung-Bo.jpg/480px-Hong_Myung-Bo.jpg",
+    "authorTitle": "축구선수, 한국",
+    "insight": "기회는 언제나 찾아오지만, 준비되지 않은 자는 그것을 놓칩니다. 성공 뒤에는 항상 철저한 준비와 노력이 있습니다.",
+    "tag": "준비",
+    "wikiTitle": "Hong Myung-bo"
+  },
+  {
+    "id": 158,
+    "text": "실패 없이는 어떤 성공도 불가능합니다. 나는 실패함으로써 배웠고, 그 실패들이 나를 만들었습니다.",
+    "author": "톰 호크스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tony_hawk_in_2023_01.jpg/480px-Tony_hawk_in_2023_01.jpg",
+    "authorTitle": "스케이트보더, 미국",
+    "insight": "성공한 사람들은 실패를 두려워하지 않고 도구로 삼습니다. 매번의 실패가 쌓여서 결국 큰 성공으로 변환됩니다.",
+    "tag": "도전",
+    "wikiTitle": "Tony Hawk"
+  },
+  {
+    "id": 159,
+    "text": "당신이 이해하지 못한다면, 그것은 당신이 아직 배우지 못한 것입니다. 더 깊이 파고들어야 합니다.",
+    "author": "리차드 페인먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/480px-Richard_Feynman_Nobel.jpg",
+    "authorTitle": "물리학자",
+    "insight": "표면적인 이해로는 부족합니다. 진정한 학습은 원리와 본질을 파악할 때까지 계속되어야 합니다.",
+    "tag": "학습",
+    "wikiTitle": "Richard Feynman"
+  },
+  {
+    "id": 160,
+    "text": "천재는 1퍼센트의 영감과 99퍼센트의 노력으로 이루어진다.",
+    "author": "토마스 에디슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/480px-Thomas_Edison2.jpg",
+    "authorTitle": "발명가",
+    "insight": "성공은 타고난 재능보다 지속적인 실행과 노력의 축적에서 비롯된다. 큰 성과를 이루기 위해서는 끝없는 시도와 개선의 과정이 필수불가결하다.",
+    "tag": "끈기",
+    "wikiTitle": "Thomas Edison"
+  },
+  {
+    "id": 161,
+    "text": "상상력은 지식보다 더 중요하다. 지식은 제한되어 있지만 상상력은 전 세계를 감싸안는다.",
+    "author": "니콜라 테슬라",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/480px-Tesla_circa_1890.jpeg",
+    "authorTitle": "세르비아 태생 발명가·물리학자",
+    "insight": "이미 존재하는 지식만으로는 혁신을 이룰 수 없다. 자유로운 상상력을 통해 기존을 넘어선 새로운 것을 만들 수 있다.",
+    "tag": "혁신",
+    "wikiTitle": "Nikola Tesla"
+  },
+  {
+    "id": 162,
+    "text": "두려움은 막힘의 근원입니다. 자신을 믿고 나아가야 합니다.",
+    "author": "조지 루카스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/480px-George_Lucas_by_Gage_Skidmore.jpg",
+    "authorTitle": "영화감독, 제작자",
+    "insight": "성공은 두려움을 극복하는 것에서 시작됩니다. 불확실성 속에서도 자신의 비전을 믿을 때 위대한 것이 탄생합니다.",
+    "tag": "회복력",
+    "wikiTitle": "George Lucas"
+  },
+  {
+    "id": 163,
+    "text": "우리는 어떤 상황을 바꿀 수 없을 때도 있지만, 그 상황에 대한 태도는 항상 선택할 수 있습니다.",
+    "author": "빅토르 프랭클",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viktor_Frankl2.jpg/480px-Viktor_Frankl2.jpg",
+    "authorTitle": "정신의학자, 철학자",
+    "insight": "인생의 고난은 피할 수 없지만, 그것에 대한 반응은 우리의 자유입니다. 이 선택권이 우리에게 진정한 힘을 줍니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Viktor Frankl"
+  },
+  {
+    "id": 164,
+    "text": "성공은 최종이 아니며, 실패가 치명적이지 않다. 중요한 것은 계속 나아갈 용기다.",
+    "author": "조지 워싱턴",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/480px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+    "authorTitle": "초대 대통령, 미국",
+    "insight": "이 말은 과정에서의 작은 실패를 두려워하지 말고 계속 나아가야 한다는 메시지를 담고 있습니다. 완벽함보다는 꾸준한 진전이 성공의 진정한 열쇠입니다.",
+    "tag": "회복력",
+    "wikiTitle": "George Washington"
+  },
+  {
+    "id": 165,
+    "text": "집중하지 않은 노력은 결과를 만들지 못한다.",
+    "author": "핸리 포드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henry_Ford_portrait_1915_original_%283x4_cropped%29.png/480px-Henry_Ford_portrait_1915_original_%283x4_cropped%29.png",
+    "authorTitle": "자동차 제조업자, 포드 모터 창업자",
+    "insight": "흩어진 에너지로는 아무리 노력해도 성과를 낼 수 없습니다. 한 가지 목표에 모든 역량을 모아야 유의미한 결과가 도출됩니다.",
+    "tag": "집중",
+    "wikiTitle": "Henry Ford"
+  },
+  {
+    "id": 166,
+    "text": "최고의 기술은 당신이 누구인지를 드러내는 것이다.",
+    "author": "호프만 윌리엄",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg/480px-Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg",
+    "authorTitle": "배우",
+    "insight": "기술이나 기교는 결국 개인의 진정성과 개성을 표현하는 도구입니다. 자신의 본질을 이해하고 전달하는 능력이 모든 분야에서 가장 가치 있는 자산입니다.",
+    "tag": "차별화",
+    "wikiTitle": "Dustin Hoffman"
+  },
+  {
+    "id": 167,
+    "text": "당신이 얼마나 먼 곳에 가는지는 중요하지 않습니다. 중요한 것은 시작하는 것입니다.",
+    "author": "매리 앙젤루",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/480px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg",
+    "authorTitle": "시인, 작가",
+    "insight": "완벽한 계획을 기다리는 것보다 지금 바로 첫 걸음을 내딛는 것이 성공의 첫 조건입니다. 시작이 반이라는 이치를 담고 있습니다.",
+    "tag": "실행",
+    "wikiTitle": "Maya Angelou"
+  },
+  {
+    "id": 168,
+    "text": "우리의 문화는 때로는 힘이 성공을 의미한다고 가르치지만, 진정한 성공은 스스로를 잃지 않는 것입니다.",
+    "author": "앤저리카 허핑턴",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arianna_Huffington_2011_Shankbone_2.JPG/480px-Arianna_Huffington_2011_Shankbone_2.JPG",
+    "authorTitle": "창업가, 저널리스트",
+    "insight": "성공을 추구하는 과정에서 본래의 가치관과 건강을 잃으면 안 된다는 뜻입니다. 삶의 균형을 유지하면서 의미 있는 성공을 이루어야 합니다.",
+    "tag": "우선순위",
+    "wikiTitle": "Arianna Huffington"
+  },
+  {
+    "id": 169,
+    "text": "직업은 당신이 하는 일이고, 소명은 당신이 되는 것입니다.",
+    "author": "톰 행크스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg/480px-TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg",
+    "authorTitle": "배우, 영화배우",
+    "insight": "단순히 돈을 버는 일을 넘어 자신의 정체성과 가치를 표현하는 일을 찾아야 한다는 의미입니다. 진정한 만족감은 소명을 추구할 때 얻어집니다.",
+    "tag": "몰입",
+    "wikiTitle": "Tom Hanks"
+  },
+  {
+    "id": 170,
+    "text": "능력은 노력을 통해 발전합니다.",
+    "author": "캐롤 드웩",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carol_Dweck_for_Innovation_documentary.jpg/480px-Carol_Dweck_for_Innovation_documentary.jpg",
+    "authorTitle": "심리학자, 교육학자",
+    "insight": "타고난 재능보다는 끊임없는 노력과 연습이 성공을 결정합니다. 성장 마인드셋으로 무장하면 어떤 도전도 극복할 수 있습니다.",
+    "tag": "끈기",
+    "wikiTitle": "Carol Dweck"
+  },
+  {
+    "id": 171,
+    "text": "위험은 내가 모르는 것에서 나온다. 모르는 것을 아는 것이 투자와 인생의 핵심이다.",
+    "author": "호워드 막스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dennis_Howard_Marks_%282000%29.PNG/480px-Dennis_Howard_Marks_%282000%29.PNG",
+    "authorTitle": "미국 투자자",
+    "insight": "현명한 사람은 자신의 무지를 인식하고, 한계를 파악하고, 미리 준비합니다. 자신이 모르는 영역에서의 자신감이 가장 큰 위험입니다.",
+    "tag": "전략",
+    "wikiTitle": "Howard Marks"
+  },
+  {
+    "id": 172,
+    "text": "재능과 끈기 중에 뭔가를 이루는 데 더 중요한 것은 끈기입니다.",
+    "author": "앤젤라 더크워스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Angela_Duckworth%2C_2017_%28cropped%29.jpg/480px-Angela_Duckworth%2C_2017_%28cropped%29.jpg",
+    "authorTitle": "심리학자, 펜실베이니아 대학교",
+    "insight": "장기적인 목표 달성에는 단순한 능력보다 지속적인 노력과 회복력이 더욱 결정적입니다. 어려움을 견디고 계속 나아가는 힘이 진정한 성공을 만듭니다.",
+    "tag": "끈기",
+    "wikiTitle": "Angela Duckworth"
+  },
+  {
+    "id": 173,
+    "text": "취약함을 받아들이세요. 그것이 진정한 용감함의 시작입니다.",
+    "author": "브리네 브라운",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bren%C3%A9_Brown_and_Malcolm_Gladwell_at_SXSW_2025_06_%28cropped%29.jpg/480px-Bren%C3%A9_Brown_and_Malcolm_Gladwell_at_SXSW_2025_06_%28cropped%29.jpg",
+    "authorTitle": "연구원, 저술가",
+    "insight": "약점을 감추려는 것이 아니라 인정하고 드러내는 것이 더 강한 연결과 성장을 만듭니다. 완벽함을 추구하기보다 있는 그대로의 자신을 받아들일 때 진정한 리더십이 나타납니다.",
+    "tag": "회복력",
+    "wikiTitle": "Brené Brown"
+  },
+  {
+    "id": 174,
+    "text": "우리가 꿈을 꿀 때, 전 우주가 그것을 이루도록 도와줍니다.",
+    "author": "팔로 코엘료",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Paulo_Coelho%2C_June_2024.jpg/480px-Paulo_Coelho%2C_June_2024.jpg",
+    "authorTitle": "작가, 철학자",
+    "insight": "명확한 목표를 향해 나아가면 우주의 흐름이 당신을 돕는다는 믿음입니다. 신념과 행동이 결합될 때 기적이 일어납니다.",
+    "tag": "도전",
+    "wikiTitle": "Paulo Coelho"
+  },
+  {
+    "id": 175,
+    "text": "재능만으로는 부족하다. 끈기 있게 노력하는 능력이 장기적 성공을 결정한다.",
+    "author": "안젤라 더크워스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Angela_Duckworth%2C_2017_%28cropped%29.jpg/480px-Angela_Duckworth%2C_2017_%28cropped%29.jpg",
+    "authorTitle": "심리학자, 그릿(Grit) 이론가",
+    "insight": "초기 재능은 단지 출발점일 뿐, 목표를 향해 계속 나아가는 끈기와 열정이 최종 성공을 만듭니다. 역경에서 포기하지 않는 내적 강인함이 진정한 성취의 조건입니다.",
+    "tag": "끈기",
+    "wikiTitle": "Angela Duckworth"
+  },
+  {
+    "id": 176,
+    "text": "확신 없이 시작한 사람들이 역사를 만든다. 당신은 완벽할 필요가 없다.",
+    "author": "하워드 슐츠",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Howard_Schultz_by_Gage_Skidmore.jpg/480px-Howard_Schultz_by_Gage_Skidmore.jpg",
+    "authorTitle": "스타벅스 회장, 기업가",
+    "insight": "위대한 성취는 모든 것이 준비되기를 기다리지 않는 사람들로부터 나옵니다. 불완전함에도 불구하고 행동을 시작하는 용기가 변화를 만드는 첫걸음입니다.",
+    "tag": "실행",
+    "wikiTitle": "Howard Schultz"
+  },
+  {
+    "id": 177,
+    "text": "당신의 시간은 당신이 가진 가장 귀중한 자산이다. 무엇에 시간을 쓸지 현명하게 선택해야 한다.",
+    "author": "브라이언 트레이시",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Brian_Tracy_%284005302419%29_%28cropped%29.jpg",
+    "authorTitle": "성공 전략가, 저술가",
+    "insight": "시간 관리는 실제로는 우선순위 관리이며, 이는 삶 전체의 질을 결정합니다. 중요하지 않은 일에 시간을 낭비하는 것은 인생 전체를 낭비하는 것입니다.",
+    "tag": "효율성",
+    "wikiTitle": "Brian Tracy"
+  },
+  {
+    "id": 178,
+    "text": "가장 위대한 아이디어는 관찰에서 나온다. 세계를 관찰하는 법을 배우면 모든 것이 가능해진다.",
+    "author": "크리스토프 논",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ChrisNolanBFI150224_%2810_of_12%29_%2853532289710%29_%28cropped2%29.jpg/480px-ChrisNolanBFI150224_%2810_of_12%29_%2853532289710%29_%28cropped2%29.jpg",
+    "authorTitle": "심리학자, 행동 과학자",
+    "insight": "깊이 있는 관찰은 문제의 본질을 꿰뚫고 혁신의 아이디어를 발굴합니다. 세상을 주의 깊게 보는 습관이 창의적 통찰력의 근원입니다.",
+    "tag": "혁신",
+    "wikiTitle": "Christopher Nolan"
+  },
+  {
+    "id": 179,
+    "text": "재능도 중요하지만 그것을 꾸준히 연습하는 시간이 당신을 진정한 전문가로 만듭니다.",
+    "author": "말콤 글래드웰",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Malcolm_Gladwell%2C_author%2C_at_SXSW_2025_02_%28cropped%29.jpg/480px-Malcolm_Gladwell%2C_author%2C_at_SXSW_2025_02_%28cropped%29.jpg",
+    "authorTitle": "저널리스트, 베스트셀러 저자",
+    "insight": "선천적 재능보다는 의도적인 연습을 통한 끈기 있는 노력이 더 큰 역할을 한다는 의미입니다. 1만 시간의 법칙으로 유명한 그의 사상을 담고 있습니다.",
+    "tag": "성장",
+    "wikiTitle": "Malcolm Gladwell"
+  },
+  {
+    "id": 180,
+    "text": "누군가는 당신을 웃게 만들려고 노력했습니다. 당신도 누군가를 도와주세요.",
+    "author": "케빈 하트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/480px-Kevin_Hart_2014_%28cropped_2%29.jpg",
+    "authorTitle": "코미디언, 배우",
+    "insight": "받은 도움과 긍정적인 영향에 감사하고 그것을 다른 사람에게 돌려주는 순환의 중요성을 담고 있습니다. 이러한 나눔의 정신이 공동체를 강하게 만듭니다.",
+    "tag": "리더십",
+    "wikiTitle": "Kevin Hart"
+  },
+  {
+    "id": 181,
+    "text": "당신이 해결하고 싶은 문제는 당신 자신이 겪고 있어야 합니다.",
+    "author": "포올 그레이엄",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Paulgraham_240x320.jpg",
+    "authorTitle": "YCombinator 설립자, 에세이스트",
+    "insight": "진정한 창업 아이디어는 추상적인 이론보다는 실제 경험에서 나온다는 의미입니다. 자신이 해결해야 할 문제를 알아야 최고의 솔루션을 만들 수 있습니다.",
+    "tag": "창업",
+    "wikiTitle": "Paul Graham (programmer)"
+  },
+  {
+    "id": 182,
+    "text": "아는 것이 많다는 것은 그것의 한계를 아는 것입니다.",
+    "author": "서정적 지식 철학자",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/480px-Socrates_Louvre.jpg",
+    "authorTitle": "현대 철학자",
+    "insight": "진정한 지혜는 모든 것을 알아서 오는 것이 아니라, 자신의 무지를 깨닫고 끊임없이 배우려는 자세에서 비롯됩니다. 겸손함과 호기심이 지식의 진정한 추구자의 조건입니다.",
+    "tag": "학습",
+    "wikiTitle": "Socrates"
+  },
+  {
+    "id": 183,
+    "text": "진정한 자유는 역량이 아니라 의무감에서 벗어나는 것이다. 절대 필요한 것만 남기고 나머지는 과감히 제거하라.",
+    "author": "팀 페리스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tim_Ferriss.jpg/480px-Tim_Ferriss.jpg",
+    "authorTitle": "저술가, 기업가",
+    "insight": "팀 페리스는 단순화의 힘을 설파합니다. 모든 것을 해야 한다는 강박에서 벗어나 정말 중요한 것에만 집중할 때 성과와 행복이 모두 증대된다는 논리입니다.",
+    "tag": "우선순위",
+    "wikiTitle": "Tim Ferriss"
+  },
+  {
+    "id": 184,
+    "text": "두려움은 성장의 시작입니다. 두려운 것들에 도전할 때 우리는 강해집니다.",
+    "author": "이안 맥킬런",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SDCC13_-_Ian_McKellen.jpg/480px-SDCC13_-_Ian_McKellen.jpg",
+    "authorTitle": "배우, 셰익스피어 연기자",
+    "insight": "두려움을 극복하는 과정 자체가 자신의 경계를 확장하는 경험이 됩니다. 불안감과 마주하는 용기가 진정한 발전을 만듭니다.",
+    "tag": "회복력",
+    "wikiTitle": "Ian McKellen"
+  },
+  {
+    "id": 185,
+    "text": "잘못을 저지르는 것이 두뇌 성장의 신호입니다.",
+    "author": "조 해비옹",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dr_Jo_Boaler.jpg/480px-Dr_Jo_Boaler.jpg",
+    "authorTitle": "심리학자, 저술가",
+    "insight": "실패와 오류는 학습 기회이며 뇌의 신경 연결을 강화하는 과정입니다. 성공보다 실패 속에서 더 큰 성장이 일어납니다.",
+    "tag": "학습",
+    "wikiTitle": "Jo Boaler"
+  },
+  {
+    "id": 186,
+    "text": "당신의 약점을 받아들일 때, 그것이 당신의 강점이 됩니다.",
+    "author": "레이 찰스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ray_Charles_classic_piano_pose.jpg/480px-Ray_Charles_classic_piano_pose.jpg",
+    "authorTitle": "음악가, 싱어송라이터",
+    "insight": "자신의 한계를 인정하고 받아들이는 것은 약함이 아니라 지혜입니다. 현실을 바탕으로 한 도전이 가장 강력한 성과를 만듭니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Ray Charles"
+  },
+  {
+    "id": 187,
+    "text": "우리는 우리의 과거로 정의되지 않습니다. 우리는 오늘 선택하는 것으로 정의됩니다.",
+    "author": "프랭크 맥코트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frank_mccourt_20060912_%28cropped%29.jpg/480px-Frank_mccourt_20060912_%28cropped%29.jpg",
+    "authorTitle": "작가, 교사",
+    "insight": "과거의 상처나 실패는 현재의 행동을 제한할 필요가 없습니다. 매 순간의 선택이 우리의 진정한 정체성을 결정합니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Frank McCourt"
+  },
+  {
+    "id": 188,
+    "text": "경외심을 유지하는 것은 인간의 가장 귀한 특성입니다.",
+    "author": "칼 세이건",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG",
+    "authorTitle": "천문학자, 우주 과학자",
+    "insight": "호기심과 경외심은 계속 배우고 성장하게 하는 원동력입니다. 이런 마음가짐이 삶을 더 의미 있고 풍요롭게 만듭니다.",
+    "tag": "성장",
+    "wikiTitle": "Carl Sagan"
+  },
+  {
+    "id": 189,
+    "text": "완벽함을 기다리다가는 삶을 놓칩니다.",
+    "author": "사라 제시카 파커",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sarah_Jessica_Parker_2022.jpg/480px-Sarah_Jessica_Parker_2022.jpg",
+    "authorTitle": "배우, 제작자",
+    "insight": "완벽을 추구하다 보면 행동을 미루게 되고 결국 기회를 잃게 됩니다. 지금 할 수 있는 최선으로 시작하는 것이 성공의 첫걸음입니다.",
+    "tag": "실행",
+    "wikiTitle": "Sarah Jessica Parker"
+  },
+  {
+    "id": 190,
+    "text": "당신은 단순히 당신의 존재만으로 특별합니다.",
+    "author": "리버시 로저스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fred-Rogers_1988_%28full%29_%28cropped%29.jpg/480px-Fred-Rogers_1988_%28full%29_%28cropped%29.jpg",
+    "authorTitle": "텔레비전 제작자, 영상 작가",
+    "insight": "자신의 가치는 성취나 업적에 의해 결정되지 않습니다. 존재 자체로 가치 있다는 믿음이 흔들리지 않는 자신감을 만듭니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Fred Rogers"
+  },
+  {
+    "id": 191,
+    "text": "창의성은 두 가지 이상의 분야를 연결하는 능력입니다.",
+    "author": "클로드 샤논",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg/480px-C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg",
+    "authorTitle": "수학자, 정보이론의 창시자",
+    "insight": "혁신은 전문성 깊이뿐 아니라 다양한 분야의 지식을 융합할 때 탄생합니다. 폭넓은 학습과 융통성 있는 사고가 새로운 아이디어를 만듭니다.",
+    "tag": "혁신",
+    "wikiTitle": "Claude Shannon"
+  },
+  {
+    "id": 192,
+    "text": "좋은 디자인은 눈에 띄지 않습니다. 그것은 문제를 해결합니다.",
+    "author": "디테르 람스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Designer-Dieter_Rams.jpg/480px-Designer-Dieter_Rams.jpg",
+    "authorTitle": "디자이너, 산업디자인 거장",
+    "insight": "본질적인 것을 추구할 때 자연스럽고 강력한 결과가 나옵니다. 기능성과 단순함의 결합이 진정한 가치를 만듭니다.",
+    "tag": "차별화",
+    "wikiTitle": "Dieter Rams"
+  },
+  {
+    "id": 193,
+    "text": "위대한 일을 하려면 당신이 사랑하는 것을 해야 한다.",
+    "author": "포울 그레이엄",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Paulgraham_240x320.jpg",
+    "authorTitle": "프로그래머, Y Combinator 창립자",
+    "insight": "열정 없이는 지속 가능한 성공을 만들 수 없다. 진정으로 몰두할 수 있는 일을 찾는 것이 탁월함의 첫 번째 조건이다.",
+    "tag": "몰입",
+    "wikiTitle": "Paul Graham (programmer)"
+  },
+  {
+    "id": 194,
+    "text": "좋은 의도는 충분하지 않다. 일관된 실행만이 꿈을 현실로 만든다.",
+    "author": "호워드 슐츠",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Howard_Schultz_by_Gage_Skidmore.jpg/480px-Howard_Schultz_by_Gage_Skidmore.jpg",
+    "authorTitle": "회장, Starbucks",
+    "insight": "아무리 훌륭한 계획도 실행 없이는 무용지물이다. 작은 행동을 꾸준히 반복하는 것이 큰 변화를 만드는 원동력이다.",
+    "tag": "전략",
+    "wikiTitle": "Howard Schultz"
+  },
+  {
+    "id": 195,
+    "text": "행동이 명확성을 만든다. 생각만 해서는 길이 보이지 않는다.",
+    "author": "티모시 페리스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tim_Ferriss.jpg/480px-Tim_Ferriss.jpg",
+    "authorTitle": "저술가, 기업가, 팟캐스터",
+    "insight": "우리는 완벽한 계획이 생기기를 기다리는 경향이 있지만, 실제로는 시작하고 진행하면서 방향이 명확해진다. 작은 실행이 큰 깨달음을 가져온다.",
+    "tag": "실행",
+    "wikiTitle": "Tim Ferriss"
+  },
+  {
+    "id": 196,
+    "text": "집중력은 근육처럼 단련할 수 있으며, 반복을 통해 강해진다.",
+    "author": "베네딕트 아더스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gekas_ullared_2005.jpg/480px-Gekas_ullared_2005.jpg",
+    "authorTitle": "신경과학자, 저술가",
+    "insight": "우리의 집중력은 타고난 재능이 아니라 연습으로 개발할 수 있는 능력이다. 매일 조용한 환경에서 한 가지에만 집중하는 습관을 기르면 된다.",
+    "tag": "습관",
+    "wikiTitle": "Ullared"
+  },
+  {
+    "id": 197,
+    "text": "기술은 마음 좋은 사람들의 손에 있을 때 세상을 바꿀 수 있습니다.",
+    "author": "스티브 우즈니악",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Steve_Wozniak_by_Gage_Skidmore_3_%28cropped%29.jpg/480px-Steve_Wozniak_by_Gage_Skidmore_3_%28cropped%29.jpg",
+    "authorTitle": "공동 창립자, Apple",
+    "insight": "기술의 힘은 그것을 사용하는 사람의 의도에 달려 있다는 뜻입니다. 올바른 가치관을 가진 사람이 기술을 활용할 때 진정한 변화가 일어난다는 메시지입니다.",
+    "tag": "혁신",
+    "wikiTitle": "Steve Wozniak"
+  },
+  {
+    "id": 198,
+    "text": "컴퓨터는 우리가 입력한 정보만큼만 출력할 수 있습니다. 하지만 컴퓨터가 어디서 좋은 아이디어를 얻을 수 있을지 예측하기는 어렵습니다.",
+    "author": "앨런 튜링",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alan_turing_header.jpg/480px-Alan_turing_header.jpg",
+    "authorTitle": "수학자, 컴퓨터 과학자",
+    "insight": "창의성은 기존의 지식과 경험을 새로운 방식으로 결합하는 능력입니다. 제한된 조건 속에서도 혁신적인 결과는 항상 가능합니다.",
+    "tag": "혁신",
+    "wikiTitle": "Alan Turing"
+  },
+  {
+    "id": 199,
+    "text": "우리는 합리적으로 행동한다고 생각하지만 사실 우리의 행동은 편견과 감정에 큰 영향을 받습니다.",
+    "author": "말라 라 유반",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Dan_Ariely_January_2019_%28cropped%29.jpg",
+    "authorTitle": "심리학자, 행동경제학자",
+    "insight": "자신의 행동 패턴을 이해하고 인식하는 것이 변화의 첫 단계입니다. 무의식적 편견을 깨닫는 것만으로도 더 나은 결정을 할 수 있습니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Dan Ariely"
+  },
+  {
+    "id": 200,
+    "text": "당신이 방에 들어갔을 때 당신이 유일한 흑인 여성이라면 당신은 모두를 위해 거기에 있는 것입니다.",
+    "author": "카말라 해리스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/480px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
+    "authorTitle": "미국 부통령",
+    "insight": "선택받은 위치는 개인의 성공뿐 아니라 같은 처지의 사람들을 위한 길을 여는 책임을 동반합니다. 대표성과 포용성은 함께 성장하는 길입니다.",
+    "tag": "리더십",
+    "wikiTitle": "Kamala Harris"
+  },
+  {
+    "id": 201,
+    "text": "뛰어난 주장에는 뛰어난 증거가 필요합니다.",
+    "author": "칼 사이건",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG",
+    "authorTitle": "천문학자, 과학 저술가",
+    "insight": "객관적 증거 없이는 어떤 주장도 신뢰할 수 없습니다. 비판적 사고와 검증의 정신이 과학적 진리에 도달하는 길입니다.",
+    "tag": "성장",
+    "wikiTitle": "Carl Sagan"
+  },
+  {
+    "id": 202,
+    "text": "고정 마인드셋에서는 도전이 위협이지만, 성장 마인드셋에서는 도전이 기회가 됩니다.",
+    "author": "캐롤 드웨크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carol_Dweck_for_Innovation_documentary.jpg/480px-Carol_Dweck_for_Innovation_documentary.jpg",
+    "authorTitle": "심리학자, 스탠포드 대학교",
+    "insight": "능력이 발달할 수 있다는 믿음을 가진 사람들은 어려움을 학습의 기회로 봅니다. 마인드셋의 변화가 전 생애의 결과를 바꿉니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Carol Dweck"
+  },
+  {
+    "id": 203,
+    "text": "당신의 재능보다 노력이 중요하다.",
+    "author": "콜리 브라이언트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kobe_Bryant_Dec_2014.jpg/480px-Kobe_Bryant_Dec_2014.jpg",
+    "authorTitle": "농구 선수, 전설",
+    "insight": "타고난 재능도 중요하지만, 끊임없는 노력만이 피크 퍼포먼스를 만듭니다. 미라클은 노력의 결과입니다.",
+    "tag": "성장",
+    "wikiTitle": "Kobe Bryant"
+  },
+  {
+    "id": 204,
+    "text": "리더십의 핵심은 명확한 비전을 가지고 그것을 사람들과 공유하고 영감을 주는 것이다.",
+    "author": "콜린 파웰",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Colin_Powell_official_Secretary_of_State_photo.jpg/480px-Colin_Powell_official_Secretary_of_State_photo.jpg",
+    "authorTitle": "미국 국방장관, 국무장관",
+    "insight": "좋은 리더는 지시하는 것이 아니라 방향을 제시하고 사람들을 격려한다. 공유된 비전이 팀을 움직인다.",
+    "tag": "리더십",
+    "wikiTitle": "Colin Powell"
+  },
+  {
+    "id": 205,
+    "text": "모르는 것을 안다고 하지 마십시오. 그것이 과학적 정직성의 첫 번째 원칙입니다.",
+    "author": "리처드 페인먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/480px-Richard_Feynman_Nobel.jpg",
+    "authorTitle": "물리학자",
+    "insight": "지식의 가장 큰 걸림돌은 잘못된 확신입니다. 자신의 무지를 인정하는 것이 진정한 배움을 시작하게 합니다.",
+    "tag": "준비",
+    "wikiTitle": "Richard Feynman"
+  },
+  {
+    "id": 206,
+    "text": "불확실성이 있을 때만 정보가 존재한다. 이미 알고 있는 것은 정보가 아니다.",
+    "author": "클로드 섀넌",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg/480px-C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg",
+    "authorTitle": "수학자, 정보이론 창시자",
+    "insight": "새로운 배움과 통찰은 현재의 무지를 인정할 때부터 시작됩니다. 호기심과 의문의식이 진정한 학습과 성장을 가져옵니다.",
+    "tag": "학습",
+    "wikiTitle": "Claude Shannon"
+  },
+  {
+    "id": 207,
+    "text": "언제든 시작할 수 있다. 완벽한 조건을 기다리는 것은 영원히 기다리는 것과 같다.",
+    "author": "클린트 이스트우드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg/480px-Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg",
+    "authorTitle": "영화배우, 감독",
+    "insight": "성공하는 사람들은 준비가 되면 시작하는 게 아니라, 시작하면서 배웁니다. 행동을 미루는 것보다 불완전함을 받아들이고 나아가는 것이 중요합니다.",
+    "tag": "실행",
+    "wikiTitle": "Clint Eastwood"
+  },
+  {
+    "id": 208,
+    "text": "어떤 상황도 우리에게서 하나의 자유를 빼앗을 수 없습니다. 어떤 상황에든 우리의 태도를 선택할 자유입니다.",
+    "author": "비토르 프랭클",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viktor_Frankl2.jpg/480px-Viktor_Frankl2.jpg",
+    "authorTitle": "정신의학자, 철학자",
+    "insight": "외부 환경은 제어할 수 없지만, 그에 대한 우리의 반응은 완전히 우리 것입니다. 이 자유야말로 인간의 가장 강력한 힘입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Viktor Frankl"
+  },
+  {
+    "id": 209,
+    "text": "겁 많은 자는 절대 혁신할 수 없고, 강한 자만이 미래를 만듭니다.",
+    "author": "인디라 간디",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indira_Gandhi_official_portrait.png/480px-Indira_Gandhi_official_portrait.png",
+    "authorTitle": "전 총리, 인도",
+    "insight": "변화는 용기를 요구합니다. 리더십은 위험을 감수하고 새로운 길을 개척하는 데서 나옵니다.",
+    "tag": "리더십",
+    "wikiTitle": "Indira Gandhi"
+  },
+  {
+    "id": 210,
+    "text": "한 아이, 한 명의 교사, 한 권의 책, 한 자루의 펜도 세상을 바꿀 수 있습니다.",
+    "author": "말라 유수프잘",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Malala_Yousafzai_2023_portrait_2x3.jpg/480px-Malala_Yousafzai_2023_portrait_2x3.jpg",
+    "authorTitle": "교육 운동가, 노벨상 수상자",
+    "insight": "작고 미미해 보이는 시도도 누적되면 거대한 변화가 됩니다. 교육과 지식은 변혁의 가장 강력한 도구입니다.",
+    "tag": "차별화",
+    "wikiTitle": "Malala Yousafzai"
+  },
+  {
+    "id": 211,
+    "text": "우리가 생각하는 것이 우리가 되는 것이다. 따라서 당신이 원하는 것을 항상 생각하고, 원하지 않는 것은 생각하지 말라.",
+    "author": "스티브 러너",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/SteveScott.jpg/480px-SteveScott.jpg",
+    "authorTitle": "전 러닝 코치",
+    "insight": "정신적 초점이 행동과 결과를 결정한다는 원리입니다. 긍정적인 사고는 성공의 첫 단계입니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Steve Scott (runner)"
+  },
+  {
+    "id": 212,
+    "text": "상상력으로 할 수 있다고 생각하는 모든 것은 현실이 될 수 있다.",
+    "author": "쥘 베른",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/480px-Jules_Verne_by_%C3%89tienne_Carjat.jpg",
+    "authorTitle": "과학소설 작가",
+    "insight": "상상력은 미래를 창조하는 가장 강력한 도구입니다. 꿈꾸는 것이 없으면 이룰 것도 없습니다.",
+    "tag": "혁신",
+    "wikiTitle": "Jules Verne"
+  },
+  {
+    "id": 213,
+    "text": "실패는 배움의 과정이며, 최고의 성과자들은 실패에서 가장 빠르게 배운다.",
+    "author": "조슈아 와일더",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Joshua_Waitzkin.jpg/480px-Joshua_Waitzkin.jpg",
+    "authorTitle": "심리학자",
+    "insight": "실패를 거울로 삼아 성장의 기회로 변환하는 능력이 진정한 성공을 만듭니다. 실패 없이 성장은 없습니다.",
+    "tag": "회복력",
+    "wikiTitle": "Joshua Waitzkin"
+  },
+  {
+    "id": 214,
+    "text": "나는 충분히 좋은 사람이고, 충분히 똑똑하며, 사람들이 나를 좋아한다.",
+    "author": "스튜어트 스몰리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Stuart_Smalley.jpg",
+    "authorTitle": "동기부여 전문가",
+    "insight": "자신감과 자기 수용은 모든 성공의 토대입니다. 먼저 자신을 믿어야 남들도 믿게 됩니다.",
+    "tag": "성장",
+    "wikiTitle": "Stuart Smalley"
+  },
+  {
+    "id": 215,
+    "text": "리더의 능력이 곧 조직의 한계를 결정한다.",
+    "author": "존 매진웰",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/John_C._Maxwell_%28cropped%29.jpg/480px-John_C._Maxwell_%28cropped%29.jpg",
+    "authorTitle": "리더십 전문가",
+    "insight": "좋은 리더십은 팀 전체의 잠재력을 끌어올립니다. 자신의 성장이 곧 조직 전체의 성장입니다.",
+    "tag": "리더십",
+    "wikiTitle": "John C. Maxwell"
+  },
+  {
+    "id": 216,
+    "text": "당신이 무의식을 의식으로 만들 때까지, 그것은 당신의 삶을 지배하고 당신은 그것을 운명이라고 부를 것이다.",
+    "author": "칼 융",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif/lossy-page1-330px-ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif.jpg",
+    "authorTitle": "분석심리학자",
+    "insight": "자신의 내면을 들여다보고 이해하는 것이 진정한 변화의 시작입니다. 자기인식은 자기계발의 기초입니다.",
+    "tag": "학습",
+    "wikiTitle": "Carl Jung"
+  },
+  {
+    "id": 217,
+    "text": "작은 지속적인 개선이 모여 놀라운 결과를 만든다.",
+    "author": "나이젤 니콜라스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Nigel_Planer_%28cropped%29.jpg/480px-Nigel_Planer_%28cropped%29.jpg",
+    "authorTitle": "성능 심리학자",
+    "insight": "1%의 매일의 개선이 1년 후에는 37배의 성과를 만듭니다. 급진적 변화보다 꾸준한 진행이 더 강력합니다.",
+    "tag": "끈기",
+    "wikiTitle": "Nigel Planer"
+  },
+  {
+    "id": 218,
+    "text": "우리는 우리 유전자의 기계가 아니다. 우리는 문화와 선택으로 그것을 극복할 수 있다.",
+    "author": "리차드 도킨스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dinner_with_Richard_Dawkins_and_CFI..._like_a_candle_in_the_dark.jpg/480px-Dinner_with_Richard_Dawkins_and_CFI..._like_a_candle_in_the_dark.jpg",
+    "authorTitle": "진화생물학자",
+    "insight": "인간은 타고난 본능만으로 규정되지 않습니다. 의식적인 선택과 노력으로 자신의 운명을 바꿀 수 있습니다.",
+    "tag": "결정",
+    "wikiTitle": "Richard Dawkins"
+  },
+  {
+    "id": 219,
+    "text": "사람들이 위대해지는 이유는 자신들이 위대해지기로 결심했기 때문이다.",
+    "author": "몬테스키외",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Montesquieu.jpg/480px-Charles_Montesquieu.jpg",
+    "authorTitle": "철학자, 법학자",
+    "insight": "위대함은 노력과 결정의 결과입니다. 성공은 우연이 아닌 의지에서 비롯됩니다.",
+    "tag": "실행",
+    "wikiTitle": "Montesquieu"
+  },
+  {
+    "id": 220,
+    "text": "나는 노력으로 모든 것을 얻었다. 재능만으로는 충분하지 않다.",
+    "author": "로저 페더러",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roger_Federer_2015_%28cropped%29.jpg/480px-Roger_Federer_2015_%28cropped%29.jpg",
+    "authorTitle": "테니스 선수",
+    "insight": "최고의 성과자도 끊임없는 노력으로만 그 자리를 유지합니다. 재능과 노력의 조합만이 탁월함을 만듭니다.",
+    "tag": "습관",
+    "wikiTitle": "Roger Federer"
+  },
+  {
+    "id": 221,
+    "text": "뇌는 경험에 의해 재형성될 수 있다. 이것이 신경가소성의 힘이다.",
+    "author": "비탈 라일리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Vilayanur_S_Ramachandran_2011_Shankbone.JPG/480px-Vilayanur_S_Ramachandran_2011_Shankbone.JPG",
+    "authorTitle": "신경과학자",
+    "insight": "뇌는 평생 변할 수 있습니다. 지금부터 새로운 습관을 들이면 신경망이 재구성됩니다.",
+    "tag": "성장",
+    "wikiTitle": "Vilayanur Ramachandran"
+  },
+  {
+    "id": 222,
+    "text": "최고의 과학적 발견은 호기심에서 나온다. 호기심이 없으면 발견도 없다.",
+    "author": "제임스 해리슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/James_Lovelock%2C_2005_%28cropped%29.jpg/480px-James_Lovelock%2C_2005_%28cropped%29.jpg",
+    "authorTitle": "지구과학자",
+    "insight": "끊임없는 질문과 탐구 정신이 혁신을 낳습니다. 의문을 던지는 사람만이 새로운 길을 찾습니다.",
+    "tag": "혁신",
+    "wikiTitle": "James Lovelock"
+  },
+  {
+    "id": 223,
+    "text": "준비를 게을리하는 것은 실패를 위해 준비하는 것이다.",
+    "author": "키키 콜",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kiki_Wong.jpg/480px-Kiki_Wong.jpg",
+    "authorTitle": "심리학자",
+    "insight": "철저한 준비가 성공의 확률을 극대화합니다. 기회는 준비된 자에게만 찾아옵니다.",
+    "tag": "준비",
+    "wikiTitle": "Kiki Wong"
+  },
+  {
+    "id": 224,
+    "text": "앞으로 나아가는 사람은 때로 넘어질 수도 있지만, 아무것도 하지 않는 사람은 절대 앞으로 나아갈 수 없다.",
+    "author": "아나톨 프랑스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Anatole_France_young_years.jpg/480px-Anatole_France_young_years.jpg",
+    "authorTitle": "소설가, 철학자",
+    "insight": "실패할 위험을 감수하고 행동하는 것이 최소한의 성장을 보장합니다. 정지는 퇴보입니다.",
+    "tag": "실행",
+    "wikiTitle": "Anatole France"
+  },
+  {
+    "id": 225,
+    "text": "당신의 일상의 질은 질문의 질로 결정된다. 더 나은 질문을 하면 더 나은 답이 나온다.",
+    "author": "톤 로빈스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tony_Robbins.jpg/480px-Tony_Robbins.jpg",
+    "authorTitle": "동기부여 코치, 비즈니스 컨설턴트",
+    "insight": "우리가 스스로에게 던지는 질문이 우리의 초점을 결정합니다. '왜 난 안 되는가?'라는 질문보다 '어떻게 하면 될까?'라는 질문이 더 나은 미래를 만듭니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Tony Robbins"
+  },
+  {
+    "id": 226,
+    "text": "너 자신이 되어라. 이것이 성공의 모든 비결이다.",
+    "author": "니체",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/480px-Nietzsche187a.jpg",
+    "authorTitle": "철학자, 사상가",
+    "insight": "타인의 기준에 자신을 맞추려는 노력보다 자신의 고유한 가치를 찾고 표현하는 것이 진정한 성공입니다. 자기 자신에 대한 신뢰와 수용이 모든 성취의 기초입니다.",
+    "tag": "차별화",
+    "wikiTitle": "Friedrich Nietzsche"
+  },
+  {
+    "id": 227,
+    "text": "당신의 목표는 미래를 예측하는 것이 아니라, 현재의 작은 행동들을 통해 미래를 만드는 것이다.",
+    "author": "스티브 보이드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Stephen_Boyd.jpg/480px-Stephen_Boyd.jpg",
+    "authorTitle": "성과 코치",
+    "insight": "우리는 불확실한 미래를 기다리기보다 지금 이 순간의 결정과 행동에 집중해야 한다. 매일의 선택이 모여 우리의 삶의 방향을 결정한다.",
+    "tag": "실행",
+    "wikiTitle": "Stephen Boyd"
+  },
+  {
+    "id": 228,
+    "text": "진전은 절대 피할 수 없는 것이 아니다. 그것은 투쟁의 결과이다.",
+    "author": "버락 오바마",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/480px-President_Barack_Obama.jpg",
+    "authorTitle": "전 대통령, 미국",
+    "insight": "성공과 발전은 자동으로 주어지지 않으며, 반드시 도전과 노력을 필요로 한다. 우리가 감수한 투쟁과 극복의 과정이 진정한 성장을 가져온다.",
+    "tag": "도전",
+    "wikiTitle": "Barack Obama"
+  },
+  {
+    "id": 229,
+    "text": "우리는 두려움으로 침묵할 수 없다. 우리의 목소리가 세상을 바꾼다.",
+    "author": "말랄라 유수프자이",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Malala_Yousafzai_2023_portrait_2x3.jpg/480px-Malala_Yousafzai_2023_portrait_2x3.jpg",
+    "authorTitle": "교육 활동가, 노벨상 수상자",
+    "insight": "두려움 앞에서도 정의를 위해 목소리를 내는 용기가 진정한 변화를 만든다. 작은 목소리들이 모여 위대한 운동이 된다.",
+    "tag": "용기",
+    "wikiTitle": "Malala Yousafzai"
+  },
+  {
+    "id": 230,
+    "text": "꿈을 가져라. 그것을 구체적으로 만들고, 끝까지 믿어라.",
+    "author": "앤저니 마라는",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Conor_McGregor_2025.jpeg/480px-Conor_McGregor_2025.jpeg",
+    "authorTitle": "UFC 파이터",
+    "insight": "모호한 꿈이 아닌 구체적인 목표와 그것을 향한 강한 신념이 성공의 기초가 된다. 꾸준한 행동으로 뒷받침될 때만 꿈은 현실이 된다.",
+    "tag": "목표",
+    "wikiTitle": "Conor McGregor"
+  },
+  {
+    "id": 231,
+    "text": "아침을 통제하면 당신의 인생을 통제할 수 있다.",
+    "author": "할 엘로드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Nick_Nanton_Picture_with_Family.jpg/480px-Nick_Nanton_Picture_with_Family.jpg",
+    "authorTitle": "저자, 기업가",
+    "insight": "하루의 시작인 아침을 의도적으로 설계하면 전체 삶의 질이 높아진다. 아침의 작은 습관들이 당신의 성공을 결정짓는다.",
+    "tag": "습관",
+    "wikiTitle": "Nick Nanton"
+  },
+  {
+    "id": 232,
+    "text": "미래를 예측하는 최선의 방법은 그것을 창조하는 것이다.",
+    "author": "페터 드러커",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Drucker5789.jpg/480px-Drucker5789.jpg",
+    "authorTitle": "경영학자, 경영 사상가",
+    "insight": "불확실한 미래를 기다리기만 하면 뒤처집니다. 스스로 주도적으로 행동하고 변화를 만들어갈 때만 원하는 미래를 얻을 수 있습니다.",
+    "tag": "실행",
+    "wikiTitle": "Peter Drucker"
+  },
+  {
+    "id": 233,
+    "text": "스트레스는 우리를 죽이지 않는다. 오직 스트레스를 피하려는 노력만이 우리를 약하게 만든다.",
+    "author": "롭 셀리 스트릭스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Robert_Sapolsky_in_2023.jpg/480px-Robert_Sapolsky_in_2023.jpg",
+    "authorTitle": "미분화 대사학자",
+    "insight": "도전과 스트레스는 우리를 성장시키는 자극입니다. 그것으로부터 도망치려 하면 더욱 나약해지지만, 맞서면 더욱 강해집니다.",
+    "tag": "회복력",
+    "wikiTitle": "Robert Sapolsky"
+  },
+  {
+    "id": 234,
+    "text": "지금 행동하지 않는 것이 가장 큰 위험입니다.",
+    "author": "그레타 툰베리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Greta_Thunberg_in_November_in_Stockholm_%28cropped%29%282%29.jpg/480px-Greta_Thunberg_in_November_in_Stockholm_%28cropped%29%282%29.jpg",
+    "authorTitle": "기후활동가, 스웨덴",
+    "insight": "미루는 것은 적극적인 거부와 같으며, 현재의 선택이 미래를 결정합니다. 변화는 주저함을 극복할 때 시작됩니다.",
+    "tag": "실행",
+    "wikiTitle": "Greta Thunberg"
+  },
+  {
+    "id": 235,
+    "text": "두려움 없이는 진정한 용기가 있을 수 없다.",
+    "author": "마리아 게바라",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chedriving.jpg/480px-Chedriving.jpg",
+    "authorTitle": "혁명가, 아르헨티나",
+    "insight": "용기는 두려움이 없는 상태가 아니라 두려움에도 불구하고 행동하는 것입니다. 두려움을 마주하는 태도가 진정한 강함입니다.",
+    "tag": "도전",
+    "wikiTitle": "Aleida March"
+  },
+  {
+    "id": 236,
+    "text": "당신이 할 수 있다고 생각하거나 못한다고 생각하거나, 어느 쪽이든 당신이 맞다.",
+    "author": "에린 브로코비치",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Erin_Brockovich_%2830109127682%29.jpg/480px-Erin_Brockovich_%2830109127682%29.jpg",
+    "authorTitle": "법률 조사원, 미국",
+    "insight": "신념은 현실을 만드는 힘입니다. 우리의 자기인식이 가능성의 경계를 결정합니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Erin Brockovich"
+  },
+  {
+    "id": 237,
+    "text": "우리가 말할 수 있는 것보다 더 많이 알고 있다.",
+    "author": "미하엘 포라니",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Michael_Polanyi.png",
+    "authorTitle": "화학자, 헝가리",
+    "insight": "암묵적 지식과 직관의 가치를 인정하는 통찰입니다. 모든 배움과 성장이 언어로 표현될 수 있는 것은 아닙니다.",
+    "tag": "성장",
+    "wikiTitle": "Michael Polanyi"
+  },
+  {
+    "id": 238,
+    "text": "실패는 나를 약하게 만드는 것이 아니라, 나를 강하게 만든다.",
+    "author": "코린 텐",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Coco_Gauff_Miami_Open.jpg/480px-Coco_Gauff_Miami_Open.jpg",
+    "authorTitle": "프로테니스선수, 미국",
+    "insight": "실패를 성장의 기회로 보는 태도가 진정한 강인함을 만듭니다. 도전과 실패를 거쳐야만 진정한 능력이 만들어집니다.",
+    "tag": "회복력",
+    "wikiTitle": "Coco Gauff"
+  },
+  {
+    "id": 239,
+    "text": "문명의 붕괴는 하나의 원인이 아니라 여러 요인의 합작품이다.",
+    "author": "재러드 다이아몬드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jared_Diamond_author_academic.jpg/480px-Jared_Diamond_author_academic.jpg",
+    "authorTitle": "지리학자, 미국",
+    "insight": "복잡한 문제를 해결하려면 단일 해결책보다 다각적 접근이 필요합니다. 전략적 사고는 상황의 다층성을 인식하는 데서 시작됩니다.",
+    "tag": "전략",
+    "wikiTitle": "Jared Diamond"
+  },
+  {
+    "id": 240,
+    "text": "완벽함은 진전의 적입니다.",
+    "author": "메리 루이즈 파커",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mary_Louise_Parker_2021_%28crop%29.jpg/480px-Mary_Louise_Parker_2021_%28crop%29.jpg",
+    "authorTitle": "배우, 미국",
+    "insight": "완벽을 추구하다 보면 결국 아무것도 시작하지 못하게 됩니다. 지금 시작할 수 있는 불완전한 것이 미래의 완성으로 이어집니다.",
+    "tag": "우선순위",
+    "wikiTitle": "Mary-Louise Parker"
+  },
+  {
+    "id": 241,
+    "text": "취약성이 약함이 아니라 우리가 경험할 수 있는 가장 정직한 감정이다.",
+    "author": "브레네 브라운",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bren%C3%A9_Brown_and_Malcolm_Gladwell_at_SXSW_2025_06_%28cropped%29.jpg/480px-Bren%C3%A9_Brown_and_Malcolm_Gladwell_at_SXSW_2025_06_%28cropped%29.jpg",
+    "authorTitle": "심리학자, 미국",
+    "insight": "약점을 드러내는 용기가 진정한 연결과 신뢰를 만듭니다. 완벽함을 연기하는 것보다 진실한 모습이 더 강력합니다.",
+    "tag": "리더십",
+    "wikiTitle": "Brené Brown"
+  },
+  {
+    "id": 242,
+    "text": "모든 위대한 성취는 미래를 명확하게 보는 능력으로부터 시작된다.",
+    "author": "로버트 그린",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Robert_Greene_B%26W.jpg/480px-Robert_Greene_B%26W.jpg",
+    "authorTitle": "작가, 전략가",
+    "insight": "비전이 없으면 현재의 행동이 산만해진다. 명확한 미래 목표를 설정하면 모든 노력이 한 방향으로 수렴된다.",
+    "tag": "비전",
+    "wikiTitle": "Robert Greene (American author)"
+  },
+  {
+    "id": 243,
+    "text": "자기 자신이 되는 것이 가장 혁명적인 행동입니다.",
+    "author": "매리 루이스 파커",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mary_Louise_Parker_2021_%28crop%29.jpg/480px-Mary_Louise_Parker_2021_%28crop%29.jpg",
+    "authorTitle": "배우",
+    "insight": "남과 다른 자신의 모습을 받아들이고 표현하는 것이 진정한 강점입니다. 사회적 압박에 순응하는 것보다 자신의 진정성을 지키는 것이 더욱 가치 있습니다.",
+    "tag": "차별화",
+    "wikiTitle": "Mary-Louise Parker"
+  },
+  {
+    "id": 244,
+    "text": "고정된 사고방식이 아닌 성장 사고방식을 가질 때, 인생의 모든 영역에서 무한한 가능성이 열립니다.",
+    "author": "캐럴 드웰",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carol_Dweck_for_Innovation_documentary.jpg/480px-Carol_Dweck_for_Innovation_documentary.jpg",
+    "authorTitle": "심리학자, 스탠포드 대학교 교수",
+    "insight": "능력은 노력으로 발전될 수 있다고 믿을 때 도전을 두려워하지 않게 됩니다. 실패를 배움의 기회로 보는 태도가 지속적인 성장을 가능하게 합니다.",
+    "tag": "성장",
+    "wikiTitle": "Carol Dweck"
+  },
+  {
+    "id": 245,
+    "text": "우주에서 가장 흥미로운 물질은 우리 자신입니다. 우리는 우주를 알기 위해 존재합니다.",
+    "author": "시먼 디그래스 타이슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neil_DeGrasse_Tyson_%282023%29.jpg/480px-Neil_DeGrasse_Tyson_%282023%29.jpg",
+    "authorTitle": "천문학자, 과학 커뮤니케이터",
+    "insight": "자신의 호기심을 믿고 지식을 추구하는 것의 가치를 인식하는 것입니다. 학습에 대한 깊은 의미 부여가 지속적인 성장을 이끕니다.",
+    "tag": "학습",
+    "wikiTitle": "Neil deGrasse Tyson"
+  },
+  {
+    "id": 246,
+    "text": "고정된 마음가짐은 가능성을 닫지만, 성장 마음가짐은 모든 것을 열어줍니다.",
+    "author": "카롤 드웩",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carol_Dweck_for_Innovation_documentary.jpg/480px-Carol_Dweck_for_Innovation_documentary.jpg",
+    "authorTitle": "심리학자, 스탠포드 대학교 교수",
+    "insight": "능력은 타고난 것이 아니라 노력으로 발전시키는 것입니다. 실패를 배움의 기회로 보는 태도가 진정한 성장을 만듭니다.",
+    "tag": "성장",
+    "wikiTitle": "Carol Dweck"
+  },
+  {
+    "id": 247,
+    "text": "천재성보다 끈기가 성공의 더 큰 예측인자입니다.",
+    "author": "앙겔라 더크워스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Angela_Duckworth%2C_2017_%28cropped%29.jpg/480px-Angela_Duckworth%2C_2017_%28cropped%29.jpg",
+    "authorTitle": "심리학자, 펜실베이니아 대학교 교수",
+    "insight": "재능만으로는 부족하며, 목표를 향해 계속 나아가는 회복력과 인내심이 실제 성공을 만듭니다. 꾸준함이 모든 분야에서 우위의 원천입니다.",
+    "tag": "끈기",
+    "wikiTitle": "Angela Duckworth"
+  },
+  {
+    "id": 248,
+    "text": "변화하는 세상에서 오직 학습하는 자만이 생존합니다.",
+    "author": "리더스 호프만",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2022_Reid_Hoffman_%28cropped%29.jpg/480px-2022_Reid_Hoffman_%28cropped%29.jpg",
+    "authorTitle": "벤처투자가, LinkedIn 공동창립자",
+    "insight": "과거의 성공이 미래를 보장하지 않습니다. 끊임없이 배우고 적응하는 능력이 진정한 경쟁력입니다.",
+    "tag": "도전",
+    "wikiTitle": "Reid Hoffman"
+  },
+  {
+    "id": 249,
+    "text": "가장 큰 죄악은 절망입니다.",
+    "author": "해먼드 핸드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/LearnedHand1910a.jpg/480px-LearnedHand1910a.jpg",
+    "authorTitle": "미국 연방 판사",
+    "insight": "절망은 모든 노력과 행동을 중단하게 만드는 최악의 감정입니다. 어떤 상황에서도 희망을 잃지 않을 때 변화와 회복의 가능성이 생깁니다.",
+    "tag": "회복력",
+    "wikiTitle": "Learned Hand"
+  },
+  {
+    "id": 250,
+    "text": "용기란 두려움이 없는 것이 아니라, 두려움에도 불구하고 행동하는 것입니다.",
+    "author": "에임 헴웨이",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/480px-ErnestHemingway.jpg",
+    "authorTitle": "소설가, 문학상 수상작가",
+    "insight": "진정한 용감함은 두려움의 부재가 아니라, 두려움과 함께 나아가는 능력에 있습니다. 불안과 공포를 경험하면서도 앞으로 나아가는 것이 진정한 도전입니다.",
+    "tag": "도전",
+    "wikiTitle": "Ernest Hemingway"
+  },
+  {
+    "id": 251,
+    "text": "재능은 성공의 시작에 불과합니다. 성공을 결정하는 것은 끈질긴 노력입니다.",
+    "author": "앙젤라 더크워스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Angela_Duckworth%2C_2017_%28cropped%29.jpg/480px-Angela_Duckworth%2C_2017_%28cropped%29.jpg",
+    "authorTitle": "심리학자, 저술가",
+    "insight": "타고난 능력만으로는 부족하며, 장기적 목표 달성을 위한 꾸준한 노력과 회복탄력성이 더 중요합니다. 이것이 바로 그릿(Grit) 개념의 핵심입니다.",
+    "tag": "도전",
+    "wikiTitle": "Angela Duckworth"
+  },
+  {
+    "id": 252,
+    "text": "글을 쓰려면 기다릴 수 없다. 당신의 두려움이 사라질 때까지 기다리면 절대 시작할 수 없다.",
+    "author": "이사벨 알렌데",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Isabel_Allende_Frankfurter_Buchmesse_2015_%28cropped%29.JPG/480px-Isabel_Allende_Frankfurter_Buchmesse_2015_%28cropped%29.JPG",
+    "authorTitle": "소설가",
+    "insight": "완벽함을 기다리거나 두려움이 사라질 때까지 기다리면 아무것도 이루어지지 않는다는 메시지입니다. 불완전함 속에서 시작하는 용기가 창조의 첫걸음이라는 뜻입니다.",
+    "tag": "도전",
+    "wikiTitle": "Isabel Allende"
+  },
+  {
+    "id": 253,
+    "text": "나는 항상 바라고, 항상 행동한다. 그 사이에서 변화가 일어난다.",
+    "author": "도로시 데이",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dorothy_Day_in_Jubilee_magazine_1955_portrait.png/480px-Dorothy_Day_in_Jubilee_magazine_1955_portrait.png",
+    "authorTitle": "저널리스트, 사회운동가",
+    "insight": "희망만으로는 부족하며, 그 희망을 바탕으로 실제 행동을 해야만 실제 변화가 일어난다는 메시지입니다. 꿈과 실행의 결합이 현실적 변화를 만든다는 뜻입니다.",
+    "tag": "행동",
+    "wikiTitle": "Dorothy Day"
+  },
+  {
+    "id": 254,
+    "text": "자유는 우리가 태어나는 것이 아니라, 스스로 만들어 가야 하는 것이다.",
+    "author": "시먼 드 보브아르",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Simone_De_Beauvoir_%28cropped%29.jpg/480px-Simone_De_Beauvoir_%28cropped%29.jpg",
+    "authorTitle": "철학자, 작가",
+    "insight": "진정한 자유는 선천적으로 주어지는 것이 아니라, 지속적인 노력과 선택을 통해 능동적으로 구축되어야 한다는 철학적 통찰입니다. 자유의 책임은 결국 자기 자신에게 있다는 뜻입니다.",
+    "tag": "자유",
+    "wikiTitle": "Simone de Beauvoir"
+  },
+  {
+    "id": 255,
+    "text": "빈곤은 인간의 본성이 아니라 사회 제도의 결함이다. 올바른 도구가 있으면 모두가 자유로워질 수 있다.",
+    "author": "모하마드 유누스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Muhammad_Yunus_speaking_at_Jamuna_State_Guesthouse%2C_Dhaka_2026-02-16_%28cropped%29.jpg/480px-Muhammad_Yunus_speaking_at_Jamuna_State_Guesthouse%2C_Dhaka_2026-02-16_%28cropped%29.jpg",
+    "authorTitle": "경제학자, 사회적 기업가",
+    "insight": "개인의 무능함이 아니라 시스템의 결함이 문제를 만든다는 근본적인 통찰입니다. 이는 문제 해결의 관점을 개인에서 구조로 전환하라는 강력한 메시지입니다.",
+    "tag": "리더십",
+    "wikiTitle": "Muhammad Yunus"
+  },
+  {
+    "id": 256,
+    "text": "모든 행복한 가정은 비슷하지만, 불행한 가정은 각각 다른 이유로 불행하다.",
+    "author": "톨스토이",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg/480px-Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
+    "authorTitle": "소설가, 철학자",
+    "insight": "성공과 행복은 기본 원칙들을 따를 때 자연스럽게 따라오지만, 실패는 각각의 고유한 실수에서 비롯된다는 뜻입니다. 이는 근본적 원칙의 중요성을 강조합니다.",
+    "tag": "원칙",
+    "wikiTitle": "Leo Tolstoy"
+  },
+  {
+    "id": 257,
+    "text": "부는 만들어지는 것이지 나누어지는 것이 아닙니다. 가치를 창출하는 능력을 개발하세요.",
+    "author": "나빌 라비칸트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Naval_Ravikant_%28cropped%29.jpg",
+    "authorTitle": "투자가, 기업가",
+    "insight": "타인의 부를 빼앗는 것이 아니라 새로운 가치를 창출해야 한다는 의미입니다. 창조적 사고와 실행이 지속적인 부의 창출을 만듭니다.",
+    "tag": "부",
+    "wikiTitle": "Naval Ravikant"
+  },
+  {
+    "id": 258,
+    "text": "실패는 불필요한 것을 제거하고 본질적인 것에 집중하게 해주는 좋은 경험이다.",
+    "author": "조앤 롤링",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/480px-J._K._Rowling_2010.jpg",
+    "authorTitle": "소설가, 해리 포터 시리즈 저자",
+    "insight": "실패를 통해 우리는 무엇이 정말 중요한지 깨닫게 됩니다. 삶의 방향을 재정렬하는 기회가 되어줍니다.",
+    "tag": "회복력",
+    "wikiTitle": "J. K. Rowling"
+  },
+  {
+    "id": 259,
+    "text": "삶에서 가장 중요한 것은 점들을 뒤로 물러서서 연결하는 능력입니다.",
+    "author": "월터 아이작슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Walter_Isaacson_VF_2012_Shankbone_2.JPG/480px-Walter_Isaacson_VF_2012_Shankbone_2.JPG",
+    "authorTitle": "전기작가, 역사가",
+    "insight": "현재 순간에는 의미 없어 보이는 경험들도 시간이 지나 돌아보면 소중한 교훈과 연결되어 있습니다. 인내심을 갖고 자신의 경로를 믿는 것이 중요합니다.",
+    "tag": "준비",
+    "wikiTitle": "Walter Isaacson"
+  },
+  {
+    "id": 260,
+    "text": "선택지가 있을 때마다 사랑을 선택하세요.",
+    "author": "리버 피닉스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RIVERP1989.jpg/480px-RIVERP1989.jpg",
+    "authorTitle": "배우",
+    "insight": "두려움, 증오, 이익 대신 사랑에 기반한 선택을 하면 더 의미 있고 진정한 삶으로 나아갈 수 있습니다. 사랑은 모든 결정의 지표가 될 수 있습니다.",
+    "tag": "우선순위",
+    "wikiTitle": "River Phoenix"
+  },
+  {
+    "id": 261,
+    "text": "말할 수 없는 것에 대해서는 침묵해야 한다.",
+    "author": "비트겐슈타인",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ludwig_Wittgenstein_1929.jpg/480px-Ludwig_Wittgenstein_1929.jpg",
+    "authorTitle": "오스트리아 철학자",
+    "insight": "무의미한 말과 행동을 절제하고, 진정으로 중요한 것에만 에너지를 집중하는 지혜입니다. 불필요한 설명과 변명보다는 실행이 더 큰 힘을 가집니다.",
+    "tag": "우선순위",
+    "wikiTitle": "Ludwig Wittgenstein"
+  },
+  {
+    "id": 262,
+    "text": "자신의 목소리를 찾는 것이 글을 쓰는 핵심입니다.",
+    "author": "버지니아 울프",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/480px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
+    "authorTitle": "영국 소설가",
+    "insight": "누구나 다른 사람의 의견이나 기대에 맞추려 하지만, 진정한 창의성은 자신만의 독특한 목소리를 발견할 때 나옵니다. 이것은 창작뿐 아니라 삶 전체에도 적용됩니다.",
+    "tag": "차별화",
+    "wikiTitle": "Virginia Woolf"
+  },
+  {
+    "id": 263,
+    "text": "다른 사람의 기대에 부응하는 것만으로는 진정한 성공이 아닙니다.",
+    "author": "앙드레 지드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Andr%C3%A9_Gide.jpg/480px-Andr%C3%A9_Gide.jpg",
+    "authorTitle": "프랑스 소설가",
+    "insight": "외부의 평가나 기준에만 맞추는 삶은 자신을 잃는 것입니다. 자신의 가치관과 꿈을 따르는 것이 진정한 의미의 성취로 이어집니다.",
+    "tag": "리더십",
+    "wikiTitle": "André Gide"
+  },
+  {
+    "id": 264,
+    "text": "집중력은 기도와 같은 것이다.",
+    "author": "시몬 부올리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Simone_Weil_1943.jpg/480px-Simone_Weil_1943.jpg",
+    "authorTitle": "프랑스 철학자",
+    "insight": "깊은 집중은 단순한 작업 방식이 아니라 정신적 성숙의 표현입니다. 한 가지에 온전히 집중할 수 있는 능력이 의미 있는 결과를 만듭니다.",
+    "tag": "몰입",
+    "wikiTitle": "Simone Weil"
+  },
+  {
+    "id": 265,
+    "text": "전문성은 학습의 깊이이지 학습의 양이 아닙니다.",
+    "author": "조슈아 와이즈먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Joshua_Waitzkin.jpg/480px-Joshua_Waitzkin.jpg",
+    "authorTitle": "저자, 컨설턴트",
+    "insight": "많은 양의 정보보다는 핵심을 깊이 있게 이해하고 실제로 적용하는 것이 진정한 전문가를 만듭니다. 초심을 유지하면서 한 분야를 깊게 파고드는 것이 중요합니다.",
+    "tag": "전략",
+    "wikiTitle": "Joshua Waitzkin"
+  },
+  {
+    "id": 266,
+    "text": "가난은 개인의 능력 부족이 아니라 기회의 부족에서 비롯됩니다.",
+    "author": "모하메드 유누스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Muhammad_Yunus_speaking_at_Jamuna_State_Guesthouse%2C_Dhaka_2026-02-16_%28cropped%29.jpg/480px-Muhammad_Yunus_speaking_at_Jamuna_State_Guesthouse%2C_Dhaka_2026-02-16_%28cropped%29.jpg",
+    "authorTitle": "사회적 기업가, 노벨상 수상자",
+    "insight": "모든 사람은 잠재력을 가지고 있으며, 올바른 기회와 자본이 주어지면 누구나 변화를 만들 수 있습니다. 이는 개인의 성장뿐 아니라 사회 전체의 발전 철학입니다.",
+    "tag": "혁신",
+    "wikiTitle": "Muhammad Yunus"
+  },
+  {
+    "id": 267,
+    "text": "영감이 없다면 노력도 헛되지만, 노력이 없다면 영감도 쓸모가 없습니다.",
+    "author": "라마누잔",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Srinivasa_Ramanujan-Add._MS_a94_version2_%28cropped%29.jpg/480px-Srinivasa_Ramanujan-Add._MS_a94_version2_%28cropped%29.jpg",
+    "authorTitle": "인도 수학자",
+    "insight": "창의적인 아이디어와 현실적인 노력은 모두 필요합니다. 둘 중 하나만으로는 의미 있는 성과를 만들 수 없으며, 둘의 조화가 진정한 성취를 이룹니다.",
+    "tag": "실행",
+    "wikiTitle": "Srinivasa Ramanujan"
+  },
+  {
+    "id": 268,
+    "text": "동기부여의 핵심은 자율성, 숙련, 목적입니다.",
+    "author": "댄 핑크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Daniel_H._Pink_%28cropped%29.jpg/480px-Daniel_H._Pink_%28cropped%29.jpg",
+    "authorTitle": "저자, 경영전략가",
+    "insight": "외부의 보상이나 처벌보다는 자신의 일을 주도적으로 선택하고, 능력을 키우며, 의미 있는 목표를 추구할 때 진정한 동기가 생깁니다.",
+    "tag": "도전",
+    "wikiTitle": "Daniel Pink"
+  },
+  {
+    "id": 269,
+    "text": "배우는 것을 멈추면 가르치는 것도 멈춘다.",
+    "author": "리처드 페인만",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/480px-Richard_Feynman_Nobel.jpg",
+    "authorTitle": "물리학자, 미국",
+    "insight": "호기심 있는 마음과 학습 의욕이 위대한 성과를 만든다. 전문가도 끊임없이 기초를 다시 배운다.",
+    "tag": "성장",
+    "wikiTitle": "Richard Feynman"
+  },
+  {
+    "id": 270,
+    "text": "30년 뒤를 생각하고 지금 시작하는 사람이 미래를 만든다.",
+    "author": "손정의",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Masayoshi_Son_%28P066533-522034%2C_cropped%29.jpg/480px-Masayoshi_Son_%28P066533-522034%2C_cropped%29.jpg",
+    "authorTitle": "기업가, 일본",
+    "insight": "원대한 비전이 현재의 행동을 이끈다. 장기적 관점에서 결정할 때 작은 실패도 의미 있는 진전이 된다.",
+    "tag": "전략",
+    "wikiTitle": "Masayoshi Son"
+  },
+  {
+    "id": 271,
+    "text": "장애물은 사실 숨겨진 기회입니다. 어려움 속에서 우리는 자신의 참된 능력을 발견합니다.",
+    "author": "핼렌 켈러",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helen_Keller_%28circa_1904%29.jpg/480px-Helen_Keller_%28circa_1904%29.jpg",
+    "authorTitle": "작가, 인권운동가",
+    "insight": "가장 큰 도전은 때로 가장 큰 성장의 기회입니다. 어려운 환경에서 문제를 해결하는 과정에서 우리는 예상치 못한 능력과 지혜를 얻게 됩니다.",
+    "tag": "회복력",
+    "wikiTitle": "Helen Keller"
+  },
+  {
+    "id": 272,
+    "text": "두 갈래 길이 숲에서 갈라졌고, 나는 덜 밟힌 길을 택했다.",
+    "author": "보브 프로스트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robert_Frost_NYWTS_4.jpg/480px-Robert_Frost_NYWTS_4.jpg",
+    "authorTitle": "시인",
+    "insight": "남들과 다른 선택을 할 용기가 독특한 인생을 만듭니다. 관습에 따르지 않는 결정이 인생을 바꿉니다.",
+    "tag": "도전",
+    "wikiTitle": "Robert Frost"
+  },
+  {
+    "id": 273,
+    "text": "리더십의 핵심은 다른 사람들의 잠재력을 깨우는 것이다.",
+    "author": "존 맥스웰",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/John_C._Maxwell_%28cropped%29.jpg/480px-John_C._Maxwell_%28cropped%29.jpg",
+    "authorTitle": "리더십 전문가, 미국",
+    "insight": "위대한 리더는 자신의 성공보다 타인의 성장에 집중합니다. 팀의 각 멤버가 최고의 역량을 발휘하도록 이끌어내는 것이 진정한 리더십입니다.",
+    "tag": "리더십",
+    "wikiTitle": "John C. Maxwell"
+  },
+  {
+    "id": 274,
+    "text": "큰 목표를 설정하고 그에 맞는 사람들을 모으는 것이 모든 것의 시작이다.",
+    "author": "샘 올트먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Meeting_with_Masayoshi_Son_and_Sam_Altman_%28February_3%2C_2025%29_%283x4_cropped_on_Altman%29.jpg/480px-Meeting_with_Masayoshi_Son_and_Sam_Altman_%28February_3%2C_2025%29_%283x4_cropped_on_Altman%29.jpg",
+    "authorTitle": "창업가, 미국",
+    "insight": "야심 찬 비전을 가지고 같은 열정을 가진 사람들을 모을 때 불가능해 보이는 것도 가능해집니다. 팀과 목표의 질이 성공을 결정합니다.",
+    "tag": "창업",
+    "wikiTitle": "Sam Altman"
+  },
+  {
+    "id": 275,
+    "text": "가장 큰 제약은 우리의 믿음에 있다. 우리가 할 수 있다고 생각하면 할 수 있다.",
+    "author": "홀렌 켈러",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helen_Keller_%28circa_1904%29.jpg/480px-Helen_Keller_%28circa_1904%29.jpg",
+    "authorTitle": "사회운동가, 미국",
+    "insight": "신체적 장애나 외부 환경의 제약보다 더 큰 것은 우리 자신의 심리적 제약입니다. 자신을 믿는 순간 가능성은 무한해집니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Helen Keller"
+  },
+  {
+    "id": 276,
+    "text": "내가 미쳤다는 생각을 멈추면 모두가 나를 미쳤다고 부를 것이다. 차별화는 단순히 다른 것이 아니라 더 나은 것을 실행하는 것이다.",
+    "author": "살바도르 달리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Salvador_Dal%C3%AD_1939.jpg/480px-Salvador_Dal%C3%AD_1939.jpg",
+    "authorTitle": "예술가, 화가",
+    "insight": "고정관념에서 벗어나 자신만의 독특한 시각을 유지하는 것이 혁신과 차별화의 원천이다. 비판을 두려워하지 않는 용기가 진정한 창조를 가능하게 한다.",
+    "tag": "차별화",
+    "wikiTitle": "Salvador Dalí"
+  },
+  {
+    "id": 277,
+    "text": "현재가 과거를 바꿀 수 있다는 생각이 미래를 바꾼다.",
+    "author": "스튜어트 브란드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stewart_Brand_%2849624956948%29.jpg/480px-Stewart_Brand_%2849624956948%29.jpg",
+    "authorTitle": "저술가, 환경 운동가",
+    "insight": "우리의 사고방식과 신념이 현실을 만든다는 의미입니다. 긍정적인 미래상을 갖는 것만으로도 행동이 변하고 결과가 달라집니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Stewart Brand"
+  },
+  {
+    "id": 278,
+    "text": "명상은 마음을 직접 조사하는 과학이며, 깨어있음의 본질을 탐구하는 것이다.",
+    "author": "빌 하리스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sam_Harris_2016_%28cropped%29.jpg/480px-Sam_Harris_2016_%28cropped%29.jpg",
+    "authorTitle": "신경과학자, 철학자",
+    "insight": "명상을 통해 우리는 자신의 생각과 감정의 작동 방식을 이해할 수 있습니다. 이는 자신을 더 잘 알고 통제하는 길입니다.",
+    "tag": "집중",
+    "wikiTitle": "Sam Harris"
+  },
+  {
+    "id": 279,
+    "text": "감정 지능이 성공의 80퍼센트를 결정한다.",
+    "author": "대니얼 괼먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Daniel_Goleman_-_World_Economic_Forum_Annual_Meeting_2011.jpg/480px-Daniel_Goleman_-_World_Economic_Forum_Annual_Meeting_2011.jpg",
+    "authorTitle": "심리학자, 저술가",
+    "insight": "지능지수보다 자신과 타인의 감정을 이해하고 관리하는 능력이 인생과 커리어에서 더 중요합니다. 감정 조절이 탁월함의 핵심입니다.",
+    "tag": "리더십",
+    "wikiTitle": "Daniel Goleman"
+  },
+  {
+    "id": 280,
+    "text": "다양한 분야의 경험이 모여 창의력이 생긴다.",
+    "author": "데이비드 에프스타인",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sportsfile_%28Web_Summit%29_%2815523969837%29.jpg/480px-Sportsfile_%28Web_Summit%29_%2815523969837%29.jpg",
+    "authorTitle": "저널리스트, 스포츠 저술가",
+    "insight": "한 분야만 깊게 파는 것도 중요하지만, 다양한 경험은 새로운 연결을 만들고 혁신을 가능하게 합니다. 다재다능함은 큰 자산입니다.",
+    "tag": "성장",
+    "wikiTitle": "David Epstein (journalist)"
+  },
+  {
+    "id": 281,
+    "text": "행복이 성공의 결과가 아니라 성공의 원인이다.",
+    "author": "샤일렌 무라시",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Shawn_Achor_by_Gage_Skidmore.jpg/480px-Shawn_Achor_by_Gage_Skidmore.jpg",
+    "authorTitle": "성공 연구가, 저술가",
+    "insight": "긍정적이고 행복한 상태에서 우리는 더 창의적이고 생산적입니다. 먼저 행복을 찾는 것이 더 나은 성과로 이어집니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Shawn Achor"
+  },
+  {
+    "id": 282,
+    "text": "결과 없이 의도만으로는 아무것도 이루어지지 않는다.",
+    "author": "알렉산더 해밀턴",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/480px-Alexander_Hamilton_%28NPG%29.jpg",
+    "authorTitle": "건국의 아버지, 미국 재무장관",
+    "insight": "좋은 계획과 생각만으로는 부족합니다. 실제 행동으로 옮기고 결과를 만들어내야 의미가 있습니다.",
+    "tag": "실행",
+    "wikiTitle": "Alexander Hamilton"
+  },
+  {
+    "id": 283,
+    "text": "인생을 바꾸고 싶다면 먼저 책을 읽는 습관을 들여야 한다.",
+    "author": "짐 롤",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jim_rohn.jpg/480px-Jim_rohn.jpg",
+    "authorTitle": "동기부여 연설가, 저술가",
+    "insight": "독서는 끊임없는 자기 개발의 수단이며, 새로운 아이디어와 관점을 제공합니다. 습관적인 학습이 인생의 궤도를 바꿉니다.",
+    "tag": "습관",
+    "wikiTitle": "Jim Rohn"
+  },
+  {
+    "id": 284,
+    "text": "놀라움과 의문을 품는 능력은 과학의 원동력이며, 이는 모든 진정한 학습의 시작이다.",
+    "author": "카를 세이건",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG",
+    "authorTitle": "천문학자, 과학 커뮤니케이터",
+    "insight": "호기심과 비판적 사고가 발전의 엔진이며, 세상을 더 깊이 이해하려는 욕망이 혁신을 만든다. 의문을 멈추는 순간 성장도 멈춘다.",
+    "tag": "학습",
+    "wikiTitle": "Carl Sagan"
+  },
+  {
+    "id": 285,
+    "text": "당신이 지금 가진 것으로 시작하세요. 완벽한 조건을 기다리지 마세요.",
+    "author": "게리 베르트랜드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gary_Vaynerchuk_public_domain.jpg/480px-Gary_Vaynerchuk_public_domain.jpg",
+    "authorTitle": "전략 코치",
+    "insight": "완벽함을 기다리는 것은 항상 변명입니다. 지금 당신이 가진 자원과 환경에서 이미 시작할 수 있으며, 그 과정에서 필요한 것들을 얻게 됩니다.",
+    "tag": "실행",
+    "wikiTitle": "Gary Vaynerchuk"
+  },
+  {
+    "id": 286,
+    "text": "아침을 어떻게 보내느냐가 하루 전체를 결정합니다.",
+    "author": "렐 로드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Nick_Nanton_Picture_with_Family.jpg/480px-Nick_Nanton_Picture_with_Family.jpg",
+    "authorTitle": "저술가, 성공 전문가",
+    "insight": "의도적인 아침 루틴은 당신의 정신적, 신체적 상태를 설정하는 가장 중요한 시간입니다. 하루를 통제하고 싶다면 먼저 아침을 통제하세요.",
+    "tag": "습관",
+    "wikiTitle": "Nick Nanton"
+  },
+  {
+    "id": 287,
+    "text": "완전히 몰입한 상태일 때 우리의 삶은 가장 풍요로워집니다.",
+    "author": "매리언 톰슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mihaly_Csikszentmihalyi.jpg/480px-Mihaly_Csikszentmihalyi.jpg",
+    "authorTitle": "심리학자",
+    "insight": "도전과 능력이 완벽하게 균형을 이루는 '몰입 상태'에서 시간도, 자아도 사라지고 순수한 성취감만 남습니다. 이것이 진정한 행복의 근원입니다.",
+    "tag": "몰입",
+    "wikiTitle": "Mihaly Csikszentmihalyi"
+  },
+  {
+    "id": 288,
+    "text": "예측 불가능한 변화에 강한 것이 현대 사회에서의 진정한 강점입니다.",
+    "author": "나이젤 니콜라스 톨로",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Taleb_mug.JPG/480px-Taleb_mug.JPG",
+    "authorTitle": "위험 분석가, 저술가",
+    "insight": "계획한 대로 진행되는 일은 드물고, 예상치 못한 위기가 자주 발생합니다. 변화에 빠르게 적응하고 회복할 수 있는 유연성이 성공의 핵심입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Nassim Nicholas Taleb"
+  },
+  {
+    "id": 289,
+    "text": "진정한 성공은 큰 것을 이루는 것이 아니라, 작은 일을 큰 사랑으로 하는 것이다.",
+    "author": "플로렌스 나이팅게일",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/480px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
+    "authorTitle": "간호사, 사회개혁가",
+    "insight": "규모보다 의도의 순수함이 중요하며, 자신의 역할이 무엇이든 그것을 완벽히 해내려는 태도가 성공을 만든다. 일상의 작은 행동들이 모여 큰 변화를 만든다.",
+    "tag": "성장",
+    "wikiTitle": "Florence Nightingale"
+  },
+  {
+    "id": 290,
+    "text": "미래의 성공은 나이가 많은 사람과 젊은 사람이 함께 일할 때 가장 잘 나타난다.",
+    "author": "린다 그래튼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lynda_Gratton.jpg/480px-Lynda_Gratton.jpg",
+    "authorTitle": "경영학 교수, 미래 연구자",
+    "insight": "다양한 세대의 경험과 관점이 결합될 때 혁신이 일어난다. 한 세대의 지혜만으로는 빠르게 변하는 세상에 대응할 수 없다.",
+    "tag": "리더십",
+    "wikiTitle": "Lynda Gratton"
+  },
+  {
+    "id": 291,
+    "text": "스트레스는 피할 수 없지만, 스트레스에 대한 우리의 관점을 바꿀 수는 있다.",
+    "author": "조너선 사포스키",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Robert_Sapolsky_in_2023.jpg/480px-Robert_Sapolsky_in_2023.jpg",
+    "authorTitle": "신경생물학자, 스탠포드 대학 교수",
+    "insight": "상황 자체가 아니라 그것을 해석하는 방식이 우리의 건강과 성과를 결정한다. 같은 상황도 도전으로 보면 성장의 기회가 된다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Robert Sapolsky"
+  },
+  {
+    "id": 292,
+    "text": "사람에 투자하면 그들은 당신을 위해 고객을 돌본다.",
+    "author": "리처드 번햄",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Richard_Branson_Addresses_the_Our_Ocean_Conference_2015_in_Valpara%C3%ADso_%2821783214958%29_%28cropped%29.jpg/480px-Richard_Branson_Addresses_the_Our_Ocean_Conference_2015_in_Valpara%C3%ADso_%2821783214958%29_%28cropped%29.jpg",
+    "authorTitle": "벤처 투자가, 기업가",
+    "insight": "직원의 행복과 성장은 곧 고객 만족으로 이어진다. 조직의 성공은 사람을 중심으로 한 문화 구축에서 비롯된다.",
+    "tag": "리더십",
+    "wikiTitle": "Richard Branson"
+  },
+  {
+    "id": 293,
+    "text": "자신의 약점을 인정하는 것이 강점을 개발하는 첫 번째 단계다.",
+    "author": "실리 매인",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Silvia_Moreno-Garcia_at_Historical_Novel_Society_North_America_Conference_2025_%28cropped%29.jpg/480px-Silvia_Moreno-Garcia_at_Historical_Novel_Society_North_America_Conference_2025_%28cropped%29.jpg",
+    "authorTitle": "감성지능 연구자, 작가",
+    "insight": "자신을 정직하게 마주할 때 진정한 성장이 시작된다. 약점을 부정하기보다 그것을 인식하고 개선하려는 노력이 진정한 강함을 만든다.",
+    "tag": "성장",
+    "wikiTitle": "Silvia Moreno-Garcia"
+  },
+  {
+    "id": 294,
+    "text": "완벽함을 기다리느라 현재를 놓치지 말라.",
+    "author": "앨런 와츠",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Alan_Watts.png",
+    "authorTitle": "철학자, 저술가",
+    "insight": "미래의 완벽한 순간을 기다리면서 지금 이 순간의 가치를 잃는다. 지금 할 수 있는 것을 충실히 하는 것이 가장 현명한 선택이다.",
+    "tag": "우선순위",
+    "wikiTitle": "Alan Watts"
+  },
+  {
+    "id": 295,
+    "text": "나는 놓친 슛 때문에 성공한다.",
+    "author": "미하엘 조던",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Michael_Jordan_in_2014.jpg/480px-Michael_Jordan_in_2014.jpg",
+    "authorTitle": "농구 선수, 스포츠 아이콘",
+    "insight": "실패는 성공의 과정이며, 도전하지 않으면 성장도 없다. 가장 위대한 성과도 수많은 실패를 거쳐 이루어진다.",
+    "tag": "끈기",
+    "wikiTitle": "Michael Jordan"
+  },
+  {
+    "id": 296,
+    "text": "실패는 성공의 또 다른 이름이며, 우리가 배우지 못한 방법을 발견했을 뿐입니다.",
+    "author": "베네딕토 아더스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/Benedict_College.png",
+    "authorTitle": "영국 물리학자",
+    "insight": "실패를 부정적으로 보지 않고 학습의 기회로 재해석하면 두려움이 줄어듭니다. 각 실패는 올바른 길에 한 걸음 더 가까워지는 것입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Benedict College"
+  },
+  {
+    "id": 297,
+    "text": "성공은 단순히 경력의 성취가 아니라 건강, 지혜, 좋은 관계와 함께 이루어져야 합니다.",
+    "author": "매리어티 허핑턴",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arianna_Huffington_2011_Shankbone_2.JPG/480px-Arianna_Huffington_2011_Shankbone_2.JPG",
+    "authorTitle": "편집자, 기업가",
+    "insight": "진정한 성공은 다차원적이며 일과 생활의 균형이 필수적입니다. 한 분야의 성취만으로는 완전한 성공이라 할 수 없습니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Arianna Huffington"
+  },
+  {
+    "id": 298,
+    "text": "당신이 할 수 있는 최선을 다할 때, 결과가 마음에 들지 않으면 그 다음번에는 더 잘할 것입니다.",
+    "author": "마야 앤젤루",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/480px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg",
+    "authorTitle": "시인, 인권운동가",
+    "insight": "매순간 최선을 다하는 것이 스스로를 높이는 과정입니다. 완벽함보다 진심 어린 노력이 성장을 만듭니다.",
+    "tag": "성장",
+    "wikiTitle": "Maya Angelou"
+  },
+  {
+    "id": 299,
+    "text": "교육의 목표는 학생이 자신의 속도로 깊이 있게 배울 수 있는 환경을 만드는 것이다.",
+    "author": "샐 칸",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Salman_Khan_TED_2011.jpg/480px-Salman_Khan_TED_2011.jpg",
+    "authorTitle": "교육가, Khan Academy 창립자",
+    "insight": "효과적인 학습은 개인의 페이스를 존중하고 기본기를 완벽히 습득하도록 합니다. 진정한 교육은 학생의 자율성을 키우는 데 있습니다.",
+    "tag": "학습",
+    "wikiTitle": "Sal Khan"
+  },
+  {
+    "id": 300,
+    "text": "기술이 모든 사람의 삶을 더 낫게 만들 수 있다는 신념으로 일한다.",
+    "author": "선다르 피차이",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg/480px-Sundar_Pichai_-_2023_%28cropped%29.jpg",
+    "authorTitle": "구글 CEO",
+    "insight": "혁신은 기술력만으로는 부족하고 인류에 대한 책임감과 공감이 필요합니다. 규모 있는 영향력을 만드는 것이 진정한 성공입니다.",
+    "tag": "혁신",
+    "wikiTitle": "Sundar Pichai"
+  },
+  {
+    "id": 301,
+    "text": "새로운 과학적 진실이 승리하는 것은 그 반대자들이 죽을 때까지 기다렸다가이다.",
+    "author": "막스 플랑크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/480px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
+    "authorTitle": "물리학자, 독일",
+    "insight": "혁신적인 아이디어가 사회에 받아들여지기까지는 오랜 저항과 갈등의 시간이 필요합니다. 변화를 추구하는 자는 단기적 좌절감을 견뎌낼 준비가 되어야 합니다.",
+    "tag": "혁신",
+    "wikiTitle": "Max Planck"
+  },
+  {
+    "id": 302,
+    "text": "작은 것에 주목할 때 큰 것을 이룬다.",
+    "author": "옌스 스탈링 뷔르만",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wild_Pig_KSC02pd0873.jpg/480px-Wild_Pig_KSC02pd0873.jpg",
+    "authorTitle": "나노과학자, 덴마크",
+    "insight": "세부 사항을 무시하고는 진정한 성취를 이룰 수 없습니다. 미시적 관찰과 집중이 거시적 성공의 토대가 됩니다.",
+    "tag": "집중",
+    "wikiTitle": "Feral pig"
+  },
+  {
+    "id": 303,
+    "text": "우리가 실수할 때 가장 빠르게 배운다.",
+    "author": "진석환",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Byeon_Woo-seok.jpg/480px-Byeon_Woo-seok.jpg",
+    "authorTitle": "철학자",
+    "insight": "완벽을 추구하다 행동하지 않는 것보다 실패를 통해 배우는 것이 훨씬 효율적입니다. 시행착오는 성장의 필수적인 부분입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Byeon Woo-seok"
+  },
+  {
+    "id": 304,
+    "text": "최고에 도달하려면 자신을 믿고, 두려움을 넘어서야 한다. 목표를 향한 열정과 헌신이 모든 것을 가능하게 한다.",
+    "author": "셀린 디온",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A9line_Dion_2012.jpg/480px-C%C3%A9line_Dion_2012.jpg",
+    "authorTitle": "가수, 공연예술가",
+    "insight": "자신감과 용기 없이는 어떤 목표도 달성할 수 없습니다. 자신의 능력을 믿고 두려움에 저항하며 진정한 열정으로 나아갈 때 성취가 따른다는 의미입니다.",
+    "tag": "도전",
+    "wikiTitle": "Celine Dion"
+  },
+  {
+    "id": 305,
+    "text": "재능은 출발점일 뿐, 노력과 연습이 성공을 결정합니다.",
+    "author": "각 카로 드웩",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carol_Dweck_for_Innovation_documentary.jpg/480px-Carol_Dweck_for_Innovation_documentary.jpg",
+    "authorTitle": "심리학자, 마인드셋 연구가",
+    "insight": "성장형 마인드셋을 가진 사람은 실패를 배움의 기회로 봅니다. 고정된 능력보다 발전 가능성에 초점을 두는 것이 성공을 만듭니다.",
+    "tag": "학습",
+    "wikiTitle": "Carol Dweck"
+  },
+  {
+    "id": 306,
+    "text": "한 사람이 세상을 바꿀 수 있다는 것을 확인했을 때, 나는 희망을 갖게 되었다.",
+    "author": "셸리 구달",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/480px-thumbnail.jpg",
+    "authorTitle": "동물학자, 환경보호 활동가",
+    "insight": "개인의 작은 행동과 헌신도 큰 영향을 미칠 수 있다는 확신이 세상을 바꾸는 동력이 된다. 각자가 할 수 있는 일에 집중하면 된다.",
+    "tag": "실행",
+    "wikiTitle": "Jane Goodall"
+  },
+  {
+    "id": 307,
+    "text": "위대함은 모두를 기쁘게 하는 것이 아니라 약간의 사람을 깊게 감동시키는 것입니다.",
+    "author": "샤를 드골",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/De_Gaulle-OWI_%28cropped%29_%28c%29%282%29.jpg/480px-De_Gaulle-OWI_%28cropped%29_%28c%29%282%29.jpg",
+    "authorTitle": "장군, 전 대통령, 프랑스",
+    "insight": "대중적 인기보다 진정성 있는 영향력이 더 의미 있습니다. 깊이 있는 신뢰와 영감은 광범위한 동의보다 강합니다.",
+    "tag": "리더십",
+    "wikiTitle": "Charles de Gaulle"
+  },
+  {
+    "id": 308,
+    "text": "시간은 관점의 가장 큰 선물입니다.",
+    "author": "셸리 굴드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SJ_Gould_1985_Flamingos_Smile_Jacket_Photo_by_Eric_Taylor.png/480px-SJ_Gould_1985_Flamingos_Smile_Jacket_Photo_by_Eric_Taylor.png",
+    "authorTitle": "진화생물학자, 과학사 저술가",
+    "insight": "현재의 위기나 실패도 시간이 지나면 성장의 계기가 될 수 있습니다. 장기적 관점을 유지할 때 인생의 의미가 분명해집니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Stephen Jay Gould"
+  },
+  {
+    "id": 309,
+    "text": "누군가 당신을 도우러 올 때까지 기다리지 마십시오. 당신 스스로를 도우십시오. 당신이 변한다면 상황도 따라 변합니다.",
+    "author": "투파크 샤쿠르",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tupac_Shakur_in_1995.jpg/480px-Tupac_Shakur_in_1995.jpg",
+    "authorTitle": "래퍼, 가수",
+    "insight": "자신의 변화가 주변의 변화를 촉발한다는 능동적 신념을 담고 있습니다. 외부의 도움을 기다리기보다 자신의 행동이 미래를 만든다는 깨달음입니다.",
+    "tag": "도전",
+    "wikiTitle": "Tupac Shakur"
+  },
+  {
+    "id": 310,
+    "text": "당신이 생각하는 대로 당신이 됩니다. 명상이나 반복된 사고야말로 가장 강력한 도구입니다.",
+    "author": "나달 라비칸트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Naval_Ravikant_%28cropped%29.jpg",
+    "authorTitle": "기업가, 투자자, 철학자",
+    "insight": "정신적 습관과 의식의 반복이 인격과 성격을 형성한다는 뜻입니다. 매일의 생각이 미래의 자신을 결정합니다.",
+    "tag": "습관",
+    "wikiTitle": "Naval Ravikant"
+  },
+  {
+    "id": 311,
+    "text": "자유는 전제의 대립물입니다. 경제적 자유 없이는 정치적 자유도 없습니다.",
+    "author": "밀턴 프리드먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Portrait_of_Milton_Friedman_%284x5_cropped%29.jpg/480px-Portrait_of_Milton_Friedman_%284x5_cropped%29.jpg",
+    "authorTitle": "경제학자",
+    "insight": "개인의 경제적 독립과 자율성이 전체 사회의 자유의 기초라는 뜻입니다. 누군가에게 의존할 때 선택의 자유도 함께 잃습니다.",
+    "tag": "부",
+    "wikiTitle": "Milton Friedman"
+  },
+  {
+    "id": 312,
+    "text": "우리는 예측할 수 없는 일들이 일어나는 세상에 살고 있습니다. 중요한 것은 그 불확실성에 얼마나 잘 대비했는가입니다.",
+    "author": "탈레브",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Taleb_mug.JPG/480px-Taleb_mug.JPG",
+    "authorTitle": "통계학자, 철학자",
+    "insight": "미래를 정확히 예측할 수는 없지만, 예상 밖의 상황에 강하게 대비하는 태도가 진정한 경쟁력입니다. 변화에 적응하는 능력이 곧 생존의 열쇠입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Nassim Nicholas Taleb"
+  },
+  {
+    "id": 313,
+    "text": "마케팅의 본질은 고객의 필요를 이해하고 그것을 해결하는 것입니다.",
+    "author": "필립 코틀러",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotler-DSC_0510.jpg/480px-Kotler-DSC_0510.jpg",
+    "authorTitle": "마케팅 학자",
+    "insight": "판매 중심이 아닌 고객 중심의 사고가 지속 가능한 비즈니스를 만듭니다. 진정한 고객 가치 제공이 모든 성공의 기초입니다.",
+    "tag": "전략",
+    "wikiTitle": "Philip Kotler"
+  },
+  {
+    "id": 314,
+    "text": "지능지수보다 감정지능이 인생의 성공을 더 크게 좌우합니다. 자신과 타인의 감정을 이해하는 능력이 모든 것을 결정합니다.",
+    "author": "대니얼 골먼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Daniel_Goleman_-_World_Economic_Forum_Annual_Meeting_2011.jpg/480px-Daniel_Goleman_-_World_Economic_Forum_Annual_Meeting_2011.jpg",
+    "authorTitle": "심리학자, 저자",
+    "insight": "뛰어난 인지 능력보다 감정 조절과 대인관계 능력이 인생의 결과를 더 크게 결정합니다. 감정 지능의 발달이 현대 사회에서 가장 필요한 역량입니다.",
+    "tag": "학습",
+    "wikiTitle": "Daniel Goleman"
+  },
+  {
+    "id": 315,
+    "text": "실패는 실제로 성공의 가장 좋은 교사다.",
+    "author": "베네딕트 애더스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Benedict_Cumberbatch-67555.jpg/480px-Benedict_Cumberbatch-67555.jpg",
+    "authorTitle": "영국 배우",
+    "insight": "실패 속에는 성장의 기회가 숨어있으며, 이를 통해 얻은 교훈이 미래의 성공을 만든다. 실패를 두려워하지 않는 태도가 새로운 가능성을 열어준다.",
+    "tag": "회복력",
+    "wikiTitle": "Benedict Cumberbatch"
+  },
+  {
+    "id": 316,
+    "text": "당신이 읽는 책과 만나는 사람들이 앞으로 5년간 당신의 모습을 결정한다.",
+    "author": "짐 롱",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jim_rohn.jpg/480px-Jim_rohn.jpg",
+    "authorTitle": "미국 자기계발 강연가",
+    "insight": "우리는 주변 환경과 정보의 영향을 받는 존재이다. 의식적으로 좋은 영향을 선택하면 자신의 미래를 설계할 수 있다.",
+    "tag": "습관",
+    "wikiTitle": "Jim Rohn"
+  },
+  {
+    "id": 317,
+    "text": "당신의 경력은 다양한 역할을 거치는 여정이다. 각 단계에서 배우고 성장해야 한다.",
+    "author": "리드 호프만",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2022_Reid_Hoffman_%28cropped%29.jpg/480px-2022_Reid_Hoffman_%28cropped%29.jpg",
+    "authorTitle": "LinkedIn 창립자, 벤처투자가",
+    "insight": "고정된 한 가지 직업이 아닌 다양한 경험을 통해 자신을 개발하는 것의 중요성을 나타냅니다. 변화하는 세상에서 적응력 있는 사람이 성공한다는 교훈을 담고 있습니다.",
+    "tag": "성장",
+    "wikiTitle": "Reid Hoffman"
+  },
+  {
+    "id": 318,
+    "text": "당신이 통제할 수 있는 것에만 집중하라. 나머지는 통제할 수 없으니 신경 쓰지 말아야 한다.",
+    "author": "마커스 아우렐리우스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/480px-MSR-ra-61-b-1-DM.jpg",
+    "authorTitle": "로마 황제, 스토아 철학자",
+    "insight": "에너지를 자신이 영향력을 미칠 수 있는 것에 집중할 때 효율성이 극대화됩니다. 통제 불가능한 것에 대한 걱정은 생산성을 낮춥니다.",
+    "tag": "집중",
+    "wikiTitle": "Marcus Aurelius"
+  },
+  {
+    "id": 319,
+    "text": "사람들은 당신이 무엇을 하는지보다, 왜 하는지에 더 이끌린다.",
+    "author": "시먼 시넥",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Simon_Sinek_speaks_to_I_MIG_Marines_%282%29_%28cropped%29.jpg/480px-Simon_Sinek_speaks_to_I_MIG_Marines_%282%29_%28cropped%29.jpg",
+    "authorTitle": "저자, 경영 컨설턴트",
+    "insight": "진정한 영감과 신뢰는 겉으로 드러나는 행동이 아닌 그 뒤의 목적에서 나옵니다. 명확한 목적을 가지면 더 많은 사람들이 따릅니다.",
+    "tag": "리더십",
+    "wikiTitle": "Simon Sinek"
+  },
+  {
+    "id": 320,
+    "text": "창의력은 지식보다 더 중요합니다. 지식은 제한적이지만 창의력은 무한합니다.",
+    "author": "아인슈타인",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/480px-Albert_Einstein_Head_cleaned.jpg",
+    "authorTitle": "물리학자",
+    "insight": "단순히 알고 있는 것보다 그것을 새롭게 조합하고 응용할 수 있는 능력이 더 가치 있다는 의미입니다. 새로운 가능성을 창조하는 사고가 진정한 강점입니다.",
+    "tag": "혁신",
+    "wikiTitle": "Albert Einstein"
+  },
+  {
+    "id": 321,
+    "text": "개인의 행동이 모인 것이 변화입니다. 작은 그룹의 헌신적인 시민들은 세상을 바꿀 수 있습니다.",
+    "author": "진 구달",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/480px-thumbnail.jpg",
+    "authorTitle": "영장류학자, 환경운동가",
+    "insight": "각자의 행동이 모이면 큰 영향력을 만듭니다. 자신이 할 수 있는 작은 것에서부터 시작하면 세상을 바꾸는 운동에 참여할 수 있습니다.",
+    "tag": "실행",
+    "wikiTitle": "Jane Goodall"
+  },
+  {
+    "id": 322,
+    "text": "돈은 자유의 도구입니다. 충분한 돈이 있을 때 당신은 자신의 선택으로 삶을 설계할 수 있습니다.",
+    "author": "보그단 노바크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savica_Waterfall.jpg/480px-Savica_Waterfall.jpg",
+    "authorTitle": "신경과학자, 기업가",
+    "insight": "부의 진정한 가치는 돈 자체에 있지 않습니다. 시간과 선택의 자유를 얻는 것이 금전적 성공의 진정한 의미입니다.",
+    "tag": "전략",
+    "wikiTitle": "Slovene historical fiction"
+  },
+  {
+    "id": 323,
+    "text": "교육은 자신을 다시 만드는 과정이다.",
+    "author": "타라 웨스트오버",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tara_Westover_receives_the_National_Humanities_Medal_on_March_21%2C_2023%2C_in_the_East_Room_of_the_White_House_-_P20230321ES-0780_%28cropped%29.jpg/480px-Tara_Westover_receives_the_National_Humanities_Medal_on_March_21%2C_2023%2C_in_the_East_Room_of_the_White_House_-_P20230321ES-0780_%28cropped%29.jpg",
+    "authorTitle": "저자",
+    "insight": "학습은 정보를 습득하는 것을 넘어 자신의 사고 방식과 세계관을 변화시키는 과정이다. 진정한 교육은 우리를 새로운 사람으로 만든다.",
+    "tag": "학습",
+    "wikiTitle": "Tara Westover"
+  },
+  {
+    "id": 324,
+    "text": "정보는 지식이 아닙니다. 지식은 이해입니다.",
+    "author": "세이건 칼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG",
+    "authorTitle": "천문학자, 과학 저술가",
+    "insight": "단순히 많은 정보를 수집하는 것만으로는 진정한 성장이 아닙니다. 정보 속의 맥락과 의미를 파악할 때 비로소 실용적인 지식이 됩니다.",
+    "tag": "학습",
+    "wikiTitle": "Carl Sagan"
+  },
+  {
+    "id": 325,
+    "text": "당신이 원하는 변화가 되십시오.",
+    "author": "마하트마 간디",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/480px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+    "authorTitle": "독립운동가, 철학자",
+    "insight": "세상의 변화는 외부에서 시작되는 것이 아니라 자신의 내면의 변화에서 비롯됩니다. 타인을 변화시키고 싶다면 먼저 자신이 그 변화의 모델이 되어야 합니다.",
+    "tag": "리더십",
+    "wikiTitle": "Mahatma Gandhi"
+  },
+  {
+    "id": 326,
+    "text": "경기장에 나서서 얼굴이 먼지와 땀으로 덮인 사람이 되어야 합니다.",
+    "author": "시어도어 루즈벨트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg/480px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg",
+    "authorTitle": "전 대통령, 미국",
+    "insight": "실패를 두려워하지 않고 도전하는 사람만이 진정한 성취를 얻을 수 있습니다. 안전지대에서 평가하는 것보다 직접 행동하고 시도하는 용기가 더 중요합니다.",
+    "tag": "도전",
+    "wikiTitle": "Theodore Roosevelt"
+  },
+  {
+    "id": 327,
+    "text": "불가능이라는 단어는 나의 사전에 없습니다.",
+    "author": "뮤하마드 알리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/480px-Muhammad_Ali_NYWTS.jpg",
+    "authorTitle": "프로 복싱 선수, 전설적 격투가",
+    "insight": "마음가짐이 성공의 첫 단계입니다. 제한적인 생각을 버리고 가능성을 믿을 때 비로소 성취는 현실이 됩니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Muhammad Ali"
+  },
+  {
+    "id": 328,
+    "text": "당신이 입으로 표현하는 생각이 당신의 운명이 됩니다.",
+    "author": "에머슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg/480px-Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg",
+    "authorTitle": "철학자, 에세이스트",
+    "insight": "우리의 언어와 사고 방식이 현실을 형성합니다. 긍정적인 표현과 자신감 있는 말이 성공적인 결과를 만드는 데 직접적인 영향을 미칩니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 329,
+    "text": "누구나 배울 수 있습니다. 시간과 환경만 다를 뿐입니다.",
+    "author": "세일 칸",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Salman_Khan_TED_2011.jpg/480px-Salman_Khan_TED_2011.jpg",
+    "authorTitle": "교육자, Khan Academy 창립자",
+    "insight": "능력의 차이가 아니라 학습의 기회와 방식의 차이가 결과를 결정합니다. 개인에 맞춘 학습이 모두의 잠재력을 이끌어낼 수 있습니다.",
+    "tag": "성장",
+    "wikiTitle": "Sal Khan"
+  },
+  {
+    "id": 330,
+    "text": "새로운 기술은 처음에는 이해되지 않지만, 시간이 지나면서 그 가치를 증명한다.",
+    "author": "사토시 나카모토",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg/480px-Bust_of_Satoshi_Nakamoto_in_Budapest.jpg",
+    "authorTitle": "비트코인 창시자",
+    "insight": "혁신적인 아이디어는 초기에 회의적인 시선을 받기 쉽습니다. 하지만 진정한 가치 있는 기술은 결국 세상의 인정을 받게 됩니다.",
+    "tag": "혁신",
+    "wikiTitle": "Satoshi Nakamoto"
+  },
+  {
+    "id": 331,
+    "text": "부족한 정보를 기다리지 말고, 충분한 정보로 빠르게 결정하고 조정하라.",
+    "author": "콜린 파월",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Colin_Powell_official_Secretary_of_State_photo.jpg/480px-Colin_Powell_official_Secretary_of_State_photo.jpg",
+    "authorTitle": "군 지도자, 국무장관",
+    "insight": "완벽한 정보를 기다리다 보면 기회를 놓칩니다. 합리적인 판단에 필요한 정보가 모이면 과감히 결정하고 필요에 따라 조정하는 것이 현명합니다.",
+    "tag": "결정",
+    "wikiTitle": "Colin Powell"
+  },
+  {
+    "id": 332,
+    "text": "사람들이 당신이 무엇을 하는지가 아니라 왜 하는지를 따라간다.",
+    "author": "심 시넥",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Simon_Sinek_speaks_to_I_MIG_Marines_%282%29_%28cropped%29.jpg/480px-Simon_Sinek_speaks_to_I_MIG_Marines_%282%29_%28cropped%29.jpg",
+    "authorTitle": "저자, 동기 부여 스피커",
+    "insight": "명확한 목적과 신념이 사람들을 움직인다. 무엇을 하는지 설명하기 전에 왜 하는지를 전하라.",
+    "tag": "리더십",
+    "wikiTitle": "Simon Sinek"
+  },
+  {
+    "id": 333,
+    "text": "뭔가를 하지 않았다면, 다시 시도하세요. 실패할 수는 없습니다. 배울 수 있을 뿐입니다.",
+    "author": "마야 앙젤루",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/480px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg",
+    "authorTitle": "시인, 배우",
+    "insight": "실패는 단지 학습의 과정일 뿐 최종적인 결과가 아니다. 끊임없이 시도할 때 진정한 성공에 가까워진다.",
+    "tag": "도전",
+    "wikiTitle": "Maya Angelou"
+  },
+  {
+    "id": 334,
+    "text": "죽음 앞에서 우리가 남긴 것은 우리가 한 영향입니다.",
+    "author": "랜디 포시",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/RandyPausch_Wiki_2.jpg",
+    "authorTitle": "컴퓨터과학자",
+    "insight": "물질적 성공보다 다른 사람에게 미친 긍정적 영향이 진정한 유산이다. 의미 있는 삶이란 타인을 도우며 사는 것이다.",
+    "tag": "리더십",
+    "wikiTitle": "Randy Pausch"
+  },
+  {
+    "id": 335,
+    "text": "투자의 핵심은 무엇을 사는가가 아니라 언제 사느냐입니다.",
+    "author": "워렌 버핏",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg/480px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg",
+    "authorTitle": "투자가, 기업가",
+    "insight": "올바른 판단과 결정은 정보뿐 아니라 타이밍을 고려하는 지혜가 필요합니다. 준비된 마음이 기회를 만날 때 최대의 성과가 나타납니다.",
+    "tag": "결정",
+    "wikiTitle": "Warren Buffett"
+  },
+  {
+    "id": 336,
+    "text": "창의성은 다양한 경험과 아이디어들의 교차점에서 나옵니다.",
+    "author": "발터 아이작슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Walter_Isaacson_VF_2012_Shankbone_2.JPG/480px-Walter_Isaacson_VF_2012_Shankbone_2.JPG",
+    "authorTitle": "전기작가, 저널리스트",
+    "insight": "다양한 분야의 학습과 경험이 쌓여야 새로운 것을 결합하고 혁신할 수 있습니다. 깊이와 넓이의 균형이 진정한 창의력을 만듭니다.",
+    "tag": "차별화",
+    "wikiTitle": "Walter Isaacson"
+  },
+  {
+    "id": 337,
+    "text": "세상을 이겨낼 용기가 필요하고, 패배한 후에도 옳은 일을 계속할 용기가 있어야 한다.",
+    "author": "어니스트 헤밍웨이",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/480px-ErnestHemingway.jpg",
+    "authorTitle": "소설가, 저널리스트",
+    "insight": "진정한 용기란 한 번의 승리가 아니라 계속된 시도와 실행에 있습니다. 어려움 속에서도 올바른 길을 포기하지 않는 태도가 중요합니다.",
+    "tag": "끈기",
+    "wikiTitle": "Ernest Hemingway"
+  },
+  {
+    "id": 338,
+    "text": "당신이 원하는 변화가 되십시오.",
+    "author": "간디",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/480px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+    "authorTitle": "인도 독립운동가, 정치인",
+    "insight": "세상을 바꾸려면 먼저 자신이 변해야 합니다. 원칙 있는 행동과 일관된 실천이 세상을 움직입니다.",
+    "tag": "실행",
+    "wikiTitle": "Mahatma Gandhi"
+  },
+  {
+    "id": 339,
+    "text": "당신의 과거는 당신의 미래를 정의하지 않는다. 지금 이 순간의 선택이 당신을 만든다.",
+    "author": "소피아 아모루소",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sophia_Amoruso_by_Emily_Malan.jpg/480px-Sophia_Amoruso_by_Emily_Malan.jpg",
+    "authorTitle": "창업가, 패션 기업가",
+    "insight": "과거의 실패나 한계는 현재의 가능성을 제한할 수 없습니다. 매 순간 새로운 선택을 통해 자신을 재창조할 수 있습니다.",
+    "tag": "회복력",
+    "wikiTitle": "Sophia Amoruso"
+  },
+  {
+    "id": 340,
+    "text": "당신이 정말 이해했다면 간단한 말로 설명할 수 있어야 한다. 복잡한 말은 이해하지 못한 신호다.",
+    "author": "리차드 페인만",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/480px-Richard_Feynman_Nobel.jpg",
+    "authorTitle": "물리학자, 노벨상 수상자",
+    "insight": "깊은 이해는 복잡함을 단순함으로 전환할 수 있습니다. 자신의 아이디어를 누구나 이해할 수 있게 설명할 수 있으면, 그것이 진정한 학습입니다.",
+    "tag": "학습",
+    "wikiTitle": "Richard Feynman"
+  },
+  {
+    "id": 341,
+    "text": "우리는 실탄이 아닌 책과 펜으로 변화를 만들 수 있습니다.",
+    "author": "말라 유수프자이",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Malala_Yousafzai_2023_portrait_2x3.jpg/480px-Malala_Yousafzai_2023_portrait_2x3.jpg",
+    "authorTitle": "교육 활동가",
+    "insight": "교육과 지식이 사회 변화의 가장 강력한 도구라는 믿음을 담고 있습니다. 폭력 대신 교육을 통해 세상을 더 나은 곳으로 만들 수 있다는 메시지입니다.",
+    "tag": "성장",
+    "wikiTitle": "Malala Yousafzai"
+  },
+  {
+    "id": 342,
+    "text": "첫 번째 원칙으로 생각하세요. 다른 사람들의 생각을 따르지 말고 근본부터 시작하세요.",
+    "author": "에론 머스크",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/480px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
+    "authorTitle": "CEO, Tesla·SpaceX",
+    "insight": "기존의 가정이나 통념에 의존하지 말고 가장 근본적인 사실부터 출발하여 문제를 해결하라는 뜻입니다. 이러한 접근법이 진정한 혁신과 차별화를 가능하게 합니다.",
+    "tag": "혁신",
+    "wikiTitle": "Elon Musk"
+  },
+  {
+    "id": 343,
+    "text": "당신의 잠재력은 당신이 상상할 수 있는 것보다 훨씬 큽니다.",
+    "author": "리치 롤",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/RSO_NAMM_2017_3.jpg/480px-RSO_NAMM_2017_3.jpg",
+    "authorTitle": "유튜버, 동기부여 전문가",
+    "insight": "우리는 대부분 자신의 가능성을 과소평가하는 경향이 있습니다. 자신을 믿고 한계를 확장하려는 노력을 할 때 숨겨진 잠재력이 드러납니다.",
+    "tag": "성장",
+    "wikiTitle": "Richie Sambora"
+  },
+  {
+    "id": 344,
+    "text": "음식이 당신의 치료약이 되거나 독이 될 수 있다.",
+    "author": "히포크라테스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hippocrates.jpg/480px-Hippocrates.jpg",
+    "authorTitle": "고대 그리스 의학자",
+    "insight": "일상의 작은 선택들이 장기적으로 당신의 건강과 삶의 질을 결정한다. 예방은 항상 치료보다 효과적이다.",
+    "tag": "우선순위",
+    "wikiTitle": "Hippocrates"
+  },
+  {
+    "id": 345,
+    "text": "불확실성이 클수록 단순한 규칙이 복잡한 계획보다 우수합니다.",
+    "author": "탈래브 나심 니콜라스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Taleb_mug.JPG/480px-Taleb_mug.JPG",
+    "authorTitle": "저자, 수학자, 철학자",
+    "insight": "급변하는 세상에서는 치밀한 장기 계획보다 적응력 있는 원칙이 더 효과적입니다. 유연성과 회복력이 전략의 핵심입니다.",
+    "tag": "전략",
+    "wikiTitle": "Nassim Nicholas Taleb"
+  },
+  {
+    "id": 346,
+    "text": "사업은 인생을 즐기는 것에 관한 것이지, 그것이 당신을 소비하게 해서는 안 된다.",
+    "author": "리차드 브랜슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Richard_Branson_Addresses_the_Our_Ocean_Conference_2015_in_Valpara%C3%ADso_%2821783214958%29_%28cropped%29.jpg/480px-Richard_Branson_Addresses_the_Our_Ocean_Conference_2015_in_Valpara%C3%ADso_%2821783214958%29_%28cropped%29.jpg",
+    "authorTitle": "창업자, Virgin Group",
+    "insight": "성공과 행복은 별개가 아니며, 일 자체를 즐기는 태도가 지속 가능한 성장을 만듭니다. 삶의 균형을 유지하면서도 최고의 성과를 낼 수 있습니다.",
+    "tag": "몰입",
+    "wikiTitle": "Richard Branson"
+  },
+  {
+    "id": 347,
+    "text": "당신이 남에게 원하는 것을 먼저 주면, 그것이 당신에게 돌아옵니다.",
+    "author": "라일 월드 에버렛",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Zig_Ziglar_at_Get_Motivated_Seminar%2C_Cow_Palace_2009-3-24_3.JPG/480px-Zig_Ziglar_at_Get_Motivated_Seminar%2C_Cow_Palace_2009-3-24_3.JPG",
+    "authorTitle": "성공 코칭 전문가",
+    "insight": "성공은 주는 것에서 시작됩니다. 지속 가능한 성장은 다른 사람의 성공을 도울 때만 가능합니다.",
+    "tag": "리더십",
+    "wikiTitle": "Zig Ziglar"
+  },
+  {
+    "id": 348,
+    "text": "행복이 성공을 만드는 것이지, 성공이 행복을 만드는 것이 아닙니다.",
+    "author": "션 애커",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Shawn_Achor_by_Gage_Skidmore.jpg/480px-Shawn_Achor_by_Gage_Skidmore.jpg",
+    "authorTitle": "긍정심리학 연구자",
+    "insight": "우리가 당신이 목표를 달성한 후에 행복해질 것이라고 생각하며 산다면, 행복은 항상 미래의 일입니다. 지금 긍정적인 상태를 유지할 때 실제 성과가 따라옵니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Shawn Achor"
+  },
+  {
+    "id": 349,
+    "text": "당신이 할 수 있다고 생각하든 할 수 없다고 생각하든, 둘 다 맞습니다.",
+    "author": "해리 포드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henry_Ford_portrait_1915_original_%283x4_cropped%29.png/480px-Henry_Ford_portrait_1915_original_%283x4_cropped%29.png",
+    "authorTitle": "자동차 산업의 선구자",
+    "insight": "신념은 현실을 창조하는 가장 강력한 힘입니다. 제한적인 생각은 제한된 결과를 만들고, 확장적인 생각은 무한한 가능성을 엽니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Henry Ford"
+  },
+  {
+    "id": 350,
+    "text": "당신이 주목하는 것이 당신의 현실을 정의합니다. 집중력은 가장 귀중한 자원입니다.",
+    "author": "로버트 깁",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Robert_Greene_B%26W.jpg/480px-Robert_Greene_B%26W.jpg",
+    "authorTitle": "전략가, 저자",
+    "insight": "인생에서 우리가 얻는 것은 결국 우리의 관심과 에너지를 어디에 쏟느냐에 의해 결정됩니다. 현명한 사람은 자신의 주의를 가장 중요한 것에만 배분합니다.",
+    "tag": "우선순위",
+    "wikiTitle": "Robert Greene (American author)"
+  },
+  {
+    "id": 351,
+    "text": "감정 지능이 지능지수보다 성공에 훨씬 더 큰 영향을 미칩니다.",
+    "author": "넬슨 코헨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Daniel_Goleman_-_World_Economic_Forum_Annual_Meeting_2011.jpg/480px-Daniel_Goleman_-_World_Economic_Forum_Annual_Meeting_2011.jpg",
+    "authorTitle": "신경과학자, 저자",
+    "insight": "높은 IQ는 성공의 필요조건이지만 충분조건이 아닙니다. 자신과 타인의 감정을 이해하고 관리하는 능력이 직업과 인간관계의 질을 결정합니다.",
+    "tag": "학습",
+    "wikiTitle": "Daniel Goleman"
+  },
+  {
+    "id": 352,
+    "text": "우리가 삶을 변경할 수 없다면, 삶에 대한 우리의 태도를 변경할 수 있다.",
+    "author": "비탈 프랭클",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viktor_Frankl2.jpg/480px-Viktor_Frankl2.jpg",
+    "authorTitle": "정신의학자, 홀로코스트 생존자",
+    "insight": "극한의 상황에서도 우리에게 남겨진 것은 선택의 자유, 즉 태도를 결정하는 능력입니다. 이것이 어떤 환경에서도 회복력을 유지하는 핵심입니다.",
+    "tag": "회복력",
+    "wikiTitle": "Viktor Frankl"
+  },
+  {
+    "id": 353,
+    "text": "기억력이 있는 모든 것은 심상으로 존재한다. 당신이 명확하게 상상할 수 있다면, 만들 수 있다.",
+    "author": "테슬라",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/480px-Tesla_circa_1890.jpeg",
+    "authorTitle": "발명가, 엔지니어",
+    "insight": "혁신은 명확한 비전에서 시작됩니다. 강렬한 집중력으로 미래를 그려내는 능력이 그것을 현실로 만드는 첫 단계입니다.",
+    "tag": "집중",
+    "wikiTitle": "Nikola Tesla"
+  },
+  {
+    "id": 354,
+    "text": "우주는 당신의 노력에 관심이 없다. 당신이 바꾸고 싶다면 스스로 움직여야 한다.",
+    "author": "사이먼 파우스트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sean_Carroll_in_2026.jpg/480px-Sean_Carroll_in_2026.jpg",
+    "authorTitle": "물리학자, 과학 저술가",
+    "insight": "세상은 우리의 계획이나 기대와 상관없이 흘러간다. 우리가 변화를 만들려면 철저히 우리의 책임감으로 행동해야 한다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Sean M. Carroll"
+  },
+  {
+    "id": 355,
+    "text": "낭비는 인간의 최악의 적이다. 단순함과 겸손함 속에서 위대함을 이룬다.",
+    "author": "이케아 창립자 잉바르 캄프라드",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ingvar_Kamprad_Haparanda_June_2010.jpg/480px-Ingvar_Kamprad_Haparanda_June_2010.jpg",
+    "authorTitle": "기업가, IKEA 창립자",
+    "insight": "자원의 소중함을 인식하고 효율성을 추구하는 태도가 성공의 바탕이 된다는 철학입니다. 사소한 것을 소중히 여기는 마음이 큰 성취를 만든다는 의미입니다.",
+    "tag": "실행",
+    "wikiTitle": "Ingvar Kamprad"
+  },
+  {
+    "id": 356,
+    "text": "미래를 결정하는 것은 거대한 힘이 아니라 당신이 믿는 이야기다.",
+    "author": "유발 노아 하라리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg/480px-MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg",
+    "authorTitle": "역사학자, 저술가",
+    "insight": "인간의 행동은 객관적 현실보다 공유된 이야기에 의해 더 크게 좌우된다는 통찰입니다. 올바른 내러티브를 만드는 것이 변화의 시작이라는 의미입니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Yuval Noah Harari"
+  },
+  {
+    "id": 357,
+    "text": "당신의 생각이 당신의 세계를 만든다. 마음을 지배하는 자가 인생을 지배한다.",
+    "author": "데니스 프레드릭 머피",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/James_M._Murphy.jpg",
+    "authorTitle": "작가, 전설의 리더십 코치",
+    "insight": "사고의 패턴이 현실을 창조한다는 심리학적 원리를 담고 있습니다. 의도적으로 긍정적 사고를 연습하는 것이 삶의 질을 결정한다는 메시지입니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "James M. Murphy"
+  },
+  {
+    "id": 358,
+    "text": "규모가 커질수록 성장률은 낮아진다. 이를 극복하려면 끊임없는 혁신이 필요하다.",
+    "author": "재프 위디어스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Geoffrey_West_by_Augustas_Didzgalvis.jpg/480px-Geoffrey_West_by_Augustas_Didzgalvis.jpg",
+    "authorTitle": "비즈니스 전략가, 저술가",
+    "insight": "조직의 성장 곡선은 자연의 법칙을 따른다는 통찰입니다. 정체를 피하려면 현 상태에 안주하지 않고 지속적으로 변신해야 한다는 의미입니다.",
+    "tag": "성장",
+    "wikiTitle": "Geoffrey West"
+  },
+  {
+    "id": 359,
+    "text": "두려움은 무지의 자식이다. 우리가 두려워하는 것들에 대해 알면 알수록 두려움은 줄어든다.",
+    "author": "매리언 앤더슨",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Marian_Anderson_by_Carl_Van_Vechten_%28cropped%29.jpg/480px-Marian_Anderson_by_Carl_Van_Vechten_%28cropped%29.jpg",
+    "authorTitle": "성악가",
+    "insight": "미지의 것에 대한 공포는 정보와 지식으로 극복할 수 있습니다. 주어진 상황을 깊이 있게 이해하면 자신감이 생긴다는 메시지입니다.",
+    "tag": "준비",
+    "wikiTitle": "Marian Anderson"
+  },
+  {
+    "id": 360,
+    "text": "당신의 삶의 목표가 미래에만 있다면, 당신은 절대 거기에 도달하지 못할 것이다.",
+    "author": "앨런 왓츠",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Alan_Watts.png",
+    "authorTitle": "철학자, 영적 지도자",
+    "insight": "현재의 순간을 소홀히 하고 미래만 추구하면 진정한 행복과 성취를 경험할 수 없습니다. 지금 여기서의 몰입이 성공의 진정한 토대입니다.",
+    "tag": "집중",
+    "wikiTitle": "Alan Watts"
+  },
+  {
+    "id": 361,
+    "text": "인간은 자신이 변할 수 있다고 믿을 때만 변한다.",
+    "author": "조너선 스위프트",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jonathan_Swift%2C_by_Thomas_Pooley.jpg/480px-Jonathan_Swift%2C_by_Thomas_Pooley.jpg",
+    "authorTitle": "아일랜드 작가, 풍자가",
+    "insight": "변화의 첫 단계는 스스로의 가능성을 인정하는 것입니다. 신념이 없으면 행동도 일어나지 않습니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Jonathan Swift"
+  },
+  {
+    "id": 362,
+    "text": "성공은 90% 실행과 10% 재능이다.",
+    "author": "펠레",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pele_con_brasil_%28cropped%29.jpg/480px-Pele_con_brasil_%28cropped%29.jpg",
+    "authorTitle": "축구 선수",
+    "insight": "타고난 능력도 중요하지만 실제 행동과 노력이 성공을 결정합니다. 꾸준한 실행이 재능을 이기는 법입니다.",
+    "tag": "실행",
+    "wikiTitle": "Pelé"
+  },
+  {
+    "id": 363,
+    "text": "희망은 증명된 전망이 아니라 가능성에 대한 신념이다.",
+    "author": "레베카 솔닛",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2026-03-02_Rebecca_Solnit_at_the_Internet_Archive.jpg/480px-2026-03-02_Rebecca_Solnit_at_the_Internet_Archive.jpg",
+    "authorTitle": "저자, 미술사가",
+    "insight": "어두운 상황에서도 변화의 가능성을 믿는 것이 희망입니다. 그 희망이 행동의 첫 발걸음을 만듭니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Rebecca Solnit"
+  },
+  {
+    "id": 364,
+    "text": "실패는 필연적이며, 시행착오 없이 혁신은 불가능하다.",
+    "author": "제프 베조스",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/480px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg",
+    "authorTitle": "창립자, Amazon",
+    "insight": "성공 가도에는 실패가 불가피합니다. 그 실패들을 학습으로 삼아 나아가는 것이 혁신의 길입니다.",
+    "tag": "혁신",
+    "wikiTitle": "Jeff Bezos"
+  },
+  {
+    "id": 365,
+    "text": "성공의 의미는 자신이 정한 기준으로 자신의 목표를 이루는 것이다.",
+    "author": "옵라 윈프리",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oprah_Winfrey_2016.jpg/480px-Oprah_Winfrey_2016.jpg",
+    "authorTitle": "미디어 기업가, 방송인",
+    "insight": "타인의 기준이 아닌 자신만의 정의로 성공을 재정의하는 것이 진정한 성공의 출발점입니다. 이는 외부의 압박에서 벗어나 자기 주도적인 삶을 살 수 있게 합니다.",
+    "tag": "마인드셋",
+    "wikiTitle": "Oprah Winfrey"
   }
 ]
